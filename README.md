@@ -9,7 +9,7 @@
 
 ## 🧲 Tvbox/Pluto Player
 
-- https://gateway.ipfs.io/ipfs/QmPLYbgBkZFjJpffJ3kPAjHHPhq5p6Lq7fCHsXBhPBpWCj?filename=pluto_v1.5.2.apk
+- http://122.225.207.101:8080/ipfs/QmZGgfkFaAkCF6HM2uVJggRRThxYj9jsF7xWCeZjXNeHYo?filename=pluto_v1.6.4.apk
 
 ![images](./res/tvbox.PNG)
 
