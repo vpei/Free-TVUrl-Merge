@@ -25,7 +25,7 @@ except:
     menu = 'init'
 print('menu: ' + menu)
 
-# ustat = NetFile.url_stat('https://jx.aidouer.net/?url=', 60, 60)
+# ustat = NetFile.url_stat('https://video.xuanqi.pro/api.php/provide/vod/', 60, 60)
 # menu = 'update'
 # menu = 'upexpire'
 # menu = 'uptvbox'
@@ -502,8 +502,8 @@ if(menu == 'uptvbox'):
             if(oneparse.find('"name":"') > -1 and oneparse.find('"url":"') > -1):
                 onep = json.loads(oneparse)
                 if(r_parses.find(onep['url']) == -1 and r_parses_err.find(onep['url']) == -1):
-                    ustat = NetFile.url_stat(onep['url'], 10, 10)
-                    if(ustat == 404):
+                    ustat = NetFile.url_stat(onep['url'], 60, 60)
+                    if(ustat == 404 or ustat == 0):
                         r_parses_err += '\r\n' + str(ustat) + ':' + oneparse + ','
                     else:
                         r_parses += '\r\n' + oneparse + ','
@@ -565,8 +565,8 @@ if(menu == 'check'):
                     if(ii.find('"jar":"') > -1):
                         jar = tv['jar']
                         if(jar.find('http') == 0):
-                            ustat = NetFile.url_stat(jar, 10, 10)
-                            if(ustat == 404):
+                            ustat = NetFile.url_stat(jar, 60, 60)
+                            if(ustat == 404 or ustat == 0):
                                 ii = ii.replace(',"jar":"' + jar + '"', '')
                     # 自定义电影网站名称
                     if(ii.find('"name"') > -1 and ii.find('"key"') > -1 ):
@@ -589,8 +589,8 @@ if(menu == 'check'):
                             continue
                         else:
                             if(api.find('http') == 0):
-                                ustat = NetFile.url_stat(api, 10, 10)
-                                if(ustat == 404):
+                                ustat = NetFile.url_stat(api, 60, 60)
+                                if(ustat == 404 or ustat == 0):
                                     r_sites_err += '\r\n' + str(ustat) + ':' + ii + ','
                                     continue
                     elif(id == 3):
@@ -600,8 +600,8 @@ if(menu == 'check'):
                                 continue
                             else:
                                 if(ext.find('http') == 0):
-                                    ustat = NetFile.url_stat(ext, 10, 10)
-                                    if(ustat == 404):
+                                    ustat = NetFile.url_stat(ext, 60, 60)
+                                    if(ustat == 404 or ustat == 0):
                                         r_sites_err += '\r\n' + str(ustat) + ':' + ii + ','
                                         continue
                     else:

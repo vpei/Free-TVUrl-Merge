@@ -687,8 +687,6 @@
 {"key":"奈飞云","name":"奈飞云(优)","type":1,"api":"http://45.125.46.41:4433/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"奇粹影视","name":"奇粹影视(优)","type":1,"api":"http://www.blssv.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"一拳动漫","name":"一拳动漫(优)","type":1,"api":"http://47.97.68.224/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"人人资源","name":"人人资源(优)","type":1,"api":"http://www.rrzyw.cc/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"初恋云影视","name":"初恋云影视(聚)","type":1,"api":"https://video.xuanqi.pro/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"VV影视","name":"VV影视(聚)","type":1,"api":"https://vvdy.org/api.php/provide/vod/","playUrl":"https://vvdy.org/dm/?url=","searchable":0,"quickSearch":0},
 {"key":"酷猫影视","name":"酷猫影视(聚)","type":1,"api":"https://www.pgcms10.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"嘛哩嘛哩","name":"嘛哩嘛哩(聚)","type":1,"api":"https://malimali3.com/api.php/provide/vod/","searchable":0,"quickSearch":0},

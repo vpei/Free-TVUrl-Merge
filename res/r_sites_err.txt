@@ -223,3 +223,5 @@
 {"key":"è…¾è®¯","name":"ğŸ�§è…¾è®¯â”ƒå®˜ç½‘","type":4,"api":"http://home.jundie.top:666/psp/qq.php?key=signTest","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"ä¼˜é…·","name":"ğŸ‘‘ä¼˜é…·â”ƒå®˜ç½‘","type":4,"api":"http://home.jundie.top:666/psp/youku.php?key=signTest","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"é‡‘é¹°èµ„æº�","name":"ï½œé‡‘é¹°èµ„æº�ï½œ","type":1,"api":"https://jyzyapi.com/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"人人资源","name":"人人资源(优)","type":1,"api":"http://www.rrzyw.cc/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"初恋云影视","name":"初恋云影视(聚)","type":1,"api":"https://video.xuanqi.pro/api.php/provide/vod/","searchable":0,"quickSearch":0},
