@@ -1,5 +1,5 @@
 {
-//Update:2022-10-24 18:17:27.672480
+//Update:2022-10-24 18:57:57.933079
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -410,8 +410,7 @@
 {"name":"Webè�šå�ˆ","type":3,"url":"Web"},
 {"name":"Json9","type":1,"url":"http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url=","ext":{"flag":["qq","è…¾è®¯","letv","ä¹�è§†","mgtv","èŠ’æ�œ","youku","ä¼˜é…·","qiyi","iqiyi","çˆ±å¥‡è‰º","å¥‡è‰º"]}},
 {"name":"Web7","type":0,"url":"http://42.193.18.62:9999/analysis.php?v=","ext":{"flag":["imgo","qq","è…¾è®¯","qiyi","çˆ±å¥‡è‰º","å¥‡è‰º","youku","ä¼˜é…·","mgtv","èŠ’æ�œ","letv","ä¹�è§†","pptv","PPTV","sohu","bilibili","å“”å“©å“”å“©","å“”å“©"]}},
-{"name":"Json8","type":1,"url":"http://119.91.206.244:9999/jx/hfys.php?url=","ext":{"flag":["imgo","duoduozy","renrenmi","ltnb","miaoparty","miaoparty2","miaoparty3","laodiyun","laodim3u8","lekanzyw","rx","CL4K","fuckapp","1080P","wuduzy"]}},
-{"name":"刚刚","url":"https://drpy.owen10086.repl.co/parse/api/刚刚.js?url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}}
+{"name":"Json8","type":1,"url":"http://119.91.206.244:9999/jx/hfys.php?url=","ext":{"flag":["imgo","duoduozy","renrenmi","ltnb","miaoparty","miaoparty2","miaoparty3","laodiyun","laodim3u8","lekanzyw","rx","CL4K","fuckapp","1080P","wuduzy"]}}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],
