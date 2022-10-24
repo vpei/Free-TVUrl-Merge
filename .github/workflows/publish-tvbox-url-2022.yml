@@ -1,0 +1,148 @@
+# github.com/vpei/Free-Node-Merge
+# Description: Automatically Build SSR for OpenWrt
+# Cron: min (0 - 59) / hour (0 - 23) / day of month (1 - 31) / month (1 - 12) / day of week (0 - 6)(Sunday - Saturday)
+# Source code repository: https://github.com/openwrt/openwrt / Branch: master
+#========================================================================================================================
+
+name: Publish-TvBox-Url-Live-2022
+
+# Controls when the action will run. 
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+env:
+  DELETE_RELEASE: true
+  DELETE_ARTIFACTS: true
+  KEEP_DAY: 1
+  KEEP_MININUM_RUNS: 10
+  KEEP_MININUM_RELEASE: 10
+
+jobs:
+  Build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Set System Timezone'
+        run: 
+          sudo timedatectl set-timezone Asia/Shanghai
+
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: 'Set up Python'
+        uses: actions/setup-python@v1
+        with:
+           python-version: 3.7
+
+      - name: 'Install requirements'
+        run: |
+          #pip install requests
+          #python -m pip install -U wheel
+          #pip install qqwry-py3
+          sudo -E apt-get -qq update
+          sudo -E apt-get -qq install inetutils-ping
+          pip install -r ./res/requirements.txt
+
+      - name: 'Update expires Url'
+        id: upexpire
+        env:
+          #RESURL = 'https://cf-ipfs.com/ipns/k2k4r8n10q07nqe02zysssxw1b9qboab0dd3ooljd32i9ro3edry6hv6/'
+          RESURL: ${{ secrets.RESURL }}
+        run: |
+          python main.py upexpire
+          echo "::set-output name=status::success"
+
+      - name: 'Update tvurl from listurl'
+        id: uptvbox
+        env:
+          RESURL: ${{ secrets.RESURL }}
+        if: steps.upexpire.outputs.status == 'success' && !cancelled()
+        run: |
+          python main.py uptvbox
+          echo "::set-output name=status::success"
+
+      - name: 'Merge tvurl'
+        id: checkurl
+        env:
+          RESURL: ${{ secrets.RESURL }}
+        if: steps.uptvbox.outputs.status == 'success' && !cancelled()
+        run: |
+          python main.py check
+          echo "::set-output name=status::success"
+
+      - name: 'Compare new file with old file MD5'
+        id: diff
+        run: |
+          file1=./out/all
+          file2=./res/all
+          #dataline1=$(< $file1)
+          dataline1=$(md5sum $file1|cut -d ' ' -f1)
+          echo $dataline1
+          #dataline2=$(< $file2)
+          dataline2=$(md5sum $file2|cut -d ' ' -f1)
+          echo $dataline2
+          if [ "$dataline1" == "$dataline2" ];then
+            rm $file1
+            echo "Both file are same"
+            echo "::set-output name=status::noupdate"
+          else
+            mv $file1 $file2
+            echo "Both file are different"
+            echo "::set-output name=status::success"
+          fi
+
+      - name: 'Send telegram message on push'
+        env:
+          TELEGRAM_TO: ${{ secrets.TELEGRAM_TO }}
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+        uses: appleboy/telegram-action@master
+        if: steps.diff.outputs.status == 'success' && env.TELEGRAM_TO != '' && env.TELEGRAM_TOKEN != '' && !cancelled()
+        with:
+          to: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          message: |
+             Mixed Nodes-1: http://185.177.124.24:8080/ipns/k51qzi5uqu5dh78dgxj9xt0od8sk97bxdnr84474rctjuln517hnl3v937di61/
+
+             Mixed Nodes-2: https://gateway.ipfs.io/ipns/k51qzi5uqu5dh78dgxj9xt0od8sk97bxdnr84474rctjuln517hnl3v937di61/
+
+      - name: 'Commit files first'
+        if: steps.diff.outputs.status == 'success' && !cancelled()
+        run: |
+          rm -rf ./cls/__pycache__
+          git config --global user.email actions@github.com
+          git config --global user.name "GitHub Actions"
+          git pull
+          git add .
+          git commit -m "Automatic upgrade by robot at $(date +"%Y.%m.%d.%H%M")" -a
+
+      - name: 'Push changes first'
+        uses: ad-m/github-push-action@master
+        if: steps.diff.outputs.status == 'success' && !cancelled()
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          #branch: ${{ github.ref }}
+
+      - name: 'Delete older workflow runs and artifacts new'
+        uses: Mattraks/delete-workflow-runs@main
+        if: env.DELETE_ARTIFACTS == 'true'
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
+          retain_days: ${{ env.KEEP_DAY }}
+          keep_minimum_runs: ${{ env.KEEP_MININUM_RUNS }}
+
+      - name: 'Send telegram message on push'
+        env:
+          TELEGRAM_TO: ${{ secrets.TELEGRAM_TO }}
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+        uses: appleboy/telegram-action@master
+        if: steps.publish.outputs.status == 'success' && env.TELEGRAM_TO != '' && env.TELEGRAM_TOKEN != '' && !cancelled()
+        with:
+          to: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          message: |
+             Publish files To ipfs network is finished.

@@ -1,0 +1,8 @@
+geoip2
+requests
+PyYAML
+wheel
+qqwry-py3
+tcping
+ping3
+chardet
