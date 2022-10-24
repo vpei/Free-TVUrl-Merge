@@ -15,7 +15,7 @@
 {"key":"csp_LibVio","name":"LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy555","name":"五五五","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Juhuang","name":"剧荒TV","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
-EEE电影{EEE电影"EEE电影kEEE电影eEEE电影yEEE电影"EEE电影:EEE电影"EEE电影"EEE电影,EEE电影"EEE电影nEEE电影aEEE电影mEEE电影eEEE电影"EEE电影:EEE电影"EEE电影"EEE电影,EEE电影"EEE电影tEEE电影yEEE电影pEEE电影eEEE电影"EEE电影:EEE电影3EEE电影,EEE电影"EEE电影aEEE电影pEEE电影iEEE电影"EEE电影:EEE电影"EEE电影cEEE电影sEEE电影pEEE电影_EEE电影LEEE电影iEEE电影tEEE电影eEEE电影AEEE电影pEEE电影pEEE电影lEEE电影eEEE电影"EEE电影,EEE电影"EEE电影sEEE电影eEEE电影aEEE电影rEEE电影cEEE电影hEEE电影aEEE电影bEEE电影lEEE电影eEEE电影"EEE电影:EEE电影1EEE电影,EEE电影"EEE电影qEEE电影uEEE电影iEEE电影cEEE电影kEEE电影SEEE电影eEEE电影aEEE电影rEEE电影cEEE电影hEEE电影"EEE电影:EEE电影1EEE电影,EEE电影"EEE电影fEEE电影iEEE电影lEEE电影tEEE电影eEEE电影rEEE电影aEEE电影bEEE电影lEEE电影eEEE电影"EEE电影:EEE电影1EEE电影}EEE电影,
+{"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小熊","name":"小熊TV","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"3EDY","name":"3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360_spider","name":"360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},

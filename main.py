@@ -558,7 +558,7 @@ if(menu == 'check'):
         spare = ''
         for i in tvbox.split('\n'):
             try:
-                if(i != '' and r_sites_err.find('"jar":"./') == -1 and r_sites_err.find(i) == -1 and i.find('"key":')>-1 and i.find('"name":')>-1 and i.find('"type":')>-1):
+                if(i != '' and r_sites_err.find('"jar":"./') == -1 and r_sites_err.find(i) == -1 and i.find('"key":') > -1 and i.find('"name":') > -1 and i.find('"type":') > -1):
                     ii = i.replace('//{','{').strip(',').replace('"type":0','"type":1')
                     tv = json.loads(ii)
                     # 检查自定义Jar文件是否存在
@@ -571,9 +571,9 @@ if(menu == 'check'):
                     # 自定义电影网站名称
                     if(ii.find('"name"') > -1 and ii.find('"key"') > -1 ):
                         if(rename.find(tv['key']) > -1):
-                            newname = StrText.get_str_btw(rename, tv['key'] + ':', '\n', 0)
-                            oldname = tv['name']
-                            ii = ii.replace(oldname, newname)
+                            newname = StrText.get_str_btw(rename.replace('\r',''), tv['key'] + ':', '\n', 0)
+                            tv['name'] = newname
+                            ii = json.dumps(tv)                              
                     # 过滤重复的电影网站
                     if((addtv + spare + nsfw).find(ii) > -1):
                         continue
@@ -609,7 +609,7 @@ if(menu == 'check'):
                     
                     if(tv['name'].find('*') > -1):
                         nsfw += '\r\n' + ii + ','
-                    else:
+                    elif(ii.find('"key":') > -1 and ii.find('"name":') > -1 and ii.find('"type":') > -1):
                         addtv += '\r\n' + ii + ','
                 else:
                     print('Main-Line-612-not-tvsite-url:' + i)
