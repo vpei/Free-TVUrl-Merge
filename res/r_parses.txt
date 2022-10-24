@@ -392,4 +392,3 @@
 {"name":"多多⑰线","url":"http://101.34.67.237:5705/parse/api/vip.js?url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"Webè�šå�ˆ","type":3,"url":"Web"},
 {"name":"Json9","type":1,"url":"http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url=","ext":{"flag":["qq","è…¾è®¯","letv","ä¹�è§†","mgtv","èŠ’æ�œ","youku","ä¼˜é…·","qiyi","iqiyi","çˆ±å¥‡è‰º","å¥‡è‰º"]}},
-{"name":"Web7","type":0,"url":"http://42.193.18.62:9999/analysis.php?v=","ext":{"flag":["imgo","qq","è…¾è®¯","qiyi","çˆ±å¥‡è‰º","å¥‡è‰º","youku","ä¼˜é…·","mgtv","èŠ’æ�œ","letv","ä¹�è§†","pptv","PPTV","sohu","bilibili","å“”å“©å“”å“©","å“”å“©"]}},
