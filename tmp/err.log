@@ -7,3 +7,7 @@ Extra data: line 1 column 242 (char 241)
 [2022-10-24 22:58:04] Main-Line-496-Exception:
 Extra data: line 1 column 245 (char 244)
 {"name":"Web7","type":0,"url":"http://42.193.18.62:9999/analysis.php?v=","ext":{"flag":["imgo","qq","è…¾è®¯","qiyi","çˆ±å¥‡è‰º","å¥‡è‰º","youku","ä¼˜é…·","mgtv","èŠ’æ�œ","letv","ä¹�è§†","pptv","PPTV","sohu","bilibili","å“”å“©å“”å“©","å“”å“©"]}},}
+
+[2022-10-25 01:48:56] Main-Line-496-Exception:
+Extra data: line 1 column 228 (char 227)
+{"name":"Json9","type":1,"url":"http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url=","ext":{"flag":["qq","è…¾è®¯","letv","ä¹�è§†","mgtv","èŠ’æ�œ","youku","ä¼˜é…·","qiyi","iqiyi","çˆ±å¥‡è‰º","å¥‡è‰º"]}},}
