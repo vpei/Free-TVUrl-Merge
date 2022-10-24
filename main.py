@@ -444,6 +444,8 @@ if(menu == 'uptvbox'):
                                 try:
                                     oneparse = '{' + oneparse + '}'
                                     if(oneparse.find('"name":"') > -1 and oneparse.find('"url":"') > -1):
+                                        if(oneparse[-3:] == '},}'):
+                                            oneparse = oneparse[:-2]
                                         onep = json.loads(oneparse)
                                         if(r_parses.find(onep['url']) == -1 and r_parses_err.find(onep['url']) == -1):
                                             if(oneparse.find('"ext":"') > -1):
@@ -558,6 +560,7 @@ if(menu == 'check'):
             try:
                 if(i != '' and r_sites_err.find('"jar":"./') == -1 and r_sites_err.find(i) == -1 and i.find('"key":')>-1 and i.find('"name":')>-1 and i.find('"type":')>-1):
                     ii = i.replace('//{','{').strip(',').replace('"type":0','"type":1')
+                    tv = json.loads(ii)
                     # 检查自定义Jar文件是否存在
                     if(ii.find('"jar":"') > -1):
                         jar = tv['jar']
@@ -565,9 +568,6 @@ if(menu == 'check'):
                             ustat = NetFile.url_stat(jar, 10, 10)
                             if(ustat == 404):
                                 ii = ii.replace(',"jar":"' + jar + '"', '')
-                    # 分类去重
-                    tv = json.loads(ii)
-                    id = tv['type']
                     # 自定义电影网站名称
                     if(ii.find('"name"') > -1 and ii.find('"key"') > -1 ):
                         if(rename.find(tv['key']) > -1):
@@ -581,6 +581,8 @@ if(menu == 'check'):
                     if((addtv + nsfw).find('"key":"' + tv['key'] + '"') > -1):
                         spare += '\r\n' + ii + ','
                         continue
+                    # 分类去重
+                    id = tv['type']
                     if(id == 1 or id == 4):
                         api = tv['api']
                         if((addtv + nsfw + r_sites_err).find(api) > -1):
