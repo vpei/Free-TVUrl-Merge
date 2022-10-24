@@ -1,5 +1,5 @@
 "sites":[
-//Update:2022-10-25 04:46:15.303723
+//Update:2022-10-25 06:39:34.408592
 
 {"key":"csp_biubiu_骚火电影","name":"🔥🔥影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2811/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json?sign=e9v4QKma5fzqYXyi8noR30G3cwv63VOSuyetYW7l3tw%3D%3A0"},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
@@ -583,8 +583,6 @@
 {"key":"LIBVIO","name":"🍲LIBVIO","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/LIBVIO.json"},
 {"key":"csp_XYQHiker_冷曦影视","name":"❄冷曦影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%86%B7%E6%9B%A6%E5%BD%B1%E8%A7%86.json"},
 {"key":"*爱看资源","name":"🔞爱看资源（慢）","type":1,"api":"http://www.aikanzyz9.com/inc/apijson_vod.php","searchable":1,"quickSearch":0,"filterable":0},
-{"key":"dr_人人","name":"🔃人人","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=人人影视","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_兔小贝","name":"🔃兔小贝","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_玄天","name":"玄天影视","type":1,"api":"http://drpy.fuqizhishi.com/vod?rule=玄天","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_TV云播","name":"TV云播","type":1,"api":"http://drpy.fuqizhishi.com/vod?rule=TV云播&ext=txt/js/tg/TV云播.js","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"金鹰资源","name":"金鹰资源","type":1,"api":"http://jinyingzy.com/provide/vod/","searchable":0,"quickSearch":0},
@@ -637,7 +635,6 @@
 {"key":"dr_AGE动漫","name":"AGE动漫(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=AGE动漫","searchable":2,"quickSearch":0,"filterable":1},
 {"key":"dr_RP影视","name":"RP影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=RP影视","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_ddys","name":"ddys(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=ddys","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_有声小说吧","name":"有声小说吧(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=有声小说吧","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_短视频","name":"短视频(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=短视频","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"dr_秋霞","name":"秋霞(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=秋霞","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_素白白","name":"素白白(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=素白白","searchable":2,"quickSearch":0,"filterable":0},
@@ -669,7 +666,6 @@
 {"key":"铭轩影视","name":"🍧铭轩影视","type":1,"api":"http://lz0716.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"dr_追剧达人","name":"追剧达人(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=追剧达人","searchable":2,"quickSearch":1,"filterable":0},
 {"key":"dr_哔哩直播","name":"哔哩直播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=哔哩直播","searchable":2,"quickSearch":0,"filterable":1},
-{"key":"dr_异世界动漫","name":"异世界动漫(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=异世界动漫","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"段友影视","name":"段友影视(优)","type":1,"api":"http://shangjihuoke.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"忆梦","name":"🥉忆梦(官)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"dr_JRS录像","name":"JRS录像(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=JRS录像","searchable":0,"quickSearch":0,"filterable":0},
@@ -729,6 +725,7 @@
 {"key":"dr_蓝光影院","name":"蓝光影院(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=蓝光影院","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_蓝莓影视","name":"蓝莓影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=蓝莓影视","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_追剧喵","name":"追剧喵(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=追剧喵","searchable":2,"quickSearch":0,"filterable":0},
+{"key":"dr_兔小贝","name":"🔃兔小贝","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},
 
 
 {"key":"快看影视","name":"SP | 快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -831,7 +828,6 @@
 {"key":"csp_Auete","name":"SP|Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"SP|Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"通道-23（SP）","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_兔小贝","name":"🔃兔小贝","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"6U资源","name":"6U资源(官)","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"胖猫影视","name":"胖猫影视(聚)","type":1,"api":"https://www.pangmaotv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"t4public","name":"💥T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=","searchable":1,"quickSearch":1,"filterable":1},

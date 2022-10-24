@@ -1,5 +1,5 @@
 {
-//Update:2022-10-25 04:46:15.300637
+//Update:2022-10-25 06:39:34.406453
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -121,7 +121,6 @@
 {"name":"解56","type":1,"url":"https://api.okjx.cc:3389/jx.php?url="},
 {"name":"解68","type":1,"url":"http://jx.rdhk.net/?url="},
 {"name":"解70","type":1,"url":"https://okjx.cc/?url="},
-{"name":"解81","type":1,"url":"https://vip.laobandq.com/jiexi.php?url="},
 {"name":"解84","type":1,"url":"https://svip.bljiex.cc/?v="},
 {"name":"解89","type":1,"url":"https://api.qianqi.net/vip/?url="},
 {"name":"解87","type":1,"url":"https://www.ikukk.com/?url="},
@@ -198,8 +197,7 @@
 {"name":"风起襄阳","url":"http://101.34.67.237:5705/parse/api/鸿途.js?url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"风起蛮林","url":"http://101.34.67.237:5705/parse/api/飞跃.js?url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"风起沛国","url":"http://101.34.67.237:5705/parse/api/无名.js?url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"rxjx","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
-{"name":"vip","url":"https://drpy.owen10086.repl.co/parse/api/vip.js?url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}}
+{"name":"rxjx","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],

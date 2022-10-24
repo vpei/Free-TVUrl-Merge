@@ -15,3 +15,7 @@ Extra data: line 1 column 228 (char 227)
 [2022-10-25 04:25:19] Main-Line-496-Exception:
 Extra data: line 1 column 279 (char 278)
 {"name":"多多⑰线","url":"http://101.34.67.237:5705/parse/api/vip.js?url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},}
+
+[2022-10-25 06:17:22] Main-Line-496-Exception:
+Extra data: line 1 column 283 (char 282)
+{"name":"vip","url":"https://drpy.owen10086.repl.co/parse/api/vip.js?url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},}
