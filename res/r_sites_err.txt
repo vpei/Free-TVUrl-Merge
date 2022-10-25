@@ -281,3 +281,4 @@
 0:{"key":"csp_appysv2_贵宾影院","name":"贵宾影院(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vipdytv.com/api.php/iptv/vod/"},
 0:{"key":"天堂资源","name":"天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 0:{"key":"dr_斗鱼直播","name":"斗鱼直播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=斗鱼直播","searchable":2,"quickSearch":0,"filterable":0},
+0:{"key":"dr_量子影视","name":"量子影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=量子影视","searchable":2,"quickSearch":0,"filterable":0},

@@ -170,4 +170,3 @@
 {"name":"萝卜","type":1,"url":"https://ys.lbbb.cc/?url="},
 {"name":"尘烟","type":1,"url":"https://vip.xuux.icu/home/api?type=dsp&uid=5326302&key=fijkqstuFIMOPSWY68&url="},
 {"name":"江湖解析","type":1,"url":"http://jx.vipmv.co/?url="},
-{"name":"未知","type":1,"url":"http://106.52.218.221:88/?url="},

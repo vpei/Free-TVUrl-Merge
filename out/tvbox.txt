@@ -1,5 +1,5 @@
 {
-//Update:2022-10-26 02:59:50.786676
+//Update:2022-10-26 04:33:54.482270
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -647,7 +647,6 @@
 {"key":"dr_荐片","name":"荐片(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=荐片","searchable":2,"quickSearch":0,"filterable":1},
 {"key":"dr_虎牙直播","name":"虎牙直播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=虎牙直播","searchable":2,"quickSearch":0,"filterable":1},
 {"key":"dr_酷奇MV","name":"酷奇MV(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=酷奇MV","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_量子影视","name":"量子影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=量子影视","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_饭团","name":"饭团(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=饭团","searchable":2,"quickSearch":0,"filterable":0},
 {"key": "", "name": "EEE\u7535\u5f71", "type": 3, "api": "", "searchable": 1, "quickSearch": 1, "filterable": 1},
 {"key":"dr_莫扎兔","name":"🔃莫扎兔","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=莫扎兔","searchable":1,"quickSearch":1,"filterable":0},
@@ -847,8 +846,7 @@
 {"name":"CY","url":"https://vip.cyu0.cn/home/api?type=ys&uid=1353484&key=efopqwABCLOTVYZ278&url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"萝卜","type":1,"url":"https://ys.lbbb.cc/?url="},
 {"name":"尘烟","type":1,"url":"https://vip.xuux.icu/home/api?type=dsp&uid=5326302&key=fijkqstuFIMOPSWY68&url="},
-{"name":"江湖解析","type":1,"url":"http://jx.vipmv.co/?url="},
-{"name":"未知","type":1,"url":"http://106.52.218.221:88/?url="}
+{"name":"江湖解析","type":1,"url":"http://jx.vipmv.co/?url="}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],

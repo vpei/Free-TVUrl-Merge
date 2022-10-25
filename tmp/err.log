@@ -59,3 +59,7 @@ Extra data: line 1 column 114 (char 113)
 [2022-10-26 02:43:03] Main-Line-496-Exception:
 Extra data: line 1 column 60 (char 59)
 {"name":"hxys1","type":0,"url":"https://hxys.tv/bfq/?url="},}
+
+[2022-10-26 04:19:34] Main-Line-496-Exception:
+Extra data: line 1 column 62 (char 61)
+{"name":"未知","type":1,"url":"http://106.52.218.221:88/?url="},}
