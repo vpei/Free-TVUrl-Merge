@@ -35,3 +35,7 @@ Extra data: line 1 column 278 (char 277)
 [2022-10-25 14:56:33] Main-Line-496-Exception:
 Extra data: line 1 column 278 (char 277)
 {"name":"风起襄阳","url":"http://101.34.67.237:5705/parse/api/鸿途.js?url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},}
+
+[2022-10-25 16:27:39] Main-Line-496-Exception:
+Extra data: line 1 column 278 (char 277)
+{"name":"风起敬湖","url":"http://101.34.67.237:5705/parse/api/江湖.js?url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},}

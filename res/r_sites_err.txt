@@ -235,3 +235,4 @@
 0:{"key":"dr_188看","name":"188看(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=188看","searchable":2,"quickSearch":1,"filterable":0},
 0:{"key":"dr_88看球","name":"88看球(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=88看球","searchable":0,"quickSearch":0,"filterable":0},
 0:{"key":"dr_DJ音乐","name":"DJ音乐(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=DJ音乐","searchable":2,"quickSearch":0,"filterable":0},
+0:{"key":"csp_app_美剧范","name":"🐌美剧范(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttzmz.net/api.php/v1.vod"},
