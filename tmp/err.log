@@ -63,3 +63,7 @@ Extra data: line 1 column 60 (char 59)
 [2022-10-26 04:19:34] Main-Line-496-Exception:
 Extra data: line 1 column 62 (char 61)
 {"name":"未知","type":1,"url":"http://106.52.218.221:88/?url="},}
+
+[2022-10-26 06:17:09] Main-Line-496-Exception:
+Extra data: line 1 column 58 (char 57)
+{"name":"江湖解析","type":1,"url":"http://jx.vipmv.co/?url="},}
