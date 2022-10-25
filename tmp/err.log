@@ -51,3 +51,7 @@ Extra data: line 1 column 97 (char 96)
 [2022-10-25 22:36:26] Main-Line-496-Exception:
 Extra data: line 1 column 108 (char 107)
 {"name":"云you","type":1,"url":"http://chaloli.cn/home/api?type=ys&uid=1942949&key=bfijlnovBCEGHJTV09&url="},}
+
+[2022-10-26 00:30:24] Main-Line-496-Exception:
+Extra data: line 1 column 114 (char 113)
+{"name":"äº‘youè§£æ��â‘ ","type":1,"url":"https://chaloli.cn/home/api?type=ys&uid=1&key=bcghijmortwFQTV578&url="},}

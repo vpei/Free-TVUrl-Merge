@@ -82,7 +82,6 @@
 {"name":"麻瓜视频","type":1,"url":"https://api.parwix.com:4433/analysis/json/?uid=1735&my=cejkmnuvyBEFINR056&url="},
 {"name":"追剧吧2","type":1,"url":"https://svip.spchat.top/api/?key=SAl7tLs3Zzu5alSNtz&url="},
 {"name":"看剧吧1","type":1,"url":"https://supervip.rongxingvr.cn:8866/api/?key=nKn4eO8giUKSe8jxZU&url="},
-{"name":"追剧吧1","type":1,"url":"http://newjiexi.gotto.top/yun_apib.php/?url="},
 {"name":"遗忘影视","type":1,"url":"http://gq.bywdtk.cn/?url="},
 {"name":"林谷影视","type":1,"url":"http://jf.lemiaoyun.cn/home/api?type=ys&uid=40190120&key=dhilnoCDHLOPQRUW29&url="},
 {"name":"1","type":1,"url":"https://svip.rongxingvr.top/api/?key=Wyl9CjTyelP0UOaECD&url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
@@ -174,4 +173,3 @@
 {"name":"江湖解析","type":1,"url":"http://jx.vipmv.co/?url="},
 {"name":"未知","type":1,"url":"http://106.52.218.221:88/?url="},
 {"name":"hxys1","type":0,"url":"https://hxys.tv/bfq/?url="},
-{"name":"äº‘youè§£æ��â‘ ","type":1,"url":"https://chaloli.cn/home/api?type=ys&uid=1&key=bcghijmortwFQTV578&url="},
