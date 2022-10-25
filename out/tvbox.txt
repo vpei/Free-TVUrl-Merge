@@ -1,5 +1,5 @@
 {
-//Update:2022-10-25 14:45:11.106911
+//Update:2022-10-25 16:13:22.800317
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -670,13 +670,6 @@
 {"key":"dr_JRS录像","name":"JRS录像(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=JRS录像","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"dr_JRS看球网","name":"JRS看球网(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=JRS看球网","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"dr_JRS看直播","name":"JRS看直播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=JRS看直播","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"dr_gaze","name":"gaze(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=gaze","searchable":2,"quickSearch":0,"filterable":1},
-{"key":"dr_omofun动漫","name":"omofun动漫(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=omofun动漫","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_冲TMTV[飞]","name":"冲TMTV[飞](道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=冲TMTV[飞]","searchable":2,"quickSearch":1,"filterable":0},
-{"key":"dr_四个圈影视","name":"四个圈影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=四个圈影视","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_188看","name":"188看(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=188看","searchable":2,"quickSearch":1,"filterable":0},
-{"key":"dr_88看球","name":"88看球(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=88看球","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"dr_DJ音乐","name":"DJ音乐(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=DJ音乐","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_Fun4K","name":"Fun4K(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=Fun4K","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_JRKAN直播","name":"JRKAN直播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=JRKAN直播","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"dr_吼吼[飞]","name":"吼吼[飞](道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=吼吼[飞]","searchable":2,"quickSearch":1,"filterable":0},
@@ -910,8 +903,7 @@
 {"name":"云you","type":1,"url":"http://chaloli.cn/home/api?type=ys&uid=1942949&key=bfijlnovBCEGHJTV09&url="},
 {"name":"风起天琴","type":1,"url":"https://play.fuqizhishi.com/jx1/API.php?appkey=iiiixiaobai&url="},
 {"name":"风起昆仑","url":"http://101.34.67.237:5705/parse/api/酷云.js?url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"风起敬湖","url":"http://101.34.67.237:5705/parse/api/江湖.js?url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"风起襄阳","url":"http://101.34.67.237:5705/parse/api/鸿途.js?url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}}
+{"name":"风起敬湖","url":"http://101.34.67.237:5705/parse/api/江湖.js?url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],

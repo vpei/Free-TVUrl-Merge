@@ -1,5 +1,5 @@
 "sites":[
-//Update:2022-10-25 14:45:11.109096
+//Update:2022-10-25 16:13:22.802316
 
 {"key":"csp_biubiu_骚火电影","name":"🔥🔥影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2811/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json?sign=e9v4QKma5fzqYXyi8noR30G3cwv63VOSuyetYW7l3tw%3D%3A0"},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
@@ -665,13 +665,6 @@
 {"key":"dr_JRS录像","name":"JRS录像(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=JRS录像","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"dr_JRS看球网","name":"JRS看球网(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=JRS看球网","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"dr_JRS看直播","name":"JRS看直播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=JRS看直播","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"dr_gaze","name":"gaze(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=gaze","searchable":2,"quickSearch":0,"filterable":1},
-{"key":"dr_omofun动漫","name":"omofun动漫(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=omofun动漫","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_冲TMTV[飞]","name":"冲TMTV[飞](道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=冲TMTV[飞]","searchable":2,"quickSearch":1,"filterable":0},
-{"key":"dr_四个圈影视","name":"四个圈影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=四个圈影视","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_188看","name":"188看(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=188看","searchable":2,"quickSearch":1,"filterable":0},
-{"key":"dr_88看球","name":"88看球(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=88看球","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"dr_DJ音乐","name":"DJ音乐(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=DJ音乐","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_Fun4K","name":"Fun4K(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=Fun4K","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_JRKAN直播","name":"JRKAN直播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=JRKAN直播","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"dr_吼吼[飞]","name":"吼吼[飞](道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=吼吼[飞]","searchable":2,"quickSearch":1,"filterable":0},

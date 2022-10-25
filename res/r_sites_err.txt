@@ -228,3 +228,10 @@
 
 0:{"key":"dr_1080P","name":"1080P(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=1080P","searchable":2,"quickSearch":0,"filterable":0},
 0:{"key":"dr_Missav","name":"Missav(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=Missav&ext=txt/js/18/Missav.js","searchable":2,"quickSearch":0,"filterable":0},
+0:{"key":"dr_gaze","name":"gaze(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=gaze","searchable":2,"quickSearch":0,"filterable":1},
+0:{"key":"dr_omofun动漫","name":"omofun动漫(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=omofun动漫","searchable":2,"quickSearch":0,"filterable":0},
+0:{"key":"dr_冲TMTV[飞]","name":"冲TMTV[飞](道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=冲TMTV[飞]","searchable":2,"quickSearch":1,"filterable":0},
+0:{"key":"dr_四个圈影视","name":"四个圈影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=四个圈影视","searchable":2,"quickSearch":0,"filterable":0},
+0:{"key":"dr_188看","name":"188看(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=188看","searchable":2,"quickSearch":1,"filterable":0},
+0:{"key":"dr_88看球","name":"88看球(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=88看球","searchable":0,"quickSearch":0,"filterable":0},
+0:{"key":"dr_DJ音乐","name":"DJ音乐(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=DJ音乐","searchable":2,"quickSearch":0,"filterable":0},
