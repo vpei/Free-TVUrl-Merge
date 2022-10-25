@@ -1,5 +1,5 @@
 "sites":[
-//Update:2022-10-25 16:49:35.907719
+//Update:2022-10-25 18:44:39.924438
 
 {"key":"csp_biubiu_骚火电影","name":"🔥🔥影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2811/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json?sign=e9v4QKma5fzqYXyi8noR30G3cwv63VOSuyetYW7l3tw%3D%3A0"},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
@@ -294,7 +294,6 @@
 {"key":"csp_appysv2_开乐TV","name":"开乐TV(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://server.sztuotai.com//api.php/Chengcheng/vod/"},
 {"key":"csp_appysv2_嘿荼锋","name":"嘿荼锋(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.hfys8.vip/api.php/Sntv/vod/"},
 {"key":"csp_appysv2_贵宾影院","name":"贵宾影院(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vipdytv.com/api.php/iptv/vod/"},
-{"key":"csp_appysv2_CV影视","name":"CV影视(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"},
 {"key":"csp_appysv2_快看影视","name":"快看影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kuaikys.com/mogai_api.php/v1.vod"},
 {"key":"csp_appysv2_69美剧","name":"69美剧(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/api.php/v1.vod"},
 {"key":"csp_appysv2_小宝影视","name":"小宝影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.1iuxb.com/api.php/v1.vod"},
@@ -649,7 +648,6 @@
 {"key":"dr_双十电影","name":"双十电影(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=双十电影","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_唐人街影视","name":"唐人街影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=唐人街影视","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_尘落影视","name":"尘落影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=尘落影视","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_抓饭体育","name":"抓饭体育(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=抓饭体育","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_斗鱼直播","name":"斗鱼直播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=斗鱼直播","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_爱迪影视","name":"爱迪影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=爱迪影视","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_蛋蛋赞","name":"蛋蛋赞(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=蛋蛋赞","searchable":2,"quickSearch":0,"filterable":0},
