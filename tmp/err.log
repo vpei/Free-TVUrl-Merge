@@ -23,3 +23,7 @@ Extra data: line 1 column 283 (char 282)
 [2022-10-25 09:25:11] Main-Line-496-Exception:
 Extra data: line 1 column 73 (char 72)
 {"name":"rxjx","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},}
+
+[2022-10-25 12:25:09] Main-Line-496-Exception:
+Extra data: line 1 column 278 (char 277)
+{"name":"风起沛国","url":"http://101.34.67.237:5705/parse/api/无名.js?url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},}

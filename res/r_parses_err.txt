@@ -23217,3 +23217,4 @@
 0:{"name":"飞跃","url":"https://drpy.owen10086.repl.co/parse/api/飞跃.js?url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
 0:{"name":"dyg","url":"https://drpy.owen10086.repl.co/parse/api/dyg.js?url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
 0:{"name":"解81","type":1,"url":"https://vip.laobandq.com/jiexi.php?url="},
+0:{"name":"解23","type":1,"url":"https://vip.byteamone.cn/api/?key=vpO0packXeAp4XYCnA&url="},

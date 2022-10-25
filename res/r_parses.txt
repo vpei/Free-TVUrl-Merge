@@ -101,7 +101,6 @@
 {"name":"解04","type":1,"url":"https://jhjx.kuanjv.com/newky/?url="},
 {"name":"解15","type":1,"url":"https://jx.7kjx.com/?url="},
 {"name":"解22","type":1,"url":"https://dd.mouliuk.com/home/api?type=ys&uid=12293&key=acfhkovxzDEIMPWX29&url="},
-{"name":"解23","type":1,"url":"https://vip.byteamone.cn/api/?key=vpO0packXeAp4XYCnA&url="},
 {"name":"解45","type":1,"url":"https://help.siwazywcdn2.com:5278/m3u8.php?url="},
 {"name":"解51","type":1,"url":"http://www.ikukk.com/?url="},
 {"name":"解52","type":1,"url":"https://jx.xmflv.com/?url="},
@@ -184,4 +183,3 @@
 {"name":"风起敬湖","url":"http://101.34.67.237:5705/parse/api/江湖.js?url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"风起襄阳","url":"http://101.34.67.237:5705/parse/api/鸿途.js?url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"风起蛮林","url":"http://101.34.67.237:5705/parse/api/飞跃.js?url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"风起沛国","url":"http://101.34.67.237:5705/parse/api/无名.js?url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
