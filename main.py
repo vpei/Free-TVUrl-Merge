@@ -616,6 +616,9 @@ if(menu == 'check'):
             except Exception as ex:
                 LocalFile.write_LogFile('Main-Line-614-Exception:' + str(ex) + '\ntvsite:' + i)
         
+        LocalFile.write_LocalFile('./res/r_sites_err.txt', r_sites_err.strip('\r\n'))
+        print('Line-563:/res/r_sites_err.txt已更新。')
+
         r_spider = LocalFile.read_LocalFile("./res/r_spider.txt")
         r_spider = '{\r\n//Update:' + str(datetime.datetime.now()) + '\r\n\r\n' + r_spider
         r_lives = LocalFile.read_LocalFile("./res/r_lives.txt")
