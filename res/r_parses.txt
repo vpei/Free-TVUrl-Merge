@@ -176,4 +176,3 @@
 {"name":"hxys1","type":0,"url":"https://hxys.tv/bfq/?url="},
 {"name":"äº‘youè§£æ��â‘ ","type":1,"url":"https://chaloli.cn/home/api?type=ys&uid=1&key=bcghijmortwFQTV578&url="},
 {"name":"云you","type":1,"url":"http://chaloli.cn/home/api?type=ys&uid=1942949&key=bfijlnovBCEGHJTV09&url="},
-{"name":"风起天琴","type":1,"url":"https://play.fuqizhishi.com/jx1/API.php?appkey=iiiixiaobai&url="},
