@@ -312,3 +312,4 @@
 0:{"key":"dr_麦豆com","name":"麦豆com(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=麦豆com","searchable":2,"quickSearch":0,"filterable":0},
 0:{"key":"dr_双十电影","name":"双十电影(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=双十电影","searchable":2,"quickSearch":0,"filterable":0},
 0:{"key":"dr_唐人街影视","name":"唐人街影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=唐人街影视","searchable":2,"quickSearch":0,"filterable":0},
+0:{"key":"dr_星辰","name":"星辰(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=星辰","searchable":2,"quickSearch":0,"filterable":0},
