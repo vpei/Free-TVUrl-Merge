@@ -23166,3 +23166,5 @@
 0:{"name":"解89","type":1,"url":"https://api.qianqi.net/vip/?url="},
 404:{"name":"追剧吧1","type":1,"url":"http://newjiexi.gotto.top/yun_apib.php/?url="},
 0:{"name":"左岸","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2284&my=efghjmxzADEFIS0268&url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
+0:{"name":"麻瓜视频","type":1,"url":"https://api.parwix.com:4433/analysis/json/?uid=1735&my=egkqvxzBEHPQSUWX28&url=","t":170,"i":"checkat2021-12-2819:44:04"},
+0:{"name":"parwixvip","type":0,"url":"https://vip.parwix.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},

@@ -75,3 +75,7 @@ Extra data: line 1 column 110 (char 109)
 [2022-10-26 11:48:34] Main-Line-496-Exception:
 Extra data: line 1 column 56 (char 55)
 {"name":"萝卜","type":1,"url":"https://ys.lbbb.cc/?url="},}
+
+[2022-10-26 12:51:45] Main-Line-496-Exception:
+Extra data: line 1 column 306 (char 305)
+{"name":"CY","url":"https://vip.cyu0.cn/home/api?type=ys&uid=1353484&key=efopqwABCLOTVYZ278&url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},}

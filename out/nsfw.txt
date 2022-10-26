@@ -1,5 +1,5 @@
 {
-//Update:2022-10-26 12:06:26.368122
+//Update:2022-10-26 13:10:34.331122
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -80,7 +80,6 @@
 {"name":"琅琊影视7","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=123503&key=ghinorsuvBCMOQTY68&url=","ext":{"flag":["ziqie","qiyi","爱奇艺","奇艺","qq","腾讯","mgtv","芒果"]}},
 {"name":"灵狐影视","type":1,"url":"https://api.parwix.com:4433/analysis/json/?uid=84&my=gijkmnouvxyFHPYZ28&url="},
 {"name":"绿箭影视","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=7743764&key=acgjlopuxACEHJLT48&url=","t":166,"i":"checkat2021-12-2819:44:44"},
-{"name":"麻瓜视频","type":1,"url":"https://api.parwix.com:4433/analysis/json/?uid=1735&my=egkqvxzBEHPQSUWX28&url=","t":170,"i":"checkat2021-12-2819:44:04"},
 {"name":"小强TV","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=867242&key=acjksAGHJMPQTY3567&url=","t":190,"i":"checkat2021-12-2819:44:17"},
 {"name":"DC影视","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=7665652&key=dglmnwEFILMOPRW056&url=","t":206,"i":"checkat2021-12-2819:44:09"},
 {"name":"影阅阁3","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=594615&key=bcehpqtxCEGKMT0248&url=","t":236,"i":"checkat2021-12-2819:44:31"},
@@ -105,7 +104,6 @@
 {"name":"433解析","type":1,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905","优酷","芒果","腾讯","爱奇艺","奇艺"]}},
 {"name":"江湖","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
 {"name":"扶风","type":1,"url":"https://vip.byteamone.cn/api/?key=6sdRk7xF8yaTMlRoqr&url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
-{"name":"parwixvip","type":0,"url":"https://vip.parwix.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"线路5","type":1,"url":"https://www.pangujiexi.com/pangu/?url="},
 {"name":"播放呀","type":1,"url":"https://jx.vk95.com/xx/?url="},
 {"name":"renrenmi1","type":1,"url":"https://jx.blbo.cc:4433/?url="},
@@ -177,8 +175,7 @@
 {"name":"VIP1","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2233&my=eginqstBCJMNSUX689&url=","ext":{"flag":["renrenmi","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩","sohu"]}},
 {"name":"VIP3","type":1,"url":"http://jifei.mrcy0.com/home/api?type=ys&uid=2752189&key=aefghtACLNRSZ01247&url=","ext":{"flag":["renrenmi","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩","sohu"]}},
 {"name":"91","url":"http://91fanli.top/m3u8/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"BT5V","url":"https://rx.bt5v.com/json/jsonindex.php/?url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"CY","url":"https://vip.cyu0.cn/home/api?type=ys&uid=1353484&key=efopqwABCLOTVYZ278&url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}}
+{"name":"BT5V","url":"https://rx.bt5v.com/json/jsonindex.php/?url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}}}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],
