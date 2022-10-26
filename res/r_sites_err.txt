@@ -296,3 +296,4 @@
 0:{"key":"dr_皮皮泡","name":"🔃皮皮泡","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=皮皮泡","searchable":1,"quickSearch":1,"filterable":0},
 0:{"key":"dr_胖虎影视","name":"胖虎影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=胖虎影视&ext=txt/js/tg/胖虎影视.js","searchable":2,"quickSearch":0,"filterable":0},
 0:{"key":"dr_banan","name":"banan(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=banan&ext=txt/js/18/banan.js","searchable":2,"quickSearch":0,"filterable":0},
+0:{"key":"dr_养端","name":"养端(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=养端&ext=txt/js/18/养端.js","searchable":2,"quickSearch":0,"filterable":0},

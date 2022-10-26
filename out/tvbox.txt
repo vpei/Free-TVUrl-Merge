@@ -1,5 +1,5 @@
 {
-//Update:2022-10-26 16:44:03.967488
+//Update:2022-10-26 18:36:53.247997
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -583,7 +583,6 @@
 {"key":"csp_xml___北斗星","name":"🐝北斗星","type":1,"api":"https://api.bdxapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"douban","name":"🅱豆瓣荐片┃神器妹推介首页","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"t4","name":"T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=daae36603bcd490681bdd8d03940783a&timeout=8","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_养端","name":"养端(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=养端&ext=txt/js/18/养端.js","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_吸瓜","name":"吸瓜(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=吸瓜&ext=txt/js/18/吸瓜.js","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_朱古力","name":"朱古力(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=朱古力&ext=txt/js/18/朱古力.js","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_玩偶姐姐","name":"玩偶姐姐(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=玩偶姐姐&ext=txt/js/18/玩偶姐姐.js","searchable":2,"quickSearch":0,"filterable":0},
@@ -828,8 +827,7 @@
 {"name":"无名","type":1,"url":"https://www.administratorw.com/video.php?url="},
 {"name":"无名小站","type":1,"url":"https://www.administratorw.com/admin.php?url="},
 {"name":"集象","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2245&my=cdfhirsuwyEGIPU346&url=","ext":{"flag":["renrenmi","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩","sohu"]}},
-{"name":"VIP1","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2233&my=eginqstBCJMNSUX689&url=","ext":{"flag":["renrenmi","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩","sohu"]}},
-{"name":"VIP3","type":1,"url":"http://jifei.mrcy0.com/home/api?type=ys&uid=2752189&key=aefghtACLNRSZ01247&url=","ext":{"flag":["renrenmi","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩","sohu"]}}
+{"name":"VIP1","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2233&my=eginqstBCJMNSUX689&url=","ext":{"flag":["renrenmi","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩","sohu"]}}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],
