@@ -1,5 +1,5 @@
 "sites":[
-//Update:2022-10-26 13:10:34.334541
+//Update:2022-10-26 14:42:00.940722
 
 {"key":"csp_biubiu_骚火电影","name":"🔥🔥影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2811/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json?sign=e9v4QKma5fzqYXyi8noR30G3cwv63VOSuyetYW7l3tw%3D%3A0"},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
@@ -581,9 +581,7 @@
 {"key":"csp_xml___北斗星","name":"🐝北斗星","type":1,"api":"https://api.bdxapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"douban","name":"🅱豆瓣荐片┃神器妹推介首页","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"t4","name":"T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=daae36603bcd490681bdd8d03940783a&timeout=8","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_Nike影视","name":"Nike影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=Nike影视&ext=txt/js/tg/Nike影视.js","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_胖虎影视","name":"胖虎影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=胖虎影视&ext=txt/js/tg/胖虎影视.js","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_18av","name":"18av(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=18av&ext=txt/js/18/18av.js","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_banan","name":"banan(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=banan&ext=txt/js/18/banan.js","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_养端","name":"养端(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=养端&ext=txt/js/18/养端.js","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_吸瓜","name":"吸瓜(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=吸瓜&ext=txt/js/18/吸瓜.js","searchable":2,"quickSearch":0,"filterable":0},
