@@ -152,4 +152,3 @@
 {"name":"52","type":1,"url":"https://vip.52jiexi.top/?url="},
 {"name":"黑米","type":1,"url":"https://www.myxin.top/jx/api/?url="},
 {"name":"180","type":1,"url":"https://jx.000180.top/jx/?url="},
-{"name":"无名","type":1,"url":"https://www.administratorw.com/video.php?url="},
