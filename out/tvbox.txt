@@ -1,5 +1,5 @@
 {
-//Update:2022-10-26 18:36:53.247997
+//Update:2022-10-26 21:34:48.036556
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -306,7 +306,6 @@
 {"key":"csp_appysv2_龙猫追剧","name":"龙猫追剧(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lb.ybnxcx.com/api.php/v1.vod"},
 {"key":"csp_appysv2_看剧吧","name":"看剧吧(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.ishen520.com/api.php/v1.vod"},
 {"key":"csp_appysv2_佳佳影视","name":"佳佳影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.jiajia.pub/api.php/v1.vod"},
-{"key":"csp_app_冷视TV","name":"🐌冷视TV","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://len.tv/api.php/v1.vod"},
 {"key":"csp_xml_诺迅资源","name":"🐝诺迅资源","type":1,"api":"https://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":1,"quickSearch":1},
 {"key":"csp_xml_多多资源","name":"🐝多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/at/xml","playUrl":"https://player.movie09.com/dplayer/?url=","searchable":1,"quickSearch":1},
 {"key":"csp_xml_CK资源","name":"🐝CK资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
@@ -363,7 +362,6 @@
 {"key":"网易CC","name":"🐠网易CC","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/q284855646/TVBox/-/raw/main/json/%E7%BD%91%E6%98%93CC.json"},
 {"key":"17kan","name":"⚽🏀17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/q284855646/TVBox/-/raw/main/json/17%E7%9C%8B%E7%90%83.json"},
 {"key":"csp_xpath_球迷直播","name":"⚽🏀球迷直播","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/q284855646/TVBox/-/raw/main/json/%E7%90%83%E8%BF%B7%E7%9B%B4%E6%92%AD.json"},
-{"key":"学习","name":"📝学习园地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/q284855646/TVBox/-/raw/main/Bili/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"},
 {"key":"软件","name":"📚软件教程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/q284855646/TVBox/-/raw/main/Bili/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"},
 {"key":"音乐","name":"🎤音乐现场","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/q284855646/TVBox/-/raw/main/Bili/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"},
 {"key":"热舞","name":"💃女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/q284855646/TVBox/-/raw/main/Bili/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json"},
@@ -583,20 +581,9 @@
 {"key":"csp_xml___北斗星","name":"🐝北斗星","type":1,"api":"https://api.bdxapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"douban","name":"🅱豆瓣荐片┃神器妹推介首页","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"t4","name":"T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=daae36603bcd490681bdd8d03940783a&timeout=8","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_吸瓜","name":"吸瓜(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=吸瓜&ext=txt/js/18/吸瓜.js","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_朱古力","name":"朱古力(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=朱古力&ext=txt/js/18/朱古力.js","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_玩偶姐姐","name":"玩偶姐姐(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=玩偶姐姐&ext=txt/js/18/玩偶姐姐.js","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"桉t4","name":"豆瓣榜单（桉T4）","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=daae36603bcd490681bdd8d03940783a&timeout=6","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快播","name":"快播","type":1,"api":"https://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"filterable":0,"categories":["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","综艺"]},
 {"key":"百度","name":"百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
-{"key":"dr_HD","name":"HD(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=HD","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"dr_69美剧","name":"69美剧(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=69美剧","searchable":2,"quickSearch":1,"filterable":0},
-{"key":"dr_AGE动漫","name":"AGE动漫(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=AGE动漫","searchable":2,"quickSearch":0,"filterable":1},
-{"key":"dr_RP影视","name":"RP影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=RP影视","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_秋霞","name":"秋霞(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=秋霞","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_素白白","name":"素白白(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=素白白","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_麦豆","name":"麦豆(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=麦豆","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_麦豆com","name":"麦豆com(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=麦豆com","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_HD(1)","name":"HD(1)(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=HD(1)","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"dr_if101[飞]","name":"if101[飞](道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=if101[飞]","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_小品网","name":"小品网(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=小品网","searchable":2,"quickSearch":0,"filterable":0},
@@ -605,8 +592,6 @@
 {"key":"dr_HDmoli","name":"HDmoli(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=HDmoli","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_vidhub","name":"vidhub(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=vidhub","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_厂长资源","name":"厂长资源(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=厂长资源","searchable":2,"quickSearch":1,"filterable":0},
-{"key":"dr_双十电影","name":"双十电影(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=双十电影","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_唐人街影视","name":"唐人街影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=唐人街影视","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_尘落影视","name":"尘落影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=尘落影视","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_爱迪影视","name":"爱迪影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=爱迪影视","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_310直播","name":"310直播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=310直播","searchable":0,"quickSearch":0,"filterable":0},
@@ -728,13 +713,9 @@
 {"name":"300看世界3","type":1,"url":"http://jx.300ys.xyz/json/m3u8.php/?url=","ext":{"flag":["zy1080","xkys"]}},
 {"name":"康耀影视4","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=8153438&key=dfjkmopxHJKNXZ2389&url=","ext":{"flag":["qiyi","爱奇艺","奇艺","youku","优酷","letv","乐视"]}},
 {"name":"天诚影视4","type":1,"url":"https://svip.cygc.xyz/api/?key=LHIDJlDFp1lPagfFwQ&url=","ext":{"flag":["qiyi","爱奇艺","奇艺"]}},
-{"name":"爱酷影视1","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=8459535&key=efiknotzFHKLQSVX59&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","letv","乐视"]}},
-{"name":"段友影视1","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=998036&key=afhlnuvzDJLMOX3689&url=","ext":{"flag":["qq","腾讯"]}},
 {"name":"菜鸟追剧","type":1,"url":"https://apis.jxcxin.cn/api/jx?url=","ext":{"flag":["qq","腾讯","mgtv","芒果"]}},
 {"name":"天诚影视5","type":1,"url":"http://json.1920lgzy.top/api/?key=K6ROZoQ9Y5FxzkdgTT&url=","ext":{"flag":["1920l","qiyi","爱奇艺","奇艺"]}},
-{"name":"琅琊影视7","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=123503&key=ghinorsuvBCMOQTY68&url=","ext":{"flag":["ziqie","qiyi","爱奇艺","奇艺","qq","腾讯","mgtv","芒果"]}},
 {"name":"灵狐影视","type":1,"url":"https://api.parwix.com:4433/analysis/json/?uid=84&my=gijkmnouvxyFHPYZ28&url="},
-{"name":"绿箭影视","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=7743764&key=acgjlopuxACEHJLT48&url=","t":166,"i":"checkat2021-12-2819:44:44"},
 {"name":"小强TV","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=867242&key=acjksAGHJMPQTY3567&url=","t":190,"i":"checkat2021-12-2819:44:17"},
 {"name":"DC影视","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=7665652&key=dglmnwEFILMOPRW056&url=","t":206,"i":"checkat2021-12-2819:44:09"},
 {"name":"影阅阁3","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=594615&key=bcehpqtxCEGKMT0248&url=","t":236,"i":"checkat2021-12-2819:44:31"},
@@ -826,8 +807,7 @@
 {"name":"180","type":1,"url":"https://jx.000180.top/jx/?url="},
 {"name":"无名","type":1,"url":"https://www.administratorw.com/video.php?url="},
 {"name":"无名小站","type":1,"url":"https://www.administratorw.com/admin.php?url="},
-{"name":"集象","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2245&my=cdfhirsuwyEGIPU346&url=","ext":{"flag":["renrenmi","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩","sohu"]}},
-{"name":"VIP1","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2233&my=eginqstBCJMNSUX689&url=","ext":{"flag":["renrenmi","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩","sohu"]}}
+{"name":"集象","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2245&my=cdfhirsuwyEGIPU346&url=","ext":{"flag":["renrenmi","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩","sohu"]}}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],

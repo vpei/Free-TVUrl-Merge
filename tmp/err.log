@@ -91,3 +91,7 @@ Extra data: line 1 column 259 (char 258)
 [2022-10-26 18:15:47] Main-Line-496-Exception:
 Extra data: line 1 column 224 (char 223)
 {"name":"VIP3","type":1,"url":"http://jifei.mrcy0.com/home/api?type=ys&uid=2752189&key=aefghtACLNRSZ01247&url=","ext":{"flag":["renrenmi","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩","sohu"]}},}
+
+[2022-10-26 20:35:12] Main-Line-496-Exception:
+Extra data: line 1 column 219 (char 218)
+{"name":"VIP1","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2233&my=eginqstBCJMNSUX689&url=","ext":{"flag":["renrenmi","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩","sohu"]}},}
