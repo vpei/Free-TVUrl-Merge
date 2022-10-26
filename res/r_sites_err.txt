@@ -291,3 +291,8 @@
 0:{"key":"dr_人人影视","name":"人人影视","type":1,"api":"http://drpy.fuqizhishi.com/vod?rule=人人影视","searchable":2,"quickSearch":0,"filterable":0},
 0:{"key":"dr_Nike影视","name":"Nike影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=Nike影视&ext=txt/js/tg/Nike影视.js","searchable":2,"quickSearch":0,"filterable":0},
 0:{"key":"dr_18av","name":"18av(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=18av&ext=txt/js/18/18av.js","searchable":2,"quickSearch":0,"filterable":0},
+0:{"key":"dr_看视界","name":"🔃看视界(神器妹推荐)","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=看视界","searchable":2,"quickSearch":0,"filterable":0},
+0:{"key":"dr_蓝光","name":"🔃蓝光","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=蓝光影院","searchable":1,"quickSearch":1,"filterable":0},
+0:{"key":"dr_皮皮泡","name":"🔃皮皮泡","type":1,"api":"https://drpy.justmiss.repl.co/vod?rule=皮皮泡","searchable":1,"quickSearch":1,"filterable":0},
+0:{"key":"dr_胖虎影视","name":"胖虎影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=胖虎影视&ext=txt/js/tg/胖虎影视.js","searchable":2,"quickSearch":0,"filterable":0},
+0:{"key":"dr_banan","name":"banan(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=banan&ext=txt/js/18/banan.js","searchable":2,"quickSearch":0,"filterable":0},
