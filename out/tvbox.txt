@@ -1,5 +1,5 @@
 {
-//Update:2022-10-27 13:16:48.225360
+//Update:2022-10-27 14:44:02.913265
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -382,7 +382,6 @@
 {"key":"csp_XBiubiu_金眼影视","name":"🌟金眼影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/q284855646/TVBox/-/raw/main/json/%E9%87%91%E7%9C%BC%E5%BD%B1%E8%A7%86.json"},
 {"key":"csp_XBiubiu_UM影视","name":"🦋UM影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/q284855646/TVBox/-/raw/main/json/UM%E5%BD%B1%E8%A7%86.json"},
 {"key":"csp_XBiubiu_Nike影视","name":"🌹Nike影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/q284855646/TVBox/-/raw/main/json/Nike%E5%BD%B1%E8%A7%86.json"},
-{"key":"csp_XBiubiu_0855","name":"🧳0855影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/q284855646/TVBox/-/raw/main/json/0855%E5%BD%B1%E8%A7%86.json"},
 {"key":"csp_XBiubiu_大米星球","name":"🍚大米星球","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/q284855646/TVBox/-/raw/main/json/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%83.json"},
 {"key":"去看动漫","name":"🎊去看动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/q284855646/TVBox/-/raw/main/json/%E5%8E%BB%E7%9C%8B%E5%8A%A8%E6%BC%AB.json"},
 {"key":"动漫直链","name":"🎭动漫直链","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/q284855646/TVBox/-/raw/main/json/%E5%8A%A8%E6%BC%AB%E7%9B%B4%E9%93%BE.json"},
@@ -582,7 +581,6 @@
 {"key":"dr_快看","name":"快看(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=快看","searchable":2,"quickSearch":1,"filterable":0},
 {"key":"dr_8号影院","name":"8号影院(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=8号影院","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_HDmoli","name":"HDmoli(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=HDmoli","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_vidhub","name":"vidhub(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=vidhub","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_厂长资源","name":"厂长资源(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=厂长资源","searchable":2,"quickSearch":1,"filterable":0},
 {"key":"dr_尘落影视","name":"尘落影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=尘落影视","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_爱迪影视","name":"爱迪影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=爱迪影视","searchable":2,"quickSearch":0,"filterable":0},
@@ -785,8 +783,7 @@
 {"name":"m2090.","type":1,"url":"https://m2090.com/?url="},
 {"name":"云解析","type":1,"url":"https://jx.ppflv.com/?url="},
 {"name":"RDHK","type":1,"url":"https://jx.rdhk.net/?v="},
-{"name":"YiTV","type":1,"url":"https://jiexi.us/?url="},
-{"name":"星空","type":1,"url":"http://60jx.com/?url="}
+{"name":"YiTV","type":1,"url":"https://jiexi.us/?url="}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],

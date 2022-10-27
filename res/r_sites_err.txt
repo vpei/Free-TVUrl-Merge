@@ -323,3 +323,5 @@
 0:{"key":"mtv_xp_剧白直链","name":"切片┃剧白直链","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/剧白直链.json"},
 0:{"key":"mtv_pc_悟空影视","name":"切片┃悟空影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/悟空影视.json"},
 0:{"key":"dr_if101[飞]","name":"if101[飞](道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=if101[飞]","searchable":2,"quickSearch":0,"filterable":0},
+0:{"key":"csp_XBiubiu_0855","name":"🧳0855影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/q284855646/TVBox/-/raw/main/json/0855%E5%BD%B1%E8%A7%86.json"},
+0:{"key":"dr_vidhub","name":"vidhub(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=vidhub","searchable":2,"quickSearch":0,"filterable":0},

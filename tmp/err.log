@@ -127,3 +127,7 @@ Extra data: line 1 column 57 (char 56)
 [2022-10-27 12:45:28] Main-Line-496-Exception:
 Extra data: line 1 column 68 (char 67)
 {"name":"云析","type":1,"url":"https://jx.yparse.com/index.php?url="},}
+
+[2022-10-27 14:19:19] Main-Line-496-Exception:
+Extra data: line 1 column 53 (char 52)
+{"name":"星空","type":1,"url":"http://60jx.com/?url="},}

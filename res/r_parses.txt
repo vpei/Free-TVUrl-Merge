@@ -145,4 +145,3 @@
 {"name":"云解析","type":1,"url":"https://jx.ppflv.com/?url="},
 {"name":"RDHK","type":1,"url":"https://jx.rdhk.net/?v="},
 {"name":"YiTV","type":1,"url":"https://jiexi.us/?url="},
-{"name":"星空","type":1,"url":"http://60jx.com/?url="},
