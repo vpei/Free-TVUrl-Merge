@@ -1,5 +1,5 @@
 {
-//Update:2022-10-27 21:08:10.815430
+//Update:2022-10-27 22:39:56.577376
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -144,8 +144,7 @@
 {"name":"必成解析","type":1,"url":"https://jisu.rongxingvr.top/api/?key=rCMmoKD0H0ShJ00u2f&url=","ext":{"flag":["qq","qiyi","youku","pptv","le","sohu","bilibili","xigua","1905"]}},
 {"name":"七彩解析","type":1,"url":"https://jx.xymav.com/?url="},
 {"name":"综合线路解析","type":1,"url":"https://laisoyiba.com/mov/s/?sv=3&url="},
-{"name":"全民","type":1,"url":"https://jx.quanmingjiexi.com/?url="},
-{"name":"m2090.","type":1,"url":"https://m2090.com/?url="}
+{"name":"全民","type":1,"url":"https://jx.quanmingjiexi.com/?url="}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],

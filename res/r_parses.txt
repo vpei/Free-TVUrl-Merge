@@ -133,4 +133,3 @@
 {"name":"七彩解析","type":1,"url":"https://jx.xymav.com/?url="},
 {"name":"综合线路解析","type":1,"url":"https://laisoyiba.com/mov/s/?sv=3&url="},
 {"name":"全民","type":1,"url":"https://jx.quanmingjiexi.com/?url="},
-{"name":"m2090.","type":1,"url":"https://m2090.com/?url="},
