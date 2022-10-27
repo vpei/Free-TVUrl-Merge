@@ -340,3 +340,6 @@
 404:{"key":"dr_荐片","name":"荐片(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=荐片","searchable":2,"quickSearch":0,"filterable":1},
 404:{"key":"dr_虎牙直播","name":"虎牙直播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=虎牙直播","searchable":2,"quickSearch":0,"filterable":1},
 0:{"key":"dr_牛马TV","name":"牛马TV(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=牛马TV","searchable":2,"quickSearch":0,"filterable":0},
+0:{"key":"OmoFun动漫","name":"OmoFun动漫","type":1,"api":"https://omofun.tv/api.php/provide/vod/","searchable":0,"quickSearch":0},
+0:{"key":"dr_夜空","name":"夜空(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=夜空","searchable":2,"quickSearch":0,"filterable":0},
+0:{"key":"dr_兔小贝","name":"🔃兔小贝","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},
