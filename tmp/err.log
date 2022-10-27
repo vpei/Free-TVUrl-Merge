@@ -151,3 +151,7 @@ Extra data: line 1 column 59 (char 58)
 [2022-10-28 00:20:09] Main-Line-496-Exception:
 Extra data: line 1 column 66 (char 65)
 {"name":"全民","type":1,"url":"https://jx.quanmingjiexi.com/?url="},}
+
+[2022-10-28 02:20:38] Main-Line-496-Exception:
+Extra data: line 1 column 74 (char 73)
+{"name":"综合线路解析","type":1,"url":"https://laisoyiba.com/mov/s/?sv=3&url="},}
