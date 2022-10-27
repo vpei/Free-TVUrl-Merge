@@ -159,3 +159,7 @@ Extra data: line 1 column 74 (char 73)
 [2022-10-28 04:15:45] Main-Line-496-Exception:
 Extra data: line 1 column 60 (char 59)
 {"name":"七彩解析","type":1,"url":"https://jx.xymav.com/?url="},}
+
+[2022-10-28 06:14:40] Main-Line-496-Exception:
+Extra data: line 1 column 176 (char 175)
+{"name":"必成解析","type":1,"url":"https://jisu.rongxingvr.top/api/?key=rCMmoKD0H0ShJ00u2f&url=","ext":{"flag":["qq","qiyi","youku","pptv","le","sohu","bilibili","xigua","1905"]}},}
