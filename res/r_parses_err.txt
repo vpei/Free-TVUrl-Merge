@@ -23178,3 +23178,7 @@
 404:{"name":"解42","type":1,"url":"http://jx.ykyunbo.com/m3u8.php?url="},
 404:{"name":"解50","type":1,"url":"https://jx.ykyunbo.com/m3u8.php?url="},
 0:{"name":"疯狂看","type":1,"url":"https://a.zhuijula.top/yun_api.php?url=","t":877,"i":"checkat2021-12-2819:45:25"},
+0:{"name":"小强TV","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=867242&key=acjksAGHJMPQTY3567&url=","t":190,"i":"checkat2021-12-2819:44:17"},
+0:{"name":"DC影视","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=7665652&key=dglmnwEFILMOPRW056&url=","t":206,"i":"checkat2021-12-2819:44:09"},
+0:{"name":"影阅阁3","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=594615&key=bcehpqtxCEGKMT0248&url=","t":236,"i":"checkat2021-12-2819:44:31"},
+0:{"name":"筋斗云","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1494542&key=ijmqvwxABEHILMOT48&url=","t":282,"i":"checkat2021-12-2819:44:44"},

@@ -1,5 +1,5 @@
 "sites":[
-//Update:2022-10-27 18:40:40.578068
+//Update:2022-10-27 21:08:10.816816
 
 {"key":"csp_biubiu_骚火电影","name":"🔥🔥影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2811/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json?sign=e9v4QKma5fzqYXyi8noR30G3cwv63VOSuyetYW7l3tw%3D%3A0"},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
@@ -576,22 +576,16 @@
 {"key":"dr_哔哩直播","name":"哔哩直播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=哔哩直播","searchable":2,"quickSearch":0,"filterable":1},
 {"key":"段友影视","name":"段友影视(优)","type":1,"api":"http://shangjihuoke.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"忆梦","name":"🥉忆梦(官)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"dr_JRS录像","name":"JRS录像(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=JRS录像","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"dr_JRS看球网","name":"JRS看球网(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=JRS看球网","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"dr_JRS看直播","name":"JRS看直播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=JRS看直播","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"dr_Fun4K","name":"Fun4K(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=Fun4K","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_JRKAN直播","name":"JRKAN直播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=JRKAN直播","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"dr_吼吼[飞]","name":"吼吼[飞](道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=吼吼[飞]","searchable":2,"quickSearch":1,"filterable":0},
 {"key":"dr_学生球赛录像[js1]","name":"学生球赛录像[js1](道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=学生球赛录像[js1]","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"dr_小宝影院[飞]","name":"小宝影院[飞](道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=小宝影院[飞]","searchable":2,"quickSearch":1,"filterable":0},
-{"key":"dr_小白菜电影","name":"小白菜电影(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=小白菜电影","searchable":2,"quickSearch":1,"filterable":0},
 {"key":"dr_新视觉影视","name":"新视觉影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=新视觉影视","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_映迷影院","name":"映迷影院(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=映迷影院","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_欧乐影院[飞]","name":"欧乐影院[飞](道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=欧乐影院[飞]","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_爱车MV","name":"爱车MV(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=爱车MV","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_看看电影","name":"看看电影(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=看看电影","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_荐片","name":"荐片(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=荐片","searchable":2,"quickSearch":0,"filterable":1},
-{"key":"dr_虎牙直播","name":"虎牙直播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=虎牙直播","searchable":2,"quickSearch":0,"filterable":1},
 {"key":"dr_酷奇MV","name":"酷奇MV(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=酷奇MV","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_饭团","name":"饭团(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=饭团","searchable":2,"quickSearch":0,"filterable":0},
 {"key": "", "name": "EEE\u7535\u5f71", "type": 3, "api": "", "searchable": 1, "quickSearch": 1, "filterable": 1},
@@ -612,7 +606,6 @@
 {"key":"dr_小猫咪","name":"小猫咪(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=小猫咪","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_干饭影视","name":"干饭影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=干饭影视","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_影视工厂","name":"影视工厂(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=影视工厂","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_牛马TV","name":"牛马TV(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=牛马TV","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_追剧喵","name":"追剧喵(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=追剧喵","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_兔小贝","name":"🔃兔小贝","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_人人影视","name":"人人影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=人人影视","searchable":2,"quickSearch":0,"filterable":0},

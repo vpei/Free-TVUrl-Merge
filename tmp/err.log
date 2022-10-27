@@ -139,3 +139,7 @@ Extra data: line 1 column 56 (char 55)
 [2022-10-27 18:17:34] Main-Line-496-Exception:
 Extra data: line 1 column 57 (char 56)
 {"name":"RDHK","type":1,"url":"https://jx.rdhk.net/?v="},}
+
+[2022-10-27 20:34:44] Main-Line-496-Exception:
+Extra data: line 1 column 59 (char 58)
+{"name":"云解析","type":1,"url":"https://jx.ppflv.com/?url="},}
