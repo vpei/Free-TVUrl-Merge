@@ -155,3 +155,7 @@ Extra data: line 1 column 66 (char 65)
 [2022-10-28 02:20:38] Main-Line-496-Exception:
 Extra data: line 1 column 74 (char 73)
 {"name":"综合线路解析","type":1,"url":"https://laisoyiba.com/mov/s/?sv=3&url="},}
+
+[2022-10-28 04:15:45] Main-Line-496-Exception:
+Extra data: line 1 column 60 (char 59)
+{"name":"七彩解析","type":1,"url":"https://jx.xymav.com/?url="},}

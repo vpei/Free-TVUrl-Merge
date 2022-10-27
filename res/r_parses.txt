@@ -130,4 +130,3 @@
 {"name":"飞飞解析","type":1,"url":"https://y.9dan.cc/?v="},
 {"name":"易看解析","type":1,"url":"https://analysis.yikan.one/analysis/player/?url="},
 {"name":"必成解析","type":1,"url":"https://jisu.rongxingvr.top/api/?key=rCMmoKD0H0ShJ00u2f&url=","ext":{"flag":["qq","qiyi","youku","pptv","le","sohu","bilibili","xigua","1905"]}},
-{"name":"七彩解析","type":1,"url":"https://jx.xymav.com/?url="},
