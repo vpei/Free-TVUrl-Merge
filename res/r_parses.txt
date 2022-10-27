@@ -147,6 +147,4 @@
 {"name":"YiTV","type":1,"url":"https://jiexi.us/?url="},
 {"name":"星空","type":1,"url":"http://60jx.com/?url="},
 {"name":"云析","type":1,"url":"https://jx.yparse.com/index.php?url="},
-{"name":"奇米","type":1,"url":"https://qimihe.com/?url="},
 {"name":"听乐","type":1,"url":"https://jx.dj6u.com/?url="},
-{"name":"52","type":1,"url":"https://vip.52jiexi.top/?url="},
