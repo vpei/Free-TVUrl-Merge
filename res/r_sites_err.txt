@@ -314,3 +314,4 @@
 0:{"key":"dr_唐人街影视","name":"唐人街影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=唐人街影视","searchable":2,"quickSearch":0,"filterable":0},
 0:{"key":"dr_星辰","name":"星辰(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=星辰","searchable":2,"quickSearch":0,"filterable":0},
 0:{"key":"dr_喵喵","name":"喵喵(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=喵喵","searchable":2,"quickSearch":0,"filterable":0},
+404:{"key":"铭轩影视","name":"🍧铭轩影视","type":1,"api":"http://lz0716.com/api.php/provide/vod/","searchable":0,"quickSearch":0},

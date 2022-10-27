@@ -1,5 +1,5 @@
 "sites":[
-//Update:2022-10-27 09:28:19.026491
+//Update:2022-10-27 12:01:44.292807
 
 {"key":"csp_biubiu_骚火电影","name":"🔥🔥影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2811/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json?sign=e9v4QKma5fzqYXyi8noR30G3cwv63VOSuyetYW7l3tw%3D%3A0"},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
@@ -591,7 +591,6 @@
 {"key":"dr_爱迪影视","name":"爱迪影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=爱迪影视","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_310直播","name":"310直播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=310直播","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"dr_来看点播","name":"来看点播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=来看点播","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"铭轩影视","name":"🍧铭轩影视","type":1,"api":"http://lz0716.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"dr_哔哩直播","name":"哔哩直播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=哔哩直播","searchable":2,"quickSearch":0,"filterable":1},
 {"key":"段友影视","name":"段友影视(优)","type":1,"api":"http://shangjihuoke.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"忆梦","name":"🥉忆梦(官)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},

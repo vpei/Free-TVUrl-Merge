@@ -1,5 +1,5 @@
 {
-//Update:2022-10-27 09:28:19.024559
+//Update:2022-10-27 12:01:44.289957
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -158,8 +158,7 @@
 {"name":"RDHK","type":1,"url":"https://jx.rdhk.net/?v="},
 {"name":"YiTV","type":1,"url":"https://jiexi.us/?url="},
 {"name":"星空","type":1,"url":"http://60jx.com/?url="},
-{"name":"云析","type":1,"url":"https://jx.yparse.com/index.php?url="},
-{"name":"听乐","type":1,"url":"https://jx.dj6u.com/?url="}
+{"name":"云析","type":1,"url":"https://jx.yparse.com/index.php?url="}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],
