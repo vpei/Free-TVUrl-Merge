@@ -131,3 +131,7 @@ Extra data: line 1 column 68 (char 67)
 [2022-10-27 14:19:19] Main-Line-496-Exception:
 Extra data: line 1 column 53 (char 52)
 {"name":"星空","type":1,"url":"http://60jx.com/?url="},}
+
+[2022-10-27 16:21:18] Main-Line-496-Exception:
+Extra data: line 1 column 56 (char 55)
+{"name":"YiTV","type":1,"url":"https://jiexi.us/?url="},}
