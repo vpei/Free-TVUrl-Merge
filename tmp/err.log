@@ -135,3 +135,7 @@ Extra data: line 1 column 53 (char 52)
 [2022-10-27 16:21:18] Main-Line-496-Exception:
 Extra data: line 1 column 56 (char 55)
 {"name":"YiTV","type":1,"url":"https://jiexi.us/?url="},}
+
+[2022-10-27 18:17:34] Main-Line-496-Exception:
+Extra data: line 1 column 57 (char 56)
+{"name":"RDHK","type":1,"url":"https://jx.rdhk.net/?v="},}

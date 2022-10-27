@@ -1,5 +1,5 @@
 {
-//Update:2022-10-27 16:36:31.223367
+//Update:2022-10-27 18:40:40.576162
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -21,15 +21,12 @@
 {"name":"解析9","type":1,"url":"https://dm.xmflv.com:4433/?url="},
 {"name":"诺诺","type":1,"url":"https://www.ckmov.com/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"诺讯","type":1,"url":"https://www.nxflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-{"name":"解41","type":1,"url":"https://jx.kujiexi.net/m3u8.php?url="},
-{"name":"解42","type":1,"url":"http://jx.ykyunbo.com/m3u8.php?url="},
 {"name":"解43","type":1,"url":"https://player.aibozyplayer.com/m3u8/?url="},
 {"name":"解44","type":1,"url":"https://player.sewozyplayer.com/m3u8/?url="},
 {"name":"解46","type":1,"url":"https://player.leyuzy.net/?url="},
 {"name":"解47","type":1,"url":"https://api.xiusebf.com/m3u8/?url="},
 {"name":"解48","type":1,"url":"https://mgm3u8-player.com/player/DPm3u8.php?url="},
 {"name":"解49","type":1,"url":"https://player.77lehuo.com/aliplayer/?url="},
-{"name":"解50","type":1,"url":"https://jx.ykyunbo.com/m3u8.php?url="},
 {"name":"解54","type":1,"url":"http://api.diliktv.xyz/vip/jx.php?url="},
 {"name":"解57","type":1,"url":"https://www.xymav.com/?url="},
 {"name":"解58","type":1,"url":"https://9kjx.com/?url="},
@@ -81,7 +78,6 @@
 {"name":"筋斗云","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1494542&key=ijmqvwxABEHILMOT48&url=","t":282,"i":"checkat2021-12-2819:44:44"},
 {"name":"4K影院1","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1095368&key=cdgjpsuDFLNRTUVY03&url=","t":335,"i":"checkat2021-12-2819:45:32"},
 {"name":"爱影视","type":1,"url":"http://json.iqtv.tv/json.php?id=syhdjjjelxu66&url=","t":709,"i":"checkat2021-12-2819:45:05"},
-{"name":"疯狂看","type":1,"url":"https://a.zhuijula.top/yun_api.php?url=","t":877,"i":"checkat2021-12-2819:45:25"},
 {"name":"瑞丰资源","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1285201&key=bcikqtwxyADEGKUX36&url="},
 {"name":"益达影院","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=123503&key=fgkqryzDEFLNQSTW69&url="},
 {"name":"抹茶猪","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1525223&key=fhikpsvBCDFHJOSUZ8&url="},
@@ -154,8 +150,7 @@
 {"name":"综合线路解析","type":1,"url":"https://laisoyiba.com/mov/s/?sv=3&url="},
 {"name":"全民","type":1,"url":"https://jx.quanmingjiexi.com/?url="},
 {"name":"m2090.","type":1,"url":"https://m2090.com/?url="},
-{"name":"云解析","type":1,"url":"https://jx.ppflv.com/?url="},
-{"name":"RDHK","type":1,"url":"https://jx.rdhk.net/?v="}
+{"name":"云解析","type":1,"url":"https://jx.ppflv.com/?url="}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],

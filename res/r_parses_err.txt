@@ -23174,3 +23174,7 @@
 0:{"name":"绿箭影视","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=7743764&key=acgjlopuxACEHJLT48&url=","t":166,"i":"checkat2021-12-2819:44:44"},
 0:{"name":"300看世界3","type":1,"url":"http://jx.300ys.xyz/json/m3u8.php/?url=","ext":{"flag":["zy1080","xkys"]}},
 0:{"name":"奇米","type":1,"url":"https://qimihe.com/?url="},
+404:{"name":"解41","type":1,"url":"https://jx.kujiexi.net/m3u8.php?url="},
+404:{"name":"解42","type":1,"url":"http://jx.ykyunbo.com/m3u8.php?url="},
+404:{"name":"解50","type":1,"url":"https://jx.ykyunbo.com/m3u8.php?url="},
+0:{"name":"疯狂看","type":1,"url":"https://a.zhuijula.top/yun_api.php?url=","t":877,"i":"checkat2021-12-2819:45:25"},
