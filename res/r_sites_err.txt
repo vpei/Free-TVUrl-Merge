@@ -343,3 +343,4 @@
 0:{"key":"OmoFun动漫","name":"OmoFun动漫","type":1,"api":"https://omofun.tv/api.php/provide/vod/","searchable":0,"quickSearch":0},
 0:{"key":"dr_夜空","name":"夜空(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=夜空","searchable":2,"quickSearch":0,"filterable":0},
 0:{"key":"dr_兔小贝","name":"🔃兔小贝","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},
+404:{"key":"乐多资源","name":"乐多资源(切)","type":1,"api":"http://cj.leduocaiji.com/inc/api.php","playUrl":"json:https://api.leduotv.com/wp-api/getvodurl.php?vid=","searchable":0,"quickSearch":0},
