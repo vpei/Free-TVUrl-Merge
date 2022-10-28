@@ -183,3 +183,7 @@ Extra data: line 1 column 104 (char 103)
 [2022-10-28 16:20:00] Main-Line-496-Exception:
 Extra data: line 1 column 108 (char 107)
 {"name":"云you","type":1,"url":"http://chaloli.cn/home/api?type=ys&uid=1942949&key=klmnqADJQRUV024678&url="},}
+
+[2022-10-28 16:49:53] Main-Line-496-Exception:
+Extra data: line 1 column 74 (char 73)
+{"name":"解析23","type":0,"url":"https://www.pangujiexi.cc/jiexi.php?url="},}
