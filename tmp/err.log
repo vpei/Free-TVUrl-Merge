@@ -167,3 +167,7 @@ Extra data: line 1 column 176 (char 175)
 [2022-10-28 09:14:21] Main-Line-496-Exception:
 Extra data: line 1 column 82 (char 81)
 {"name":"易看解析","type":1,"url":"https://analysis.yikan.one/analysis/player/?url="},}
+
+[2022-10-28 11:44:52] Main-Line-496-Exception:
+Extra data: line 1 column 55 (char 54)
+{"name":"飞飞解析","type":1,"url":"https://y.9dan.cc/?v="},}
