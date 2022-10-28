@@ -124,4 +124,3 @@
 {"name":"解析10","type":0,"url":"http://www.ckmov.vip/api.php?url="},
 {"name":"解析21","type":0,"url":"http://api.wpsseo.cn/?v="},
 {"name":"解析23","type":0,"url":"https://www.pangujiexi.cc/jiexi.php?url="},
-{"name":"云you","type":1,"url":"http://chaloli.cn/home/api?type=ys&uid=1942949&key=klmnqADJQRUV024678&url="},
