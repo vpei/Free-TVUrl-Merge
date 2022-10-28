@@ -1,5 +1,5 @@
 "sites":[
-//Update:2022-10-28 18:33:33.566982
+//Update:2022-10-28 21:01:25.936972
 
 {"key":"csp_biubiu_骚火电影","name":"🔥🔥影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2811/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json?sign=e9v4QKma5fzqYXyi8noR30G3cwv63VOSuyetYW7l3tw%3D%3A0"},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
@@ -561,7 +561,6 @@
 {"key":"dr_HDmoli","name":"HDmoli(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=HDmoli","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_厂长资源","name":"厂长资源(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=厂长资源","searchable":2,"quickSearch":1,"filterable":0},
 {"key":"dr_尘落影视","name":"尘落影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=尘落影视","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_爱迪影视","name":"爱迪影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=爱迪影视","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_310直播","name":"310直播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=310直播","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"dr_来看点播","name":"来看点播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=来看点播","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_哔哩直播","name":"哔哩直播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=哔哩直播","searchable":2,"quickSearch":0,"filterable":1},
@@ -598,14 +597,10 @@
 {"key":"dr_影视工厂","name":"影视工厂(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=影视工厂","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_追剧喵","name":"追剧喵(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=追剧喵","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_人人影视","name":"人人影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=人人影视","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_玄天","name":"玄天(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=玄天","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_TV云播","name":"TV云播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=TV云播&ext=txt/js/tg/TV云播.js","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_看视界","name":"看视界(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=看视界","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_皮皮泡","name":"皮皮泡(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=皮皮泡&ext=txt/js/tg/皮皮泡.js","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_兔小贝","name":"兔小贝(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=兔小贝","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"csp_LibVio","name":"SP | LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小熊","name":"SP | 小熊TV","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"SP|厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"dr_兔小贝","name":"🔃兔小贝┃儿童启蒙","type":1,"api":"http://d.饭太硬.ml/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},
 
 
 {"key":"快看影视","name":"SP | 快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -712,7 +707,6 @@
 {"key":"dr_莫扎兔","name":"莫扎兔(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=莫扎兔","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"T4聚合","name":"🌏T4聚合","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=https://raw.iqiq.io/leevi0709/duo/main/txt/al.txt&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"douban","name":"🅱豆瓣荐片┃神器妹推介首页","type":4,"api":"http://t.饭太硬.ml/vod?","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"dr_兔小贝","name":"🔃兔小贝┃儿童启蒙","type":1,"api":"http://d.饭太硬.ml/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"T4聚合","name":"🧆豆瓣榜单","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=daae36603bcd490681bdd8d03940783a&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_bendi","name":"本地文件","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":0,"filterable":1,"type_flag":1},
 {"key":"csp_biubiu_骚火电影","name":"🔥骚火","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2811/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json?sign=e9v4QKma5fzqYXyi8noR30G3cwv63VOSuyetYW7l3tw%3D%3A0"},

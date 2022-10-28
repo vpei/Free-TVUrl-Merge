@@ -195,3 +195,7 @@ Extra data: line 1 column 74 (char 73)
 [2022-10-28 18:15:06] Main-Line-496-Exception:
 Extra data: line 1 column 58 (char 57)
 {"name":"解析21","type":0,"url":"http://api.wpsseo.cn/?v="},}
+
+[2022-10-28 20:28:42] Main-Line-496-Exception:
+Extra data: line 1 column 67 (char 66)
+{"name":"解析10","type":0,"url":"http://www.ckmov.vip/api.php?url="},}
