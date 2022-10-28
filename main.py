@@ -507,7 +507,7 @@ if(menu == 'uptvbox'):
                 if(r_parses.find(onep['url']) == -1 and r_parses_err.find(onep['url']) == -1):
                     ustat = NetFile.url_stat(onep['url'], 60, 60)
                     if(ustat == 404 or ustat == 0):
-                        r_parses_err += '\r\n' + str(ustat) + ':' + oneparse + ','
+                        r_parses_err += '\r\n[' + datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S") + '] ' + str(ustat) + ':' + oneparse + ','
                     else:
                         r_parses += '\r\n' + oneparse + ','
         except Exception as ex:
@@ -594,7 +594,7 @@ if(menu == 'check'):
                             if(api.find('http') == 0):
                                 ustat = NetFile.url_stat(api, 60, 60)
                                 if(ustat == 404 or ustat == 0):
-                                    r_sites_err += '\r\n' + str(ustat) + ':' + ii + ','
+                                    r_sites_err += '\r\n[' + datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S") + '] ' + str(ustat) + ':' + ii + ','
                                     continue
                     elif(id == 3):
                         if(ii.find('"ext":"') > -1):
@@ -605,7 +605,7 @@ if(menu == 'check'):
                                 if(ext.find('http') == 0):
                                     ustat = NetFile.url_stat(ext, 60, 60)
                                     if(ustat == 404 or ustat == 0):
-                                        r_sites_err += '\r\n' + str(ustat) + ':' + ii + ','
+                                        r_sites_err += '\r\n[' + datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S") + '] ' + str(ustat) + ':' + ii + ','
                                         continue
                     else:
                         spare += '\r\n' + ii + ','
