@@ -53,7 +53,8 @@ jobs:
           RESURL: ${{ secrets.RESURL }}
         run: |
           python main.py upexpire
-          echo "::set-output name=status::success"
+          #echo "::set-output name=status::success"
+          echo "status=success" >> $GITHUB_OUTPUT
 
       - name: 'Update tvurl from listurl'
         id: uptvbox
@@ -62,7 +63,8 @@ jobs:
         if: steps.upexpire.outputs.status == 'success' && !cancelled()
         run: |
           python main.py uptvbox
-          echo "::set-output name=status::success"
+          #echo "::set-output name=status::success"
+          echo "status=success" >> $GITHUB_OUTPUT
 
       - name: 'Merge tvurl'
         id: checkurl
@@ -71,7 +73,8 @@ jobs:
         if: steps.uptvbox.outputs.status == 'success' && !cancelled()
         run: |
           python main.py check
-          echo "::set-output name=status::success"
+          #echo "::set-output name=status::success"
+          echo "status=success" >> $GITHUB_OUTPUT
 
       - name: 'Compare new file with old file MD5'
         id: diff
@@ -87,11 +90,13 @@ jobs:
           if [ "$dataline1" == "$dataline2" ];then
             rm $file1
             echo "Both file are same"
-            echo "::set-output name=status::noupdate"
+            #echo "::set-output name=status::noupdate"
+            echo "status=noupdate" >> $GITHUB_OUTPUT
           else
             mv $file1 $file2
             echo "Both file are different"
-            echo "::set-output name=status::success"
+            #echo "::set-output name=status::success"
+            echo "status=success" >> $GITHUB_OUTPUT
           fi
 
       - name: 'Send telegram message on push'

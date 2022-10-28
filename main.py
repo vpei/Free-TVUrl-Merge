@@ -442,18 +442,21 @@ if(menu == 'uptvbox'):
                             parses = parses.replace(' ','').replace('\r','').replace('\n','').replace('//{','{').strip('{').strip('}')
                             for oneparse in parses.split('},{'):        
                                 try:
-                                    oneparse = '{' + oneparse + '}'
-                                    if(oneparse.find('"name":"') > -1 and oneparse.find('"url":"') > -1):
-                                        if(oneparse[-3:] == '},}'):
-                                            oneparse = oneparse[:-2]
-                                        onep = json.loads(oneparse)
-                                        if(r_parses.find(onep['url']) == -1 and r_parses_err.find(onep['url']) == -1):
-                                            if(oneparse.find('"ext":"') > -1):
-                                                r_parses = oneparse + ',' + '\r\n' + r_parses
-                                            else:
-                                                r_parses += '\r\n' + oneparse + ','
+                                    if(oneparse[-3:] == '},}'):
+                                        oneparse = oneparse[:-2]
+                                    if(len(oneparse.split('{')) == len(oneparse.split('}'))): #指定字符数量-1
+                                        oneparse = '{' + oneparse + '}'
+                                        if(oneparse.find('"name":"') > -1 and oneparse.find('"url":"') > -1):
+                                            onep = json.loads(oneparse)
+                                            if(r_parses.find(onep['url']) == -1 and r_parses_err.find(onep['url']) == -1):
+                                                if(oneparse.find('"ext":"') > -1):
+                                                    r_parses = oneparse + ',' + '\r\n' + r_parses
+                                                else:
+                                                    r_parses += '\r\n' + oneparse + ','
+                                    else:
+                                        LocalFile.write_LogFile('Main-Line-457-boxurl:' + newboxurl + '\nparse:' + oneparse)
                                 except Exception as ex:
-                                    LocalFile.write_LogFile('Main-Line-496-Exception:\n' + str(ex) + '\n' + oneparse)
+                                    LocalFile.write_LogFile('Main-Line-459-Exception:\n' + str(ex) + '\n' + oneparse)
                         if(boxsites.find('"sites":[') > -1 and boxsites.find('}],') > -1):
                             boxsites = StrText.get_str_btw(boxsites, '"sites":[', '}],', 0) + '}'
                             for onetvurl in boxsites.split('},{'):
