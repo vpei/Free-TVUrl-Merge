@@ -1,5 +1,5 @@
 {
-//Update:2022-10-28 21:01:25.935826
+//Update:2022-10-28 22:54:36.483505
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -266,7 +266,6 @@
 {"key":"csp_xpath_zj883","name":"追剧网(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/zj883.json"},
 {"key":"csp_xpath_so2","name":"淘剧鸭(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/so2.json"},
 {"key":"csp_appysv2_筑梦云影视","name":"筑梦云影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://wzys.scp00.cn/api.php/v1.vod"},
-{"key":"csp_appysv2_渔渔影视","name":"渔渔影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://luobo.yugenye.site/api.php/v1.vod"},
 {"key":"csp_appysv2_影库","name":"影库(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yingkudy.com/lvdou_api.php/v1.vod"},
 {"key":"csp_appysv2_佑尘云影视","name":"佑尘云影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.i7yc.cn/api.php/v1.vod"},
 {"key":"csp_appysv2_鑫总资源","name":"鑫总资源(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mmhkj.xyz/lvdou_api.php/v1.vod"},
@@ -559,13 +558,6 @@
 {"key":"桉t4","name":"豆瓣榜单（桉T4）","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=daae36603bcd490681bdd8d03940783a&timeout=6","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快播","name":"快播","type":1,"api":"https://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"filterable":0,"categories":["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","综艺"]},
 {"key":"百度","name":"百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
-{"key":"dr_HD(1)","name":"HD(1)(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=HD(1)","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"dr_小品网","name":"小品网(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=小品网","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_快看","name":"快看(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=快看","searchable":2,"quickSearch":1,"filterable":0},
-{"key":"dr_8号影院","name":"8号影院(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=8号影院","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_HDmoli","name":"HDmoli(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=HDmoli","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_厂长资源","name":"厂长资源(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=厂长资源","searchable":2,"quickSearch":1,"filterable":0},
-{"key":"dr_尘落影视","name":"尘落影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=尘落影视","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_310直播","name":"310直播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=310直播","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"dr_来看点播","name":"来看点播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=来看点播","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_哔哩直播","name":"哔哩直播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=哔哩直播","searchable":2,"quickSearch":0,"filterable":1},
@@ -591,9 +583,7 @@
 {"key":"dr_drpy","name":"drpy(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=drpy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dr_vip影院","name":"vip影院(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=vip影院","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_万能影视","name":"万能影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=万能影视","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_凌云影视","name":"凌云影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=凌云影视","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"dr_在线之家","name":"在线之家(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=在线之家","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_大米星球","name":"大米星球(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=大米星球","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_奇优影院","name":"奇优影院(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=奇优影院","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_奇珍异兽","name":"奇珍异兽(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=奇珍异兽","searchable":2,"quickSearch":0,"filterable":1},
 {"key":"dr_小强迷","name":"小强迷(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=小强迷","searchable":2,"quickSearch":0,"filterable":0},
@@ -660,8 +650,7 @@
 {"name":"觅知","type":1,"url":"https://jx.255tv.cn/api/?key=4nk3dhZkAWbHTNpP3n&url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
 {"name":"融兴","type":1,"url":"https://svip.rongxingvr.top/api/?key=4gb6ui9qfap4kLrvb2&url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
 {"name":"乐喵","type":1,"url":"http://jf.lemiaoyun.cn/home/api?type=ys&uid=149204&key=aceqstuvzABDJPTYZ0&url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
-{"name":"猫咪","type":1,"url":"http://api.xiaomaomi.tv/home/api?type=ys&uid=8728968&key=cdkmqvyzFIJPRT2349&url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
-{"name":"灵谷","type":1,"url":"http://s.lingutv.cn/?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}}
+{"name":"猫咪","type":1,"url":"http://api.xiaomaomi.tv/home/api?type=ys&uid=8728968&key=cdkmqvyzFIJPRT2349&url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],
