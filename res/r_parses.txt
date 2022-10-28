@@ -52,4 +52,3 @@
 {"name":"灵谷","type":1,"url":"http://s.lingutv.cn/?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
 {"name":"解析10","type":0,"url":"http://www.ckmov.vip/api.php?url="},
 {"name":"解析21","type":0,"url":"http://api.wpsseo.cn/?v="},
-{"name":"解析23","type":0,"url":"https://www.pangujiexi.cc/jiexi.php?url="},
