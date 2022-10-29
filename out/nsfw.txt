@@ -1,5 +1,5 @@
 {
-//Update:2022-10-29 14:30:11.942151
+//Update:2022-10-29 16:45:10.497880
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -50,8 +50,7 @@
 {"name":"盖世","type":1,"url":"https://www.gai4.com/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"0523","type":1,"url":"https://go.yh0523.cn/y.cy?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"17云","type":1,"url":"https://www.1717yun.com/jx/ty.php?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-{"name":"çˆ±é…·å—…æ�¢","type":0,"url":"https://jx.zhanlangbu.com/?url="},
-{"name":"宝盒TV","type":1,"url":"https://jx.52ruo.cc/json/?id=6&url="}
+{"name":"çˆ±é…·å—…æ�¢","type":0,"url":"https://jx.zhanlangbu.com/?url="}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],
