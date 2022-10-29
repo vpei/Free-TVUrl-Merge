@@ -385,3 +385,4 @@
 [2022-10-29 16:36:59] 404:{"key":"片库","name":"片库(官)","type":1,"api":"https://pianku.wang/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 [2022-10-29 16:45:09] 0:{"key":"if101资源","name":"if101(海外推荐)","type":1,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":0,"quickSearch":0,"filterable":0},
 [2022-10-29 18:22:41] 0:{"key":"mtv_xp_在线之家","name":"切片┃在线之家","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/在线之家.json"},
+[2022-10-29 20:24:28] 404:{"key":"幻风影视","name":"幻风影视","type":1,"api":"http://vip857.top/api.php/provide/vod/","searchable":1,"quickSearch":1},

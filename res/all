@@ -1,5 +1,5 @@
 "sites":[
-//Update:2022-10-29 18:31:23.825352
+//Update:2022-10-29 20:39:05.179741
 
 {"key":"csp_biubiu_骚火电影","name":"🔥🔥影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2811/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json?sign=e9v4QKma5fzqYXyi8noR30G3cwv63VOSuyetYW7l3tw%3D%3A0"},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
@@ -102,7 +102,6 @@
 {"key": "\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 1, "api": "https://www.30dian.cn/api.php/provide/vod/", "searchable": 1, "quickSearch": 1},
 {"key":"香瓜影视","name":"香瓜影视","type":1,"api":"http://v.xgvod.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"九狐影视","name":"九狐影视","type":1,"api":"http://lb.gbxy.net.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"幻风影视","name":"幻风影视","type":1,"api":"http://vip857.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"小鸟动漫","name":"小鸟动漫","type":1,"api":"http://xydm.baicai.buzz/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"蜗牛动漫","name":"蜗牛动漫","type":1,"api":"http://woniudm.woniu.cyou:20000/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"海玉影视","name":"海玉影视","type":1,"api":"http://tv2.hykjtv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -636,7 +635,6 @@
 {"key":"天天影视2","name":"天天影视2(聚)","type":1,"api":"http://tttv.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"香瓜影视","name":"香瓜影视(聚)","type":1,"api":"http://v.xgvod.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"九狐影视","name":"九狐影视(聚)","type":1,"api":"http://lb.gbxy.net.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"幻风影视","name":"幻风影视(聚)","type":1,"api":"http://vip857.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"小鸟动漫","name":"小鸟动漫(聚)","type":1,"api":"http://xydm.baicai.buzz/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"蜗牛动漫","name":"蜗牛动漫(聚)","type":1,"api":"http://woniudm.woniu.cyou:20000/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"海玉影视","name":"海玉影视(聚)","type":1,"api":"http://tv2.hykjtv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},

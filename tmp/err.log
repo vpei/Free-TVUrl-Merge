@@ -243,3 +243,7 @@ Extra data: line 1 column 69 (char 68)
 [2022-10-29 18:13:55] Main-Line-496-Exception:
 Extra data: line 1 column 73 (char 72)
 {"name":"çˆ±é…·å—…æ�¢","type":0,"url":"https://jx.zhanlangbu.com/?url="},}
+
+[2022-10-29 20:22:33] Main-Line-496-Exception:
+Extra data: line 1 column 205 (char 204)
+{"name":"17云","type":1,"url":"https://www.1717yun.com/jx/ty.php?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},}
