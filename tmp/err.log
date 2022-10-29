@@ -219,3 +219,7 @@ Extra data: line 1 column 278 (char 277)
 [2022-10-29 06:13:27] Main-Line-496-Exception:
 Extra data: line 1 column 270 (char 269)
 {"name":"觅知","type":1,"url":"https://jx.255tv.cn/api/?key=4nk3dhZkAWbHTNpP3n&url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},}
+
+[2022-10-29 09:00:41] Main-Line-496-Exception:
+Extra data: line 1 column 114 (char 113)
+{"name":"äº‘youè§£æ��â‘ ","type":1,"url":"https://chaloli.cn/home/api?type=ys&uid=1&key=dfgilnotuyDGHMQW34&url="},}

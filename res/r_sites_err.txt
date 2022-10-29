@@ -367,3 +367,8 @@
 [2022-10-28 22:41:55] 0:{"key":"dr_尘落影视","name":"尘落影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=尘落影视","searchable":2,"quickSearch":0,"filterable":0},
 [2022-10-28 22:48:52] 0:{"key":"dr_凌云影视","name":"凌云影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=凌云影视","searchable":0,"quickSearch":0,"filterable":0},
 [2022-10-28 22:50:34] 0:{"key":"dr_大米星球","name":"大米星球(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=大米星球","searchable":2,"quickSearch":0,"filterable":0},
+[2022-10-29 09:03:23] 0:{"key":"csp_appysv2_嘿荼锋","name":"嘿荼锋(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.hfys8.vip/api.php/Sntv/vod/"},
+[2022-10-29 09:11:58] 0:{"key":"*爱看资源","name":"🔞爱看资源（慢）","type":1,"api":"http://www.aikanzyz9.com/inc/apijson_vod.php","searchable":1,"quickSearch":0,"filterable":0},
+[2022-10-29 09:20:13] 0:{"key":"dr_drpy","name":"drpy(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=drpy","searchable":1,"quickSearch":1,"filterable":1},
+[2022-10-29 09:21:14] 0:{"key":"dr_vip影院","name":"vip影院(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=vip影院","searchable":2,"quickSearch":0,"filterable":0},
+[2022-10-29 09:22:14] 0:{"key":"dr_万能影视","name":"万能影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=万能影视","searchable":2,"quickSearch":0,"filterable":0},
