@@ -372,3 +372,8 @@
 [2022-10-29 09:20:13] 0:{"key":"dr_drpy","name":"drpy(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=drpy","searchable":1,"quickSearch":1,"filterable":1},
 [2022-10-29 09:21:14] 0:{"key":"dr_vip影院","name":"vip影院(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=vip影院","searchable":2,"quickSearch":0,"filterable":0},
 [2022-10-29 09:22:14] 0:{"key":"dr_万能影视","name":"万能影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=万能影视","searchable":2,"quickSearch":0,"filterable":0},
+[2022-10-29 11:38:38] 0:{"key":"mtv_xp_三五电影","name":"切片┃三五电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/三五电影.json"},
+[2022-10-29 11:41:23] 0:{"key":"mtv_xp_克拉影视","name":"切片┃克拉影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/克拉影视.json"},
+[2022-10-29 11:48:44] 0:{"key":"dr_310直播","name":"310直播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=310直播","searchable":0,"quickSearch":0,"filterable":0},
+[2022-10-29 11:49:44] 0:{"key":"dr_来看点播","name":"来看点播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=来看点播","searchable":2,"quickSearch":0,"filterable":0},
+[2022-10-29 11:50:45] 0:{"key":"dr_哔哩直播","name":"哔哩直播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=哔哩直播","searchable":2,"quickSearch":0,"filterable":1},

@@ -1,5 +1,5 @@
 {
-//Update:2022-10-29 09:25:09.853456
+//Update:2022-10-29 12:02:33.399900
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -53,8 +53,7 @@
 {"name":"çˆ±é…·å—…æ�¢","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 {"name":"宝盒TV","type":1,"url":"https://jx.52ruo.cc/json/?id=6&url="},
 {"name":"云端1","type":0,"url":"https://js.52jx.top:2525/?url="},
-{"name":"云端2","type":0,"url":"https://sb.5gseo.net/?url="},
-{"name":"ğŸ’‹Soä¸¶","type":0,"url":"https://tljiaqing.nde.tw/m3u8/?url="}
+{"name":"云端2","type":0,"url":"https://sb.5gseo.net/?url="}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],
