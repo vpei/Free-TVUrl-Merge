@@ -387,3 +387,7 @@
 [2022-10-29 18:22:41] 0:{"key":"mtv_xp_在线之家","name":"切片┃在线之家","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/在线之家.json"},
 [2022-10-29 20:24:28] 404:{"key":"幻风影视","name":"幻风影视","type":1,"api":"http://vip857.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 [2022-10-29 22:14:47] 0:{"key":"波比影视","name":"波比影视","type":1,"api":"http://xxhhsc.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
+[2022-10-30 00:18:02] 0:{"key":"XYUI","name":"XYUI","type":1,"api":"http://jx4.xyui.top:7001/api.php/provide/vod/","searchable":1,"quickSearch":1},
+[2022-10-30 00:24:58] 0:{"key":"csp_XBiubiu_饭团HD","name":"🍙饭团HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/q284855646/TVBox/-/raw/main/json/%E9%A5%AD%E5%9B%A2HD.json"},
+[2022-10-30 00:26:09] 0:{"key":"csp_XBiubiu_金眼影视","name":"🌟金眼影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/q284855646/TVBox/-/raw/main/json/%E9%87%91%E7%9C%BC%E5%BD%B1%E8%A7%86.json"},
+[2022-10-30 00:27:11] 0:{"key":"csp_XBiubiu_UM影视","name":"🦋UM影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/q284855646/TVBox/-/raw/main/json/UM%E5%BD%B1%E8%A7%86.json"},
