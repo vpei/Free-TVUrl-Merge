@@ -1,5 +1,5 @@
 {
-//Update:2022-10-30 06:19:17.066188
+//Update:2022-10-30 09:34:29.745819
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -542,12 +542,6 @@
 {"key":"百度","name":"百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 {"key":"段友影视","name":"段友影视(优)","type":1,"api":"http://shangjihuoke.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"忆梦","name":"🥉忆梦(官)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"dr_JRS看直播","name":"JRS看直播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=JRS看直播","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"dr_JRKAN直播","name":"JRKAN直播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=JRKAN直播","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"dr_吼吼[飞]","name":"吼吼[飞](道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=吼吼[飞]","searchable":2,"quickSearch":1,"filterable":0},
-{"key":"dr_学生球赛录像[js1]","name":"学生球赛录像[js1](道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=学生球赛录像[js1]","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"dr_小宝影院[飞]","name":"小宝影院[飞](道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=小宝影院[飞]","searchable":2,"quickSearch":1,"filterable":0},
-{"key":"dr_新视觉影视","name":"新视觉影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=新视觉影视","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_映迷影院","name":"映迷影院(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=映迷影院","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_欧乐影院[飞]","name":"欧乐影院[飞](道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=欧乐影院[飞]","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_爱车MV","name":"爱车MV(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=爱车MV","searchable":2,"quickSearch":0,"filterable":0},
@@ -608,8 +602,7 @@
 {"name":"ç›˜å�¤","type":0,"url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="},
 {"name":"å·¦å²¸","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2288&my=flmoqszABEIJNQT017&url=","ext":{"flag":["qq","è…¾è®¯","qiyi","çˆ±å¥‡è‰º","å¥‡è‰º","youku","ä¼˜é…·","sohu","æ�œç‹�","letv","ä¹�è§†","mgtv","èŠ’æ�œ","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
 {"name":"keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","è…¾è®¯","qiyi","çˆ±å¥‡è‰º","å¥‡è‰º","youku","ä¼˜é…·","mgtv","èŠ’æ�œ","letv","ä¹�è§†","pptv","PPTV","sohu","bilibili","å“”å“©å“”å“©","å“”å“©"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name":"GGTV1","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
-{"name":"CK解析","type":1,"url":"http://api.ckflv.cn/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}}
+{"name":"GGTV1","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],

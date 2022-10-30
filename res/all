@@ -1,5 +1,5 @@
 "sites":[
-//Update:2022-10-30 06:19:17.067799
+//Update:2022-10-30 09:34:29.747584
 
 {"key":"csp_biubiu_骚火电影","name":"🔥🔥影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2811/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json?sign=e9v4QKma5fzqYXyi8noR30G3cwv63VOSuyetYW7l3tw%3D%3A0"},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
@@ -537,12 +537,6 @@
 {"key":"百度","name":"百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 {"key":"段友影视","name":"段友影视(优)","type":1,"api":"http://shangjihuoke.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"忆梦","name":"🥉忆梦(官)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"dr_JRS看直播","name":"JRS看直播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=JRS看直播","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"dr_JRKAN直播","name":"JRKAN直播(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=JRKAN直播","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"dr_吼吼[飞]","name":"吼吼[飞](道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=吼吼[飞]","searchable":2,"quickSearch":1,"filterable":0},
-{"key":"dr_学生球赛录像[js1]","name":"学生球赛录像[js1](道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=学生球赛录像[js1]","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"dr_小宝影院[飞]","name":"小宝影院[飞](道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=小宝影院[飞]","searchable":2,"quickSearch":1,"filterable":0},
-{"key":"dr_新视觉影视","name":"新视觉影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=新视觉影视","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_映迷影院","name":"映迷影院(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=映迷影院","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_欧乐影院[飞]","name":"欧乐影院[飞](道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=欧乐影院[飞]","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_爱车MV","name":"爱车MV(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=爱车MV","searchable":2,"quickSearch":0,"filterable":0},
