@@ -26,4 +26,3 @@
 {"name":"解90","type":1,"url":"https://api.jiexi.la/?url="},
 {"name":"解91","type":1,"url":"https://jx.m3u8.tv/jiexi/?url="},
 {"name":"解94","type":1,"url":"https://jx.iztyy.com/svip/?url="},
-{"name":"云you解析①","type":1,"url":"http://chaloli.cn/home/api?type=ys&uid=1&key=dfgilnotuyDGHMQW34&url="},

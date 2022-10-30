@@ -287,3 +287,7 @@ Extra data: line 1 column 285 (char 284)
 [2022-10-30 16:15:10] Main-Line-496-Exception:
 Extra data: line 1 column 79 (char 78)
 {"name":"ç›˜å�¤","type":0,"url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="},}
+
+[2022-10-30 18:13:01] Main-Line-496-Exception:
+Extra data: line 1 column 105 (char 104)
+{"name":"云you解析①","type":1,"url":"http://chaloli.cn/home/api?type=ys&uid=1&key=dfgilnotuyDGHMQW34&url="},}
