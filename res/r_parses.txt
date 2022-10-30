@@ -23,4 +23,3 @@
 {"name":"解70","type":1,"url":"https://okjx.cc/?url="},
 {"name":"解84","type":1,"url":"https://svip.bljiex.cc/?v="},
 {"name":"解87","type":1,"url":"https://www.ikukk.com/?url="},
-{"name":"解90","type":1,"url":"https://api.jiexi.la/?url="},

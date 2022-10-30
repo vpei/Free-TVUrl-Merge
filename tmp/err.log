@@ -299,3 +299,7 @@ Extra data: line 1 column 64 (char 63)
 [2022-10-30 22:11:08] Main-Line-496-Exception:
 Extra data: line 1 column 63 (char 62)
 {"name":"解91","type":1,"url":"https://jx.m3u8.tv/jiexi/?url="},}
+
+[2022-10-31 00:16:11] Main-Line-496-Exception:
+Extra data: line 1 column 59 (char 58)
+{"name":"解90","type":1,"url":"https://api.jiexi.la/?url="},}
