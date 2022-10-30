@@ -22,4 +22,3 @@
 {"name":"解68","type":1,"url":"http://jx.rdhk.net/?url="},
 {"name":"解70","type":1,"url":"https://okjx.cc/?url="},
 {"name":"解84","type":1,"url":"https://svip.bljiex.cc/?v="},
-{"name":"解87","type":1,"url":"https://www.ikukk.com/?url="},
