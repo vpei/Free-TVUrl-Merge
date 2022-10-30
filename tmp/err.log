@@ -271,3 +271,7 @@ Extra data: line 1 column 197 (char 196)
 [2022-10-30 09:13:59] Main-Line-496-Exception:
 Extra data: line 1 column 193 (char 192)
 {"name":"CK解析","type":1,"url":"http://api.ckflv.cn/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},}
+
+[2022-10-30 11:48:19] Main-Line-496-Exception:
+Extra data: line 1 column 103 (char 102)
+{"name":"GGTV1","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},}
