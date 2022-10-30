@@ -283,3 +283,7 @@ Extra data: line 1 column 277 (char 276)
 [2022-10-30 14:15:27] Main-Line-496-Exception:
 Extra data: line 1 column 285 (char 284)
 {"name":"å·¦å²¸","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2288&my=flmoqszABEIJNQT017&url=","ext":{"flag":["qq","è…¾è®¯","qiyi","çˆ±å¥‡è‰º","å¥‡è‰º","youku","ä¼˜é…·","sohu","æ�œç‹�","letv","ä¹�è§†","mgtv","èŠ’æ�œ","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},}
+
+[2022-10-30 16:15:10] Main-Line-496-Exception:
+Extra data: line 1 column 79 (char 78)
+{"name":"ç›˜å�¤","type":0,"url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="},}
