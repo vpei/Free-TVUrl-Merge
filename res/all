@@ -1,5 +1,5 @@
 "sites":[
-//Update:2022-10-31 04:24:49.670531
+//Update:2022-10-31 06:22:02.576751
 
 {"key":"csp_biubiu_骚火电影","name":"🔥🔥影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2811/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json?sign=e9v4QKma5fzqYXyi8noR30G3cwv63VOSuyetYW7l3tw%3D%3A0"},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
@@ -39,7 +39,6 @@
 {"key":"csp_biubiu_速搜影视","name":"🥒速搜影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/速搜影视.json"},
 {"key":"新浪资源","name":"新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"乐活影视","name":"乐活影视","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"海外电影","name":"海外电影","type":1,"api":"https://www.200121.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 {"key":"闪电资源","name":"闪电资源","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"py_bilibili","name":"哔哩PY","type":3,"api":"py_bilibili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_bilibili.py"},
 {"key":"csp_xpath_A33","name":"🎸MTV","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/31693/mtv.json?sign=zzAxHDF7eAXNvp55rUpNfuLy31ZfUJyLTpWxwE_plBc%3D%3A0"},

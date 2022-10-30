@@ -413,3 +413,4 @@
 [2022-10-30 20:45:52] 404:{"key":"dr_兔小贝","name":"🔃兔小贝┃儿童启蒙","type":1,"api":"http://d.饭太硬.ml/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},
 [2022-10-30 22:12:55] 0:{"key":"爱兜视频","name":"爱兜视频","type":1,"api":"http://id190.tpddns.cn:81/mogai_api.php/provide/vod/","searchable":1,"quickSearch":1},
 [2022-10-31 02:19:47] 0:{"key":"QC影视","name":"🤠QC影视","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://www.qcsvip.com/mogai_api.php/v1.vod"},
+[2022-10-31 06:12:44] 404:{"key":"海外电影","name":"海外电影","type":1,"api":"https://www.200121.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},

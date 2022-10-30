@@ -1,5 +1,5 @@
 {
-//Update:2022-10-31 04:24:49.669527
+//Update:2022-10-31 06:22:02.575432
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -44,7 +44,6 @@
 {"key":"csp_biubiu_速搜影视","name":"🥒速搜影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/速搜影视.json"},
 {"key":"新浪资源","name":"新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"乐活影视","name":"乐活影视","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"海外电影","name":"海外电影","type":1,"api":"https://www.200121.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 {"key":"闪电资源","name":"闪电资源","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"py_bilibili","name":"哔哩PY","type":3,"api":"py_bilibili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_bilibili.py"},
 {"key":"csp_xpath_A33","name":"🎸MTV","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/31693/mtv.json?sign=zzAxHDF7eAXNvp55rUpNfuLy31ZfUJyLTpWxwE_plBc%3D%3A0"},
@@ -576,8 +575,7 @@
 {"name":"解52","type":1,"url":"https://jx.xmflv.com/?url="},
 {"name":"解53","type":1,"url":"https://www.8090g.cn/?url="},
 {"name":"解56","type":1,"url":"https://api.okjx.cc:3389/jx.php?url="},
-{"name":"解68","type":1,"url":"http://jx.rdhk.net/?url="},
-{"name":"解70","type":1,"url":"https://okjx.cc/?url="}
+{"name":"解68","type":1,"url":"http://jx.rdhk.net/?url="}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],
