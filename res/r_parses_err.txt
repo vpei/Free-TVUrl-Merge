@@ -311,3 +311,4 @@
 {"name":"jx86","type":1,"url":"https://17.txtest.qzbeyond.cn/e4a/?url=","ext":{"flag":["qq","腾讯","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"影视达人01","type":1,"url":"http://svip.cygc.xyz/api/?key=sAJihNO41tPHN3szy1&url=","ext":{"flag":["ltnb","renrenmi","xigua","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 [2022-10-29 00:17:41] 0:{"name":"4K","type":1,"url":"https://jx.4kdv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+[2022-10-31 09:14:19] 0:{"name":"解15","type":1,"url":"https://jx.7kjx.com/?url="},
