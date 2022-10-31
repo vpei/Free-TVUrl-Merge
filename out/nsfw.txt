@@ -1,5 +1,5 @@
 {
-//Update:2022-10-31 20:44:55.390576
+//Update:2022-10-31 21:31:45.063936
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -22,8 +22,7 @@
 {"name":"扶风","type":1,"url":"https://vip.byteamone.cn/api/?key=6sdRk7xF8yaTMlRoqr&url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
 {"name":"线路5","type":1,"url":"https://www.pangujiexi.com/pangu/?url="},
 {"name":"播放呀","type":1,"url":"https://jx.vk95.com/xx/?url="},
-{"name":"renrenmi1","type":1,"url":"https://jx.blbo.cc:4433/?url="},
-{"name":"解04","type":1,"url":"https://jhjx.kuanjv.com/newky/?url="}
+{"name":"renrenmi1","type":1,"url":"https://jx.blbo.cc:4433/?url="}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],
