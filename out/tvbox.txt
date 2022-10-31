@@ -1,5 +1,5 @@
 {
-//Update:2022-11-01 04:30:13.720760
+//Update:2022-11-01 06:28:52.902948
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -447,7 +447,6 @@
 {"key":"*JAV名优馆","name":"🔞JAV名优馆","type":1,"api":"http://mygzycj.com/api.php?ac=videolist","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"*奶茶资源","name":"🔞奶茶资源","type":1,"api":"https://caiji.naichaapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"csp_alist","name":"🗂Alist合集","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/Alist.json"},
-{"key":"dr_l0l","name":"🔃l0l","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=l0l","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_555","name":"🔃555","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=555影视","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_剧白白","name":"🔃剧白白","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=剧白白","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"Yiso","name":"易搜（云盘仅搜索）","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":1,"ext":"3865f0ab8f124688ad786a262af9b940"},
@@ -540,11 +539,11 @@
 {"key":"dr_小猫咪","name":"小猫咪(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=小猫咪","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_干饭影视","name":"干饭影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=干饭影视","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_影视工厂","name":"影视工厂(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=影视工厂","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_追剧喵","name":"追剧喵(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=追剧喵","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_人人影视","name":"人人影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=人人影视","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"csp_LibVio","name":"SP | LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小熊","name":"SP | 小熊TV","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"SP|厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"dr_l0l","name":"l0l(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=l0l","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"push_agent","name":"🍭推送（爱优腾/磁力/阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"daae36603bcd490681bdd8d03940783a","jar":"https://raw.iqiq.io/vpei/Free-TVUrl-Merge/main/res/push_agent.PNG"}
 ],
 
@@ -556,8 +555,7 @@
 {"name":"bz3","type":0,"url":"https://freejx.rx88.top:1234/?url="},
 {"name":"云you解析2","type":1,"url":"https://maoyingshi.cc/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14(dart:io)"}}},
 {"name":"293","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14(dart:io)"}}},
-{"name":"433解析","type":1,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905","优酷","芒果","腾讯","爱奇艺","奇艺"]}},
-{"name":"江湖","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}}
+{"name":"433解析","type":1,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905","优酷","芒果","腾讯","爱奇艺","奇艺"]}}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],

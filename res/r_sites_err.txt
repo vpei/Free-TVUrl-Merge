@@ -419,3 +419,5 @@
 [2022-10-31 20:42:04] 0:{"key":"csp_xml___小猫咪","name":"💢小猫咪","type":1,"api":"https://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 [2022-11-01 04:15:21] 0:{"key":"冠军资源","name":"冠军资源","type":1,"api":"https://www.cmpzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 [2022-11-01 04:17:40] 0:{"key":"FF9资源","name":"FF9资源(切)","type":1,"api":"https://www.ff9.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
+[2022-11-01 06:23:31] 404:{"key":"dr_l0l","name":"🔃l0l","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=l0l","searchable":1,"quickSearch":1,"filterable":0},
+[2022-11-01 06:28:23] 404:{"key":"dr_追剧喵","name":"追剧喵(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=追剧喵","searchable":2,"quickSearch":0,"filterable":0},
