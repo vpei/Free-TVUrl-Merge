@@ -16,4 +16,3 @@
 {"name":"解45","type":1,"url":"https://help.siwazywcdn2.com:5278/m3u8.php?url="},
 {"name":"解51","type":1,"url":"http://www.ikukk.com/?url="},
 {"name":"解52","type":1,"url":"https://jx.xmflv.com/?url="},
-{"name":"解53","type":1,"url":"https://www.8090g.cn/?url="},
