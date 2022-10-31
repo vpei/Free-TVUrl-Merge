@@ -1,5 +1,5 @@
 {
-//Update:2022-10-31 09:26:14.994491
+//Update:2022-10-31 11:53:04.106047
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -473,7 +473,6 @@
 {"key":"速影","name":"速影(聚)","type":1,"api":"https://速影128.xyz/inc/apijson.php","searchable":0,"quickSearch":0},
 {"key":"飞鱼影视","name":"飞鱼影视(聚)","type":1,"api":"https://app.feiyu5.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"晓峰影视","name":"晓峰影视(聚)","type":1,"api":"http://api.xxcr.tk/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"氢视频","name":"氢视频(聚)","type":1,"api":"http://www.h1080p.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"4K狗","name":"4K狗(聚)","type":1,"api":"http://4kdog.tk/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_appysv2_一站VIP影视","name":"一站VIP影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dpp8.xyz/api.php/v1.vod"},
 {"key":"csp_appysv2_我爱跟剧","name":"我爱跟剧(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.genmov.com/mogai_api.php/v1.vod"},
@@ -572,8 +571,7 @@
 {"name":"解45","type":1,"url":"https://help.siwazywcdn2.com:5278/m3u8.php?url="},
 {"name":"解51","type":1,"url":"http://www.ikukk.com/?url="},
 {"name":"解52","type":1,"url":"https://jx.xmflv.com/?url="},
-{"name":"解53","type":1,"url":"https://www.8090g.cn/?url="},
-{"name":"解56","type":1,"url":"https://api.okjx.cc:3389/jx.php?url="}
+{"name":"解53","type":1,"url":"https://www.8090g.cn/?url="}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],

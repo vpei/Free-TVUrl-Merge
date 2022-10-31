@@ -1,5 +1,5 @@
 {
-//Update:2022-10-31 09:26:14.994491
+//Update:2022-10-31 11:53:04.106047
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -28,8 +28,7 @@
 {"name":"解45","type":1,"url":"https://help.siwazywcdn2.com:5278/m3u8.php?url="},
 {"name":"解51","type":1,"url":"http://www.ikukk.com/?url="},
 {"name":"解52","type":1,"url":"https://jx.xmflv.com/?url="},
-{"name":"解53","type":1,"url":"https://www.8090g.cn/?url="},
-{"name":"解56","type":1,"url":"https://api.okjx.cc:3389/jx.php?url="}
+{"name":"解53","type":1,"url":"https://www.8090g.cn/?url="}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],

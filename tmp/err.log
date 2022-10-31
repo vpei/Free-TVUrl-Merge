@@ -319,3 +319,7 @@ Extra data: line 1 column 54 (char 53)
 [2022-10-31 09:14:23] Main-Line-496-Exception:
 Extra data: line 1 column 57 (char 56)
 {"name":"解68","type":1,"url":"http://jx.rdhk.net/?url="},}
+
+[2022-10-31 11:42:49] Main-Line-496-Exception:
+Extra data: line 1 column 69 (char 68)
+{"name":"解56","type":1,"url":"https://api.okjx.cc:3389/jx.php?url="},}
