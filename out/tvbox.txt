@@ -1,5 +1,5 @@
 {
-//Update:2022-10-31 18:25:38.075482
+//Update:2022-10-31 20:44:55.390576
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -52,7 +52,6 @@
 {"key":"csp_biubiu_风车动漫","name":"🍒风车动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2809/%E9%A3%8E%E8%BD%A6%E5%8A%A8%E6%BC%AB.json?sign=b1ntret-a0cUD6DLTuzsQFe6wX9uJpjKDv6h5YuSPjo%3D%3A0"},
 {"key":"csp_biubiu_OmoFun动漫","name":"🍒OmoFun动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2647/OmoFun%E5%8A%A8%E6%BC%AB.json?sign=NizUSKpcup6esDOfcyAk8XgIC2QvlN26n4q5_3Ardxs%3D%3A0"},
 {"key":"诺讯资源","name":"诺讯资源(官)","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":1,"quickSearch":1},
-{"key":"小猫咪","name":"小猫咪(官)","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"http://xiaomaomi.cc/player/?url=","searchable":1,"quickSearch":1},
 {"key":"39影视","name":"39影视","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_biubiu_小强影院","name":"宝盒影迷","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/3941/%E5%B0%8F%E5%BC%BA%E5%BD%B1%E8%BF%B7.json?sign=k_2eHVclgKbKUwDftUYaqOR8vQmSpX5dRrUIp551O-w%3D%3A0"},
 {"key":"csp_biubiu_瓜皮TV","name":"瓜皮TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/瓜皮TV.json"},
@@ -517,7 +516,6 @@
 {"key":"映迷","name":"映迷(优)","type":1,"api":"https://www.inmi.app/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"友人屋视界","name":"友人屋视界(聚)","type":1,"api":"https://gb.gx916.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"阿里影视","name":"阿里影视(聚)","type":1,"api":"http://aliys.cn:90/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"csp_xml___小猫咪","name":"💢小猫咪","type":1,"api":"https://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___北斗星","name":"🐝北斗星","type":1,"api":"https://api.bdxapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"douban","name":"🅱豆瓣荐片┃神器妹推介首页","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"t4","name":"T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=daae36603bcd490681bdd8d03940783a&timeout=8","searchable":1,"quickSearch":1,"filterable":0},
@@ -566,8 +564,7 @@
 {"name":"线路5","type":1,"url":"https://www.pangujiexi.com/pangu/?url="},
 {"name":"播放呀","type":1,"url":"https://jx.vk95.com/xx/?url="},
 {"name":"renrenmi1","type":1,"url":"https://jx.blbo.cc:4433/?url="},
-{"name":"解04","type":1,"url":"https://jhjx.kuanjv.com/newky/?url="},
-{"name":"解22","type":1,"url":"https://dd.mouliuk.com/home/api?type=ys&uid=12293&key=acfhkovxzDEIMPWX29&url="}
+{"name":"解04","type":1,"url":"https://jhjx.kuanjv.com/newky/?url="}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],

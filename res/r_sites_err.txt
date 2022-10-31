@@ -415,3 +415,5 @@
 [2022-10-31 02:19:47] 0:{"key":"QC影视","name":"🤠QC影视","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://www.qcsvip.com/mogai_api.php/v1.vod"},
 [2022-10-31 06:12:44] 404:{"key":"海外电影","name":"海外电影","type":1,"api":"https://www.200121.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 [2022-10-31 11:51:49] 404:{"key":"氢视频","name":"氢视频(聚)","type":1,"api":"http://www.h1080p.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+[2022-10-31 20:29:35] 0:{"key":"小猫咪","name":"小猫咪(官)","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"http://xiaomaomi.cc/player/?url=","searchable":1,"quickSearch":1},
+[2022-10-31 20:42:04] 0:{"key":"csp_xml___小猫咪","name":"💢小猫咪","type":1,"api":"https://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
