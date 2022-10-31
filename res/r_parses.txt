@@ -10,4 +10,3 @@
 {"name":"扶风","type":1,"url":"https://vip.byteamone.cn/api/?key=6sdRk7xF8yaTMlRoqr&url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
 {"name":"线路5","type":1,"url":"https://www.pangujiexi.com/pangu/?url="},
 {"name":"播放呀","type":1,"url":"https://jx.vk95.com/xx/?url="},
-{"name":"renrenmi1","type":1,"url":"https://jx.blbo.cc:4433/?url="},
