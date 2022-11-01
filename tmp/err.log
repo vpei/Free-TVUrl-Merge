@@ -367,3 +367,7 @@ Extra data: line 1 column 275 (char 274)
 [2022-11-01 06:13:52] Main-Line-496-Exception:
 Extra data: line 1 column 265 (char 264)
 {"name":"江湖","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},}
+
+[2022-11-01 09:18:15] Main-Line-496-Exception:
+Extra data: line 1 column 190 (char 189)
+{"name":"433解析","type":1,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905","优酷","芒果","腾讯","爱奇艺","奇艺"]}},}
