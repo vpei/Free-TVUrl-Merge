@@ -1,5 +1,5 @@
 "sites":[
-//Update:2022-11-02 04:23:43.247318
+//Update:2022-11-02 06:25:48.213135
 
 {"key":"csp_biubiu_骚火电影","name":"🔥🔥影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2811/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json?sign=e9v4QKma5fzqYXyi8noR30G3cwv63VOSuyetYW7l3tw%3D%3A0"},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
@@ -441,7 +441,6 @@
 {"key":"*JAV名优馆","name":"🔞JAV名优馆","type":1,"api":"http://mygzycj.com/api.php?ac=videolist","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"*奶茶资源","name":"🔞奶茶资源","type":1,"api":"https://caiji.naichaapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"csp_alist","name":"🗂Alist合集","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/Alist.json"},
-{"key":"dr_555","name":"🔃555","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=555影视","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_剧白白","name":"🔃剧白白","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=剧白白","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"Yiso","name":"易搜（云盘仅搜索）","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":1,"ext":"3865f0ab8f124688ad786a262af9b940"},
 {"key":"csp_PHP_WMKK","name":"🍭完美看看","type":1,"api":"http://api.flypotato.xyz/wmkk.php","searchable":1,"quickSearch":1,"filterable":0},
@@ -530,7 +529,6 @@
 {"key":"dr_小强迷","name":"小强迷(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=小强迷","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_小猫咪","name":"小猫咪(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=小猫咪","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_干饭影视","name":"干饭影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=干饭影视","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_影视工厂","name":"影视工厂(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=影视工厂","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_人人影视","name":"人人影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=人人影视","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"csp_LibVio","name":"SP | LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小熊","name":"SP | 小熊TV","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
