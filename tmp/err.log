@@ -379,3 +379,7 @@ Extra data: line 1 column 225 (char 224)
 [2022-11-01 14:22:15] Main-Line-496-Exception:
 Extra data: line 1 column 189 (char 188)
 {"name":"云you解析2","type":1,"url":"https://maoyingshi.cc/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14(dart:io)"}}},}
+
+[2022-11-01 16:17:04] Main-Line-496-Exception:
+Extra data: line 1 column 67 (char 66)
+{"name":"bz3","type":0,"url":"https://freejx.rx88.top:1234/?url="},}

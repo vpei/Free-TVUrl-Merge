@@ -2,4 +2,3 @@
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"bz2","type":0,"url":"https://h5.freejson.xyz/player/?url="},
-{"name":"bz3","type":0,"url":"https://freejx.rx88.top:1234/?url="},

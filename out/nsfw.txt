@@ -1,5 +1,5 @@
 {
-//Update:2022-11-01 14:33:31.307352
+//Update:2022-11-01 16:26:20.508283
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -13,8 +13,7 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-{"name":"bz2","type":0,"url":"https://h5.freejson.xyz/player/?url="},
-{"name":"bz3","type":0,"url":"https://freejx.rx88.top:1234/?url="}
+{"name":"bz2","type":0,"url":"https://h5.freejson.xyz/player/?url="}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],
