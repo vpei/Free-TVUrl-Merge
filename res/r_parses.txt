@@ -3,4 +3,3 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"bz2","type":0,"url":"https://h5.freejson.xyz/player/?url="},
 {"name":"bz3","type":0,"url":"https://freejx.rx88.top:1234/?url="},
-{"name":"云you解析2","type":1,"url":"https://maoyingshi.cc/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14(dart:io)"}}},

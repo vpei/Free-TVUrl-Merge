@@ -421,3 +421,6 @@
 [2022-11-01 04:17:40] 0:{"key":"FF9资源","name":"FF9资源(切)","type":1,"api":"https://www.ff9.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 [2022-11-01 06:23:31] 404:{"key":"dr_l0l","name":"🔃l0l","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=l0l","searchable":1,"quickSearch":1,"filterable":0},
 [2022-11-01 06:28:23] 404:{"key":"dr_追剧喵","name":"追剧喵(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=追剧喵","searchable":2,"quickSearch":0,"filterable":0},
+[2022-11-01 14:22:49] 0:{"key":"绿地影视","name":"绿地影视","type":1,"api":"https://v.lvdi.vip/api.php/provide/vod/","searchable":1,"quickSearch":1},
+[2022-11-01 14:33:17] 0:{"key":"douban","name":"🅱豆瓣荐片┃神器妹推介首页","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?","searchable":0,"quickSearch":0,"filterable":0},
+[2022-11-01 14:33:30] 0:{"key":"douban","name":"🅱豆瓣荐片┃神器妹推介首页","type":4,"api":"http://t.饭太硬.ml/vod?","searchable":0,"quickSearch":0,"filterable":0},
