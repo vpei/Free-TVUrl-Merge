@@ -371,3 +371,7 @@ Extra data: line 1 column 265 (char 264)
 [2022-11-01 09:18:15] Main-Line-496-Exception:
 Extra data: line 1 column 190 (char 189)
 {"name":"433解析","type":1,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905","优酷","芒果","腾讯","爱奇艺","奇艺"]}},}
+
+[2022-11-01 12:05:42] Main-Line-496-Exception:
+Extra data: line 1 column 225 (char 224)
+{"name":"293","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14(dart:io)"}}},}
