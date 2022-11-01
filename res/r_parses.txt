@@ -1,4 +1,3 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-{"name":"bz2","type":0,"url":"https://h5.freejson.xyz/player/?url="},
