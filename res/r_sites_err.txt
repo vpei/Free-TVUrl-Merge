@@ -428,3 +428,4 @@
 [2022-11-02 06:23:43] 0:{"key":"dr_555","name":"🔃555","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=555影视","searchable":1,"quickSearch":1,"filterable":0},
 [2022-11-02 06:25:39] 0:{"key":"dr_影视工厂","name":"影视工厂(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=影视工厂","searchable":2,"quickSearch":0,"filterable":0},
 [2022-11-02 22:23:09] 0:{"key":"csp_appysv2_快看影视","name":"快看影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kuaikys.com/mogai_api.php/v1.vod"},
+[2022-11-03 00:19:14] 0:{"key":"思古切片","name":"思古切片","type":1,"api":"https://cai.gbxy.net.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
