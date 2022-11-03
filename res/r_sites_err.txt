@@ -429,3 +429,7 @@
 [2022-11-02 06:25:39] 0:{"key":"dr_影视工厂","name":"影视工厂(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=影视工厂","searchable":2,"quickSearch":0,"filterable":0},
 [2022-11-02 22:23:09] 0:{"key":"csp_appysv2_快看影视","name":"快看影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kuaikys.com/mogai_api.php/v1.vod"},
 [2022-11-03 00:19:14] 0:{"key":"思古切片","name":"思古切片","type":1,"api":"https://cai.gbxy.net.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
+[2022-11-03 09:07:45] 0:{"key":"csp_appysv2_2号币","name":"2号币(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://phoebe.cf/api.php/iptv/vod/"},
+[2022-11-03 09:14:32] 0:{"key":"dr_小强迷","name":"小强迷(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=小强迷","searchable":2,"quickSearch":0,"filterable":0},
+[2022-11-03 09:14:37] 0:{"key":"dr_干饭影视","name":"干饭影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=干饭影视","searchable":2,"quickSearch":0,"filterable":0},
+[2022-11-03 09:14:41] 0:{"key":"dr_人人影视","name":"人人影视(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=人人影视","searchable":2,"quickSearch":0,"filterable":0},
