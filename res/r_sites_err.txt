@@ -439,3 +439,4 @@
 [2022-11-03 16:23:51] 0:{"key":"csp_xml_红牛资源","name":"🐝红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 [2022-11-03 16:31:09] 0:{"key":"少儿教育","name":"教育（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/xue.php"},
 [2022-11-03 16:36:26] 0:{"key":"csp_xml___北斗星","name":"🐝北斗星","type":1,"api":"https://api.bdxapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+[2022-11-03 22:17:27] 0:{"key":"csp_appysv2_天空TV","name":"天空TV(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.tkys.tv/api.php/iptv/vod/"},
