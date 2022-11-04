@@ -444,3 +444,4 @@
 [2022-11-04 20:31:16] 0:{"key":"mtv_xp_异次动漫","name":"切片┃异次动漫","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/异次动漫.json"},
 [2022-11-04 20:32:17] 0:{"key":"mtv_xp_去看动漫","name":"切片┃去看动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/去看动漫.json"},
 [2022-11-04 20:33:18] 0:{"key":"mtv_xp_风车动漫","name":"切片┃风车动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/风车动漫.json"},
+[2022-11-04 22:11:14] 0:{"key":"瞬间影视","name":"瞬间影视","type":1,"api":"http://app.7en7.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
