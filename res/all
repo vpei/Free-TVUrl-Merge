@@ -1,5 +1,5 @@
 "sites":[
-//Update:2022-11-04 18:24:01.303562
+//Update:2022-11-04 20:36:26.440779
 
 {"key":"csp_biubiu_骚火电影","name":"🔥🔥影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2811/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json?sign=e9v4QKma5fzqYXyi8noR30G3cwv63VOSuyetYW7l3tw%3D%3A0"},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
@@ -372,9 +372,6 @@
 {"key":"mtv_xp_干饭影视","name":"切片┃干饭影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/干饭影视.json"},
 {"key":"mtv_xp_AGE动漫","name":"切片┃AGE动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/AGE动漫.json"},
 {"key":"mtv_xp_Omo动漫","name":"切片┃Omo动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/Omo动漫.json"},
-{"key":"mtv_xp_异次动漫","name":"切片┃异次动漫","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/异次动漫.json"},
-{"key":"mtv_xp_去看动漫","name":"切片┃去看动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/去看动漫.json"},
-{"key":"mtv_xp_风车动漫","name":"切片┃风车动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/风车动漫.json"},
 {"key":"mtv_xp_维奇动漫","name":"切片┃维奇动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/维奇动漫.json"},
 {"key":"mtv_xp_不卡影院","name":"切片┃不卡影院","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/不卡影院.json"},
 {"key":"mtv_xp_骚火电影","name":"切片┃骚火电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/骚火电影.json"},

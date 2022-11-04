@@ -1,5 +1,5 @@
 {
-//Update:2022-11-04 18:24:01.302373
+//Update:2022-11-04 20:36:26.439158
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -377,9 +377,6 @@
 {"key":"mtv_xp_干饭影视","name":"切片┃干饭影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/干饭影视.json"},
 {"key":"mtv_xp_AGE动漫","name":"切片┃AGE动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/AGE动漫.json"},
 {"key":"mtv_xp_Omo动漫","name":"切片┃Omo动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/Omo动漫.json"},
-{"key":"mtv_xp_异次动漫","name":"切片┃异次动漫","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/异次动漫.json"},
-{"key":"mtv_xp_去看动漫","name":"切片┃去看动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/去看动漫.json"},
-{"key":"mtv_xp_风车动漫","name":"切片┃风车动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/风车动漫.json"},
 {"key":"mtv_xp_维奇动漫","name":"切片┃维奇动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/维奇动漫.json"},
 {"key":"mtv_xp_不卡影院","name":"切片┃不卡影院","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/不卡影院.json"},
 {"key":"mtv_xp_骚火电影","name":"切片┃骚火电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/骚火电影.json"},

@@ -441,3 +441,6 @@
 [2022-11-03 16:36:26] 0:{"key":"csp_xml___北斗星","name":"🐝北斗星","type":1,"api":"https://api.bdxapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 [2022-11-03 22:17:27] 0:{"key":"csp_appysv2_天空TV","name":"天空TV(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.tkys.tv/api.php/iptv/vod/"},
 [2022-11-04 09:16:26] 0:{"key":"csp_alist","name":"🗂Alist合集","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/Alist.json"},
+[2022-11-04 20:31:16] 0:{"key":"mtv_xp_异次动漫","name":"切片┃异次动漫","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/异次动漫.json"},
+[2022-11-04 20:32:17] 0:{"key":"mtv_xp_去看动漫","name":"切片┃去看动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/去看动漫.json"},
+[2022-11-04 20:33:18] 0:{"key":"mtv_xp_风车动漫","name":"切片┃风车动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/风车动漫.json"},
