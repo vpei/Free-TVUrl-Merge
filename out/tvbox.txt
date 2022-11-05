@@ -1,5 +1,5 @@
 {
-//Update:2022-11-05 22:21:53.697799
+//Update:2022-11-06 00:24:45.415636
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -498,7 +498,6 @@
 {"key":"忆梦","name":"🥉忆梦(官)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"dr_映迷影院","name":"映迷影院(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=映迷影院","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_欧乐影院[飞]","name":"欧乐影院[飞](道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=欧乐影院[飞]","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_爱车MV","name":"爱车MV(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=爱车MV","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_看看电影","name":"看看电影(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=看看电影","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_酷奇MV","name":"酷奇MV(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=酷奇MV","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_饭团","name":"饭团(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=饭团","searchable":2,"quickSearch":0,"filterable":0},
