@@ -452,3 +452,4 @@
 [2022-11-05 16:15:39] 0:{"key":"南国影源","name":"南国影源","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
 [2022-11-05 20:21:27] 0:{"key":"星海资源","name":"星海资源","type":1,"api":"https://www.xhzy01.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 [2022-11-06 00:24:35] 0:{"key":"dr_爱车MV","name":"爱车MV(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=爱车MV","searchable":2,"quickSearch":0,"filterable":0},
+[2022-11-06 09:04:03] 404:{"key":"天天影视2","name":"天天影视2","type":1,"api":"http://tttv.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
