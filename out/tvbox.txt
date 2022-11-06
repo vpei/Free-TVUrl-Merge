@@ -1,5 +1,5 @@
 {
-//Update:2022-11-06 14:24:14.790069
+//Update:2022-11-06 16:25:13.480332
 
 "spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
@@ -247,7 +247,6 @@
 {"key":"csp_xpath_zj883","name":"追剧网(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/zj883.json"},
 {"key":"csp_xpath_so2","name":"淘剧鸭(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/so2.json"},
 {"key":"csp_appysv2_筑梦云影视","name":"筑梦云影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://wzys.scp00.cn/api.php/v1.vod"},
-{"key":"csp_appysv2_影库","name":"影库(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yingkudy.com/lvdou_api.php/v1.vod"},
 {"key":"csp_appysv2_佑尘云影视","name":"佑尘云影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.i7yc.cn/api.php/v1.vod"},
 {"key":"csp_appysv2_鑫总资源","name":"鑫总资源(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mmhkj.xyz/lvdou_api.php/v1.vod"},
 {"key":"csp_appysv2_夕阳影视","name":"夕阳影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.seo-tv.work/mogai_api.php/v1.vod"},
@@ -487,13 +486,11 @@
 {"key":"奈菲迷","name":"奈菲迷(优)","type":1,"api":"https://app.netflixmi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"映迷","name":"映迷(优)","type":1,"api":"https://www.inmi.app/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"友人屋视界","name":"友人屋视界(聚)","type":1,"api":"https://gb.gx916.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"阿里影视","name":"阿里影视(聚)","type":1,"api":"http://aliys.cn:90/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"t4","name":"T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=daae36603bcd490681bdd8d03940783a&timeout=8","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"桉t4","name":"豆瓣榜单（桉T4）","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=daae36603bcd490681bdd8d03940783a&timeout=6","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快播","name":"快播","type":1,"api":"https://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"filterable":0,"categories":["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","综艺"]},
 {"key":"百度","name":"百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 {"key":"段友影视","name":"段友影视(优)","type":1,"api":"http://shangjihuoke.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"忆梦","name":"🥉忆梦(官)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"dr_映迷影院","name":"映迷影院(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=映迷影院","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_欧乐影院[飞]","name":"欧乐影院[飞](道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=欧乐影院[飞]","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_看看电影","name":"看看电影(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=看看电影","searchable":2,"quickSearch":0,"filterable":0},

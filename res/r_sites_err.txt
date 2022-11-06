@@ -454,3 +454,6 @@
 [2022-11-06 00:24:35] 0:{"key":"dr_爱车MV","name":"爱车MV(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=爱车MV","searchable":2,"quickSearch":0,"filterable":0},
 [2022-11-06 09:04:03] 404:{"key":"天天影视2","name":"天天影视2","type":1,"api":"http://tttv.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
 [2022-11-06 11:21:20] 0:{"key":"晓成云","name":"晓成云(官)","type":1,"api":"http://cj.cygc.xyz/api.php/provide/vod/","searchable":0,"quickSearch":0},
+[2022-11-06 16:16:42] 0:{"key":"csp_appysv2_影库","name":"影库(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yingkudy.com/lvdou_api.php/v1.vod"},
+[2022-11-06 16:25:05] 0:{"key":"阿里影视","name":"阿里影视(聚)","type":1,"api":"http://aliys.cn:90/api.php/provide/vod/","searchable":1,"quickSearch":1},
+[2022-11-06 16:25:06] 0:{"key":"忆梦","name":"🥉忆梦(官)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
