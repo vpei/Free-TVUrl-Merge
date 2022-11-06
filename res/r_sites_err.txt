@@ -477,3 +477,4 @@
 [2022-11-06 20:29:09] 404:{"key":"csp_biubiu_ting","name":"听书（无画面）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/jar2/tvjs/tingbook.json"},
 [2022-11-06 20:29:10] 404:{"key":"csp_XYQBiu_dsp","name":"短视频通道（XYQ）","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/jar2/tvjs/duanshipin.json"},
 [2022-11-06 20:29:10] 404:{"key":"mtv_pc_yinfans","name":"磁力通道-1（XP）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/yinfans.json"},
+[2022-11-07 04:13:44] 0:{"key":"卧龙资源","name":"卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
