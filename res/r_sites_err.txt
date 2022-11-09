@@ -485,3 +485,4 @@
 [2022-11-09 20:29:46] 404:{"key":"爱酷影视","name":"爱酷影视(优)","type":1,"api":"https://www.zhanlangbu.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 [2022-11-10 00:17:29] 0:{"key":"胖猫影视","name":"胖猫影视","type":1,"api":"http://www.pangmaotv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 [2022-11-10 00:27:07] 0:{"key":"胖猫影视","name":"胖猫影视(聚)","type":1,"api":"https://www.pangmaotv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+[2022-11-10 02:14:58] 404:{"key":"樱花资源","name":"樱花资源","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
