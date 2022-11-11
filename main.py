@@ -517,36 +517,6 @@ if(menu == 'uptvbox'):
     LocalFile.write_LocalFile('./res/r_parses_err.txt', r_parses_err.strip('\r\n'))
     print('Line-563:/res/r_parses_err.txt已更新。')
 
-    # 读取所有节点到allonesite新记录后面。
-    # alltypename = LocalFile.read_LocalFile("./res/typename.txt").replace('\r','')
-    # tvlists = []
-    # with open('./res/tvlist.json', 'r', encoding='utf-8') as f:
-    #     tvlists = json.load(f)
-    # num_item = len(tvlists)
-    # alltv = ''
-    # oldtypename = ''
-    # for ii in alltypename.split('\n'):
-    #     for i in range(num_item):
-    #         try:
-    #             typename = tvlists[i]['typename'].decode("unicode-escape")
-    #             tvname = tvlists[i]['tvname'].decode("unicode-escape")
-    #             tvurl = tvlists[i]['tvurl'].decode("unicode-escape")
-    #             if(tvname.find(ii) == -1 or typename == ii):
-    #                 if(ii == oldtypename):
-    #                     alltv += '\r\n' + typename + ',' + tvurl
-    #                 else:
-    #                     alltv += '\r\n\r\n' + typename + ',#genre#'
-    #             # tvname = load_dict[i]['tvname']
-    #             # tvmd5 = load_dict[i]['tvmd5']
-    #             # tvurl = load_dict[i]['tvurl']
-    #         except Exception as ex:
-    #             print('Main-Line-102-Exception:' + str(ex) + '\noneesite:' + i)
-    # alltv = alltv.strip('\n').encode('utf-8')
-    # # allboxs.json = base64.b64encode(boxsites.strip('\n').encode('utf-8')).decode('utf-8')
-    # LocalFile.write_LocalFile('./out/all', alltv)
-    # print('Line-293-Node整理成功，共有记录' + str(iii) + '条。')
-
-
 # 下载Node.json中的所有Url订阅链接将其合并，生成本地vpei-new.txt，同步至Github后改名为vpei.txt文件
 if(menu == 'check'):
     try:
@@ -597,7 +567,7 @@ if(menu == 'check'):
                                     r_sites_err += '\r\n[' + datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S") + '] ' + str(ustat) + ':' + ii + ','
                                     continue
                     elif(id == 3):
-                        if(ii.find('"ext":"') > -1):
+                        if('ext' in tv.keys()):
                             ext = tv['ext']
                             if((addtv + nsfw + r_sites_err).find(ext) > -1):
                                 continue
@@ -607,6 +577,11 @@ if(menu == 'check'):
                                     if(ustat == 404 or ustat == 0):
                                         r_sites_err += '\r\n[' + datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S") + '] ' + str(ustat) + ':' + ii + ','
                                         continue
+                        else:
+                            # 未配置Ext信息，让api值唯一
+                            if((addtv + nsfw + r_sites_err).find('"api":"' + tv['api'] + '"') > -1):
+                                continue
+
                     else:
                         spare += '\r\n' + ii + ','
                     
