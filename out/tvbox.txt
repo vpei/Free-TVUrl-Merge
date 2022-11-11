@@ -1,7 +1,7 @@
 {
 //Update:2022-11-11 16:28:57.821195
 
-"spider":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
+"spider":"http://121.36.203.35:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL0N5cmlsMDU2My9sYW5qaW5nX2xpdmVAbWFpbi9UVmJveF9GcmVlL0xJVkUvRnJlZS90dmJveF9saXZlLnR4dA=="]}]}],
 
