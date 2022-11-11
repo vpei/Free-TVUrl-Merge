@@ -1,5 +1,5 @@
 {
-//Update:2022-11-12 04:22:30.507885
+//Update:2022-11-12 06:24:20.926750
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -411,7 +411,6 @@
 {"key":"快播","name":"快播","type":1,"api":"https://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"filterable":0,"categories":["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","综艺"]},
 {"key":"百度","name":"百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 {"key":"段友影视","name":"段友影视(优)","type":1,"api":"http://shangjihuoke.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"dr_欧乐影院[飞]","name":"欧乐影院[飞](道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=欧乐影院[飞]","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_看看电影","name":"看看电影(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=看看电影","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_酷奇MV","name":"酷奇MV(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=酷奇MV","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_饭团","name":"饭团(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=饭团","searchable":2,"quickSearch":0,"filterable":0},
