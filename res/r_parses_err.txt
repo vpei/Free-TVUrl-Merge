@@ -127,3 +127,5 @@
 [2022-11-12 15:58:06] 0:{"name":"九八","type":1,"url":"https://jx.youyitv.com/?url="},
 [2022-11-12 15:58:07] 0:{"name":"leduotv","type":1,"url":"https://api.leduotv.com/wp-api/getvodurl.php?vid=","ext":{"flag":["leduo"]}},
 [2022-11-12 15:59:10] 0:{"name":"北雁","type":0,"url":"https://jx.beiyan.cc:4433/?url="},
+[2022-11-12 22:14:23] 0:{"name":"傻逼聊","url":"https://svip.spchat.top/api/?key=O9HGeIVUqU3REsnmQP&url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+[2022-11-12 22:15:17] 0:{"name":"冰豆","type":1,"url":"https://api.qianqi.net/vip/?url="},
