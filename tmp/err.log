@@ -1582,3 +1582,11 @@ tvsite:{"key":"在线直播","name":"在线直播(SP)","type":3,"api":"csp_Yj121
 
 [2022-11-12 16:41:20] Main-Line-614-Exception:Extra data: line 1 column 275 (char 274)
 tvsite:{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://zdir.kebedd69.repl.co/public/TVBox/token.json","jar":"https://kebedd69.github.io/TVbox-interface/jar/甜蜜11031.jar;md5;ca07e741640debc3777bb9a227cfb884"}"},
+
+[2022-11-12 18:12:22] Main-Line-530-Exception:HTTPSConnectionPool(host='box.okeybox.top', port=443): Max retries exceeded with url: /tv/0xth.json (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa454bd6d90>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+osite_tvurl:
+https://box.okeybox.top/tv/0xth.json
+
+[2022-11-12 18:15:00] Main-Line-496-Exception:
+Extra data: line 1 column 88 (char 87)
+{"name":"急速5","type":1,"url":"http://ck.laobandq.com/3515240842.php?pltfrom=1100&url="},}
