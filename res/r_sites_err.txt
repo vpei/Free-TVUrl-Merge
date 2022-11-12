@@ -489,3 +489,5 @@
 [2022-11-10 09:05:37] 0:{"key":"csp_appysv2_熊猫动漫","name":"熊猫动漫(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dongman.k8aa.com/mogai_api.php/v1.vod"},
 {"key":"csp_biubiu_骚火电影","name":"🔥🔥影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2811/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json?sign=e9v4QKma5fzqYXyi8noR30G3cwv63VOSuyetYW7l3tw%3D%3A0"},
 [2022-11-12 06:23:11] 0:{"key":"dr_欧乐影院[飞]","name":"欧乐影院[飞](道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=欧乐影院[飞]","searchable":2,"quickSearch":0,"filterable":0},
+[2022-11-12 09:09:39] 0:{"key":"cms-cokemv","name":"📨cokemv","type":4,"api":"http://cms.nokia.press/vod?rule=cokemv","searchable":1,"quickSearch":1,"filterable":1},
+[2022-11-12 09:11:11] 0:{"key":"dr_看看电影","name":"看看电影(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=看看电影","searchable":2,"quickSearch":0,"filterable":0},
