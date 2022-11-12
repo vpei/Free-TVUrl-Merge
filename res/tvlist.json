@@ -1,5 +1,5 @@
-{"uptime":"2021-10-2409:26:19","type":"mixed","upmd5":"edc648d24e854c80e8d504ffe4919ef4","tvurl":"https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/nsfw.txt","size":56176}
-{"uptime":"2021-10-2409:26:19","type":"mixed","upmd5":"56797ea80d59e60bacf2149bd4136984","tvurl":"https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt","size":218512}
+{"uptime": "2021-11-12 15:29:28", "type": "mixed", "upmd5": "4b60cf9f34408b5001411331ae6829f6", "tvurl": "https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt", "size": 82926}
+{"uptime": "2021-11-12 15:29:28", "type": "mixed", "upmd5": "30fb3442f1eac0518214633cad6563fd", "tvurl": "https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/nsfw.txt", "size": 3753}
 {"uptime":"2022-09-1621:27:42","type":"mixed","upmd5":"3523f31b387d9dd5098f57a1741f40e2","tvurl":"https://pastebin.com/raw/gtbKvnE1","size":13126}
 {"uptime":"2022-09-1621:27:46","type":"mixed","upmd5":"37e0a16f0efea6b08a7676b46896e836","tvurl":"http://3800.free.fr/api/down.php/d4b6ff80248826a62d32e4db61b58583.json","size":86116}
 {"uptime":"2022-09-1621:27:50","type":"mixed","upmd5":"895eec5b448fb90e08387267a9aedae4","tvurl":"https://gitee.com/y333/33/raw/3/3/2","size":67669}
@@ -16,8 +16,8 @@
 {"uptime":"2022-10-0823:21:37","type":"mixed","upmd5":"9476586c2120ed0a00f9c4850778f546","tvurl":"https://freed.yuanhsing.cf/TVBox/meowcf.json","size":80115}
 {"uptime":"2022-10-0823:21:38","type":"mixed","upmd5":"1dce1ec15058a9424b60093f35b40d07","tvurl":"https://github.com/YuanHsing/freed/raw/master/TVBox/meow.json","size":83625}
 {"uptime":"2022-10-0823:21:45","type":"mixed","upmd5":"7ea0e480c43ff6cb5b20351c7fcc8dce","tvurl":"https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/normal.json","size":79465}
-{"uptime":"2022-10-0823:21:46","type":"mixed","upmd5":"59362262764aad0a995b4324afbe9739","tvurl":"https://maoyingshi.cc/tvbox/\u4e91\u661f\u65e5\u8bb0/bili.json","size":7322}
-{"uptime":"2022-10-0823:21:49","type":"mixed","upmd5":"ed05297088dea1b42ed5b673532a20b9","tvurl":"http://miaotvs.cn/osc","size":21139}
+{"uptime": "2022-11-12 15:29:43", "type": "mixed", "upmd5": "847375f336afe34f63d9aa386ba99282", "tvurl": "https://maoyingshi.cc/tvbox/\u4e91\u661f\u65e5\u8bb0/bili.json", "size": 6943}
+{"uptime": "2022-11-12 15:29:45", "type": "mixed", "upmd5": "ddc427f572dc514620251cedaa827cbf", "tvurl": "http://miaotvs.cn/osc", "size": 5146}
 {"uptime":"2022-10-0823:21:53","type":"mixed","upmd5":"8b616f9264bbd03d66ecdd62b0b93007","tvurl":"https://wds.ecsxs.com/223843.txt","size":9571}
 {"uptime":"2022-10-0823:21:58","type":"mixed","upmd5":"74f5d06c3bba1af6e0e68afbe543e792","tvurl":"https://liu673cn.github.io/box/m.json","size":57480}
 {"uptime":"2022-10-0823:22:01","type":"mixed","upmd5":"74f5d06c3bba1af6e0e68afbe543e792","tvurl":"https://raw.iqiq.io/liu673cn/box/main/m.json","size":57480}
@@ -26,35 +26,27 @@
 {"uptime":"2022-10-0823:22:09","type":"mixed","upmd5":"74f5d06c3bba1af6e0e68afbe543e792","tvurl":"https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json","size":57480}
 {"uptime":"2022-10-0823:22:09","type":"mixed","upmd5":"f24429d8c2c4a0c0c226ee9c411851de","tvurl":"https://agit.ai/zwx/see/raw/branch/dev/v/ys.json","size":14519}
 {"uptime":"2022-10-0823:22:23","type":"mixed","upmd5":"fc76e0be73e527b6550178a62b71a9ab","tvurl":"https://raw.fastgit.org/once678/looktv/main/tvbox8.json","size":24187}
-{"uptime":"2022-10-1012:10:10","type":"mixed","upmd5":"d805b55a404c40a2df981f11c2a986ba","tvurl":"http://\u521a\u521a.live/\u732b","size":17421}
+{"uptime": "2022-11-12 15:29:53", "type": "mixed", "upmd5": "1793c119a3253308bb61f5635b1a3556", "tvurl": "http://\u521a\u521a.live/\u732b", "size": 17421}
 {"uptime":"2022-10-1109:24:59","type":"mixed","upmd5":"ac35669c502cd115fd6d5ea3c2b258b0","tvurl":"https://e40.cn/yyds","size":30564}
 {"uptime":"2022-10-1218:16:55","type":"mixed","upmd5":"dca16f0d71bbaa529a73d27a855fb217","tvurl":"http://shuyuan.miaogongzi.net/shuyuan/1662645008.json","size":4562}
 {"uptime":"2022-10-1414:57:53","type":"mixed","upmd5":"6e4acede050b70c7833ba38b5f6f4b99","tvurl":"https://pastebin.com/raw/FSLJXZN5","size":3638}
-{"uptime":"2022-10-2409:30:48","type":"mixed","upmd5":"69f420edd85fd82e4475b28007bf0889","tvurl":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/pyn.json","size":94847}
 {"uptime":"2022-10-1716:30:58","type":"mixed","upmd5":"dc200fccc8953596a80500ad04a19dc4","tvurl":"https://gitcode.net/kuukey/a/-/raw/master/0.json","size":9487}
-{"uptime":"2022-10-1920:30:32","type":"mixed","upmd5":"f02a8f093eac3e4c275d26008b8c4c71","tvurl":"http://52bsj.vip:98/wuai","size":34582}
+{"uptime": "2022-11-12 15:29:58", "type": "mixed", "upmd5": "69c49dc8759b7a8b161af1f03dc547f7", "tvurl": "http://52bsj.vip:98/wuai", "size": 37973}
 {"uptime":"2022-10-2218:15:19","type":"mixed","upmd5":"15c98e67ca7c6d126b699e727d5330b4","tvurl":"https://agit.ai/wealways/maoTV/raw/branch/master/newmao.json","size":11284}
 {"uptime":"2022-10-2220:25:16","type":"mixed","upmd5":"0c47bb2aea5232b57ee04212b87f1cf5","tvurl":"https://agit.ai/n/b/raw/branch/a/b/c.json","size":37506}
-{"uptime":"2022-10-2409:30:54","type":"mixed","upmd5":"97f8e2b7d480c186cc1747588197ac31","tvurl":"https://download.kstore.space/download/2863/01.txt","size":162545}
-{"uptime":"2022-10-2222:16:22","type":"mixed","upmd5":"34778aaf8867d83b6adcc47e27dcb522","tvurl":"https://dxawi.github.io/0/0.json","size":9525}
-{"uptime":"2022-10-2300:27:10","type":"mixed","upmd5":"78a52da1829fd3e74e450efee7dacce0","tvurl":"https://raw.iqiq.io/kebedd69/TVbox-interface/main/\u751c\u871c.json","size":15081}
-{"uptime":"2022-10-2306:17:58","type":"mixed","upmd5":"afb46ac2a9e5259b1e946c7f728181e","tvurl":"https://\u795e\u5668\u6bcf\u65e5\u63a8\u9001.tk/pz.json","size":20624}
-{"uptime":"2022-10-2306:17:58","type":"mixed","upmd5":"afb46ac2a9e5259b1e946c7f728181e","tvurl":"https://xn--m7r412advb92j21st65a.tk/pz.json","size":20624}
-{"uptime":"2022-10-2309:14:49","type":"mixed","upmd5":"87c1e34d5fa1bff4862e370b307aa7a","tvurl":"https://maoyingshi.cc/tvbox/\u4e91\u661f\u65e5\u8bb0/ali.m3u8","size":13150}
-{"uptime":"2022-10-2320:27:08","type":"mixed","upmd5":"1031da397bf097706192a5d4bcf75d","tvurl":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0","size":25382}
-{"uptime":"2022-10-2322:18:52","type":"mixed","upmd5":"449a96e3ec1b73f5c3e4090b94477c7","tvurl":"http://47.242.90.42:8888/down/BJZPa8THuiE9","size":23021}
-{"uptime":"2022-10-2322:19:07","type":"mixed","upmd5":"e69387744772283a44b0928204e6037","tvurl":"https://0a.fit/yyds","size":32238}
-{"uptime":"2022-10-2400:23:46","type":"mixed","upmd5":"12e7ae2e75ceb25abd63c93b8230680","tvurl":"https://drpy.owen10086.repl.co/config/2","size":63453}
-{"uptime":"2022-10-2400:23:46","type":"mixed","upmd5":"cc17ea09798fdd77145d0473533ec9e","tvurl":"https://maoyingshi.cc/tvbox/\u4e91\u661f\u65e5\u8bb0/1.m3u8","size":13495}
-{"uptime":"2022-10-2400:23:56","type":"mixed","upmd5":"4ba63b2d88c264a1685186893766f06","tvurl":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","size":44956}
-{"uptime":"2022-10-2409:31:04","type":"mixed","upmd5":"97f8e2b7d480c186cc1747588197ac31","tvurl":"http://s.nxw.so/vip","size":162545}
-{"uptime":"2022-10-2409:31:04","type":"mixed","upmd5":"97f8e2b7d480c186cc1747588197ac31","tvurl":"http://miaotvs.cn/meow","size":162545}
-{"uptime":"2022-10-2409:31:04","type":"mixed","upmd5":"97f8e2b7d480c16cc1747588197ac31","tvurl":"http://js.134584.xyz/json/pp87.json","size":162545}
-{"uptime":"2022-10-2409:31:04","type":"mixed","upmd5":"97f8e2b7d480c16cc1747588197ac31","tvurl":"https://freed.yuanhsing.cf/TVBox/meowcf.json","size":162545}
-{"uptime":"2022-10-2409:31:04","type":"mixed","upmd5":"97f8e2b7d480c16cc1747588197ac31","tvurl":"https://download.kstore.space/download/2863/01.txt","size":162545}
-{"uptime":"2022-10-2409:31:04","type":"mixed","upmd5":"97f8e2b7d480c16cc1747588197ac31","tvurl":"https://agit.ai/n/b/raw/branch/a/b/c.json","size":162545}
-{"uptime":"2022-10-2409:31:04","type":"mixed","upmd5":"97f8e2b7d480c16cc1747588197ac31","tvurl":"https://raw.iqiq.io/liu673cn/box/main/m.json","size":162545}
-{"uptime":"2022-10-2409:31:04","type":"mixed","upmd5":"97f8e2b7d480c16cc1747588197ac31","tvurl":"http://miaotvs.cn/osc","size":162545}
-{"uptime":"2022-10-2409:31:04","type":"mixed","upmd5":"97f8e2b7d480c186cc1747588197ac31","tvurl":"http://刚刚.live/猫","size":162545}
-{"uptime":"2022-10-2409:31:04","type":"mixed","upmd5":"97f8e2b7d480c186cc1747588197ac31","tvurl":"https://raw.liucn.cc/box/m.json","size":162545}
-{"uptime":"2022-10-2409:31:04","type":"mixed","upmd5":"97f8e2b7d480c186cc1747588197ac31","tvurl":"https://wds.ecsxs.com/223843.txt","size":162545}
+{"uptime": "2022-11-12 15:30:00", "type": "mixed", "upmd5": "5bfbe742ff93fb756056832a563e85e5", "tvurl": "https://dxawi.github.io/0/0.json", "size": 10617}
+{"uptime": "2022-11-12 15:30:03", "type": "mixed", "upmd5": "60251cef976455347e4d05b5fdd1e8f3", "tvurl": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/\u751c\u871c.json", "size": 15035}
+{"uptime": "2022-11-12 15:30:04", "type": "mixed", "upmd5": "c7ecfd590a967169a6c404af22b3b488", "tvurl": "https://\u795e\u5668\u6bcf\u65e5\u63a8\u9001.tk/pz.json", "size": 21368}
+{"uptime": "2022-11-12 15:30:04", "type": "mixed", "upmd5": "c7ecfd590a967169a6c404af22b3b488", "tvurl": "https://xn--m7r412advb92j21st65a.tk/pz.json", "size": 21368}
+{"uptime": "2022-11-12 15:30:05", "type": "mixed", "upmd5": "f7608b4f297629469966001c4de9cf69", "tvurl": "https://maoyingshi.cc/tvbox/\u4e91\u661f\u65e5\u8bb0/ali.m3u8", "size": 12636}
+{"uptime": "2022-11-12 15:30:06", "type": "mixed", "upmd5": "3cd4a52a7b9a5c79ed3482dcd1701a62", "tvurl": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0", "size": 29053}
+{"uptime": "2022-11-12 15:30:07", "type": "mixed", "upmd5": "453e4b73bb606d3c76376bf20d04c8e7", "tvurl": "http://47.242.90.42:8888/down/BJZPa8THuiE9", "size": 16433}
+{"uptime": "2022-11-12 15:30:08", "type": "mixed", "upmd5": "b6e4c82d8a127b5b9006c1dd413cc9d1", "tvurl": "https://0a.fit/yyds", "size": 35525}
+{"uptime": "2022-11-12 15:30:10", "type": "mixed", "upmd5": "d634f9ca70f914d561234ceb40d3f219", "tvurl": "https://drpy.owen10086.repl.co/config/2", "size": 70949}
+{"uptime": "2022-11-12 15:30:11", "type": "mixed", "upmd5": "c3c865c7cab8c21187e8f6bd86549a85", "tvurl": "https://maoyingshi.cc/tvbox/\u4e91\u661f\u65e5\u8bb0/1.m3u8", "size": 13941}
+{"uptime": "2022-11-12 15:30:12", "type": "mixed", "upmd5": "c888534dd403b1be06b6a90c7566319a", "tvurl": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "size": 23820}
+{"uptime": "2022-11-12 15:30:14", "type": "mixed", "upmd5": "e88e9abdc92a837e7a9cd27364b87045", "tvurl": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/pyn.json", "size": 95592}
+{"uptime": "2022-11-12 15:30:15", "type": "mixed", "upmd5": "c269865e6883cbb64b4d90941846af2e", "tvurl": "https://download.kstore.space/download/2863/01.txt", "size": 184725}
+{"uptime": "2022-11-12 15:30:16", "type": "mixed", "upmd5": "9485909d04bf81f81bf2679e6d1206f1", "tvurl": "http://miaotvs.cn/meow", "size": 18404}
+{"uptime": "2022-11-12 15:30:18", "type": "mixed", "upmd5": "c269865e6883cbb64b4d90941846af2e", "tvurl": "http://s.nxw.so/vip", "size": 184725}
+{"uptime": "2022-11-12 15:30:20", "type": "mixed", "upmd5": "1793c119a3253308bb61f5635b1a3556", "tvurl": "http://\u521a\u521a.live/\u732b", "size": 17421}

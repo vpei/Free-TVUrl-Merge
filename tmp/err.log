@@ -923,3 +923,662 @@ Extra data: line 1 column 44 (char 43)
 [2022-11-12 15:24:03] Main-Line-496-Exception:
 Extra data: line 1 column 44 (char 43)
 {"name":"Json轮询","type":2,"url":"Sequence"},}
+
+[2022-11-12 15:29:39] Main-Line-530-Exception:HTTPSConnectionPool(host='box.okeybox.top', port=443): Max retries exceeded with url: /tv/0xth.json (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb30011ec50>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+osite_tvurl:
+https://box.okeybox.top/tv/0xth.json
+
+[2022-11-12 15:29:53] Main-Line-211-Exception:Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+onetvurl:
+{//b站筛选嫖自Q群管理ZJ{"key":"csp_BBB","name":"哔哩合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/json/bili.json"}
+
+[2022-11-12 15:29:53] Main-Line-211-Exception:Extra data: line 1 column 138 (char 137)
+onetvurl:
+{"key":"dr_兔小贝","name":"兔小贝┃儿童教育","type":1,"api":"http://drpy.fuqizhishi.com/vod?rule=兔小贝","searchable":2,"quickSearch":0,"filterable":0},//xbpq劳思~{"key":"csp_xBPQ_在线","name":"️在线之家","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/json/zxzj2.json"}
+
+[2022-11-12 15:29:53] Main-Line-211-Exception:Extra data: line 1 column 146 (char 145)
+onetvurl:
+{"key":"csp_xBPQ_酷客","name":"酷客影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/json/kuke.json"},//XYQB香佬{"key":"csp_XYQBiu_lingyun","name":"凌云影视","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/json/lingyun.json"},//{"key":"csp_XYQBiu_23yy","name":"23影院","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/json/23ys.json"}
+
+[2022-11-12 15:29:53] Main-Line-211-Exception:Extra data: line 1 column 142 (char 141)
+onetvurl:
+{"key":"dr_AnFuns","name":"AnFuns","type":1,"api":"http://drpy.fuqizhishi.com/vod?rule=AnFuns","searchable":2,"quickSearch":0,"filterable":0},//{"key":"演唱会","name":"演唱会（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/演唱会.php"},//{"key":"戏曲","name":"戏曲（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/戏曲.php"}
+
+[2022-11-12 15:29:53] Main-Line-211-Exception:Extra data: line 1 column 158 (char 157)
+onetvurl:
+{"key":"csp_XYQBiu_dsp","name":"短视频合集","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/json/duanshipin.json"},//{"key":"少儿教育","name":"教育合集┃B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/xue.php"},//这一部分白嫖{"key":"pc_学习课堂","name":"学习课堂┃B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/学堂.json"},//{"key":"xp_女团热舞","name":"女团热舞┃B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/女团热舞.json"}
+
+[2022-11-12 15:29:53] Main-Line-211-Exception:Extra data: line 1 column 150 (char 149)
+onetvurl:
+{"key":"csp_Alist","name":"Alist┃网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/json/alist.json"},//{"key":"csp_bendi","name":"本地文件","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":0,"filterable":1,"type_flag":1}
+
+[2022-11-12 15:29:58] Main-Line-459-Exception:
+Extra data: line 1 column 111 (char 110)
+{"name":"leduotv","type":1,"url":"https://api.leduotv.com/wp-api/getvodurl.php?vid=","ext":{"flag":["leduo"]}},#type0æ‰‹åŠ¨è§£æ��{"name":"OJBK","type":0,"url":"https://jmwl.qd234.cn/v/?v=","ext":{"flag":["ltnb","renrenmi","rx","xfyun","muxm3u8","xigua","xueren","qq","è…¾è®¯","qiyi","çˆ±å¥‡è‰º","å¥‡è‰º","youku","ä¼˜é…·","mgtv","èŠ’æ�œ","bilibili","å“”å“©å“”å“©","å“”å“©","pptv","PPTV","sohu","letv"]}}
+
+[2022-11-12 15:29:58] Main-Line-211-Exception:Extra data: line 1 column 177 (char 176)
+onetvurl:
+{"key":"push_agent","name":"ğŸ›´æ�¨é€�äº‘ç›˜ç£�åŠ›","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://sourl.cn/MTtpwt"},//å…¶ä»–{"key":"csp_å‰§è�’","name":"ğŸ�­å‰§è�’","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1}
+
+[2022-11-12 15:30:04] Main-Line-211-Exception:Extra data: line 1 column 156 (char 155)
+onetvurl:
+{"key":"Upyunso","name":"😻Up云搜┃搜索","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},//{"key":"Alips","name":"🦊Ali盘搜┃搜索","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"}
+
+[2022-11-12 15:30:04] Main-Line-211-Exception:Extra data: line 1 column 163 (char 162)
+onetvurl:
+{"key":"push_agent","name":"手机推送┃云盘|磁力","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},//{"key":"csp_xBPQ_coke","name":"🍀coke","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/coke.json"},//{"key":"csp_xBPQ_工场","name":"🍀工场","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/影视工场.json"},//{"key":"csp_xBPQ_蓝光","name":"🍀蓝光","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/蓝光.json"}
+
+[2022-11-12 15:30:04] Main-Line-211-Exception:Extra data: line 1 column 140 (char 139)
+onetvurl:
+{"key":"csp_xp_348z","name":"💢348电影","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xp/348z.json"},//{"key":"csp_xp_dm84","name":"💢动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xp/dm84.json"}
+
+[2022-11-12 15:30:04] Main-Line-211-Exception:Extra data: line 1 column 156 (char 155)
+onetvurl:
+{"key":"Upyunso","name":"😻Up云搜┃搜索","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},//{"key":"Alips","name":"🦊Ali盘搜┃搜索","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"}
+
+[2022-11-12 15:30:04] Main-Line-211-Exception:Extra data: line 1 column 163 (char 162)
+onetvurl:
+{"key":"push_agent","name":"手机推送┃云盘|磁力","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},//{"key":"csp_xBPQ_coke","name":"🍀coke","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/coke.json"},//{"key":"csp_xBPQ_工场","name":"🍀工场","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/影视工场.json"},//{"key":"csp_xBPQ_蓝光","name":"🍀蓝光","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/蓝光.json"}
+
+[2022-11-12 15:30:04] Main-Line-211-Exception:Extra data: line 1 column 140 (char 139)
+onetvurl:
+{"key":"csp_xp_348z","name":"💢348电影","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xp/348z.json"},//{"key":"csp_xp_dm84","name":"💢动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xp/dm84.json"}
+
+[2022-11-12 15:30:05] Main-Line-457-boxurl:https://maoyingshi.cc/tvbox/云星日记/ali.m3u8
+parse:"name":"æ¬¢é›¨","type":1,"url":"http://www.youhuifuligou.com/json/?id=7&url=","ext":{"flag":["qq","è…¾è®¯","qiyi","çˆ±å¥‡è‰º","å¥‡è‰º","youku","ä¼˜é…·","letv","ä¹�è§†","xigua","è¥¿ç“œ"]
+
+[2022-11-12 15:30:06] Main-Line-211-Exception:Extra data: line 1 column 229 (char 228)
+onetvurl:
+{"key":"csp_Kunyu77","name":"👒七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/59542/1007.jar?sign=bkJykVTD6QDtfBpTDWQxnRyan-vn9IcpkUxZDIcnwXU%3D%3A0"},//{"key":"csp_XBPQ厂长","name":"🎈厂长影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/weixin_58340148/box/-/raw/master/XBPQ/cz_xBPQ_.json","jar":"https://gitcode.net/weixin_58340148/box/-/raw/master/XBPQ/xBPQ_1017.jar"}
+
+[2022-11-12 15:30:06] Main-Line-211-Exception:Extra data: line 1 column 292 (char 291)
+onetvurl:
+{"key":"push_agent","name":"🍭推送（爱优腾/磁力/阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"5e8a0d48c3f4486a843351c716c1af66","jar":"http://52bsj.vip:81/api/v3/file/get/40056/%E5%8E%9F%E7%94%BB.jar?sign=Dnj7Fy_zQPEegI4pHmr7QcT8Q6ujk8tiyBjD_kn8TTk%3D%3A0"},//{"key":"T4","name":"T4搜索","type":4,"api":"https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://share.nite07.com/api/v3/file/source/18177/t4.jar?sign=wvzbHCnMNPaxy4weFwgjQal4Fh-i2-Agm2eibngmbNY%3D%3A0"}
+
+[2022-11-12 15:30:06] Main-Line-211-Exception:Extra data: line 1 column 249 (char 248)
+onetvurl:
+{"key":"csp_xpath_球迷2","name":"⚽🏀球赛","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/61590/88%E7%9C%8B%E7%90%83.json?sign=J3XdftVlI-XzA7XxU2l7YDos4rEyMirQsH_eIxxPAv0%3D%3A0"},//{"key":"555电影","name":"5️⃣555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/10444/555.json?sign=8sknI0YOBdUoTnqlLxlY6vSTraw9Ou5A30Rw5Z4rZhk%3D%3A0"}
+
+[2022-11-12 15:30:10] Main-Line-457-boxurl:https://drpy.owen10086.repl.co/config/2
+parse:"name":"8090","url":"https://www.8090g.cn/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"
+
+[2022-11-12 15:30:11] Main-Line-211-Exception:Extra data: line 1 column 142 (char 141)
+onetvurl:
+{"key":"csp_77","name":"ğŸ‘’é…·äº‘ä¸ƒä¸ƒã€”SPã€•Qç¾¤ï¼š783468715","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},//{"key":"douban","name":"ğŸ”�è±†ç“£è��ç‰‡ã€”T4ã€•","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":1,"quickSearch":1,"filterable":0}
+
+[2022-11-12 15:30:12] Main-Line-211-Exception:Extra data: line 1 column 108 (char 107)
+onetvurl:
+{"key":"csp_Bttoo","name":"✌两个BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},//{"key":"csp_Jianying","name":"✨简影","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjo1MzE4LCJDcmVhdGVkQXQiOiIyMDIyLTAzLTE4VDE5OjI0OjM2LjkzOCswODowMCIsIlVwZGF0ZWRBdCI6IjIwMjItMDktMDVUMTA6NTY6MjguMDAzKzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiMzExMTI0ODcwMEBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJiOGIwNmU2ZS1jZjkwLTQ1NDItYmVjMS05NDk4OGVhMDE4NGIiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjoiMjAyMi0wOS0wNVQxMDo1NjoyOC4wMDIrMDg6MDAiLCJyZWdfa2V5IjoiOTg4MTUxMzUiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjYzMDI2NTAyLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.m92i6og64WbwmCHYnI9CWL--Y1NwdMhvH4-Kn6FmPk8"}
+
+[2022-11-12 15:30:15] Main-Line-459-Exception:
+Extra data: line 1 column 44 (char 43)
+{"name":"Json轮询","type":2,"url":"Sequence"},#type1聚合.并发.轮询{"name":"很牛逼","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="}
+
+[2022-11-12 15:30:15] Main-Line-459-Exception:
+Extra data: line 1 column 108 (char 107)
+{"name":"海星解析","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=1735&my=hjklmsuwyzDGHIKXY3&url="},#type0手动解析{"name":"OJBK","type":0,"url":"https://jmwl.qd234.cn/v/?v=","ext":{"flag":["ltnb","renrenmi","rx","xfyun","muxm3u8","xigua","xueren","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩","pptv","PPTV","sohu","letv"]}}
+
+[2022-11-12 15:30:15] Main-Line-457-boxurl:https://download.kstore.space/download/2863/01.txt
+parse:"name":"CL4K02","type":0,"url":"https://app.okmedcos.com/4k/?url=","ext":{"flag":["CL4K","qq","腾讯","pptv","PPTV"]
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Extra data: line 1 column 268 (char 267)
+onetvurl:
+{"key":"潇洒美食","name":"🍱潇洒美食","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/美食合集.json","jar":"https://download.kstore.space/download/2863/Bili.jar;md5;c5c337bb2793598e9aa5953898fbb087"},//======================================================================================================={"key":"360_spider","name":"🍩360影视","type":3,"api":"csp_SP360","searchable":0,"quickSearch":0,"filterable":0}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Extra data: line 1 column 105 (char 104)
+onetvurl:
+{"key":"剧荒TV","name":"🎞剧荒TV","type":3,"api":"csp_Juhuang","searchable":0,"quickSearch":0,"filterable":0},//{"key":"293视频","name":"✌️293视频","type":3,"api":"csp_SP293","searchable":0,"quickSearch":0,"filterable":0,"jar":"http://wailian.icu/data/f_65055236.jpg;md5;06ed1a662fc19e4ea22f60f02770f4b6"},//{"key":"csp_剧荒","name":"🎞剧荒","api":"csp_Juhuang","type":3,"filterable":0,"quickSearch":0,"searchable":0,"jar":"https://link.jscdn.cn/lanzou/aHR0cHM6Ly93d2QubGFuem91bC5jb20vaTN0NFIwOXd1MTRo.jpg;md5;1bd31b8197f0047aeebb6f78133ca121"}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Extra data: line 1 column 149 (char 148)
+onetvurl:
+{"key":"GitCafe","name":"📜阿里纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"},//,"jar":"https://link.jscdn.cn/lanzou/aHR0cHM6Ly93d2QubGFuem91bC5jb20vaWJyU1IwOXg5Zmxp.jpg;md5;acc9342e0488b454637854295249dfb1"{"key":"csp_XYQBiu_凌云韩国","name":"🐻凌云韩国","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/凌云视频韩国.json","jar":"https://download.kstore.space/download/2863/XYQBiu_0828.jar"}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Extra data: line 1 column 202 (char 201)
+onetvurl:
+{"key":"在线之家","name":"‍👨🏻‍💻在线之家","api":"csp_Zxzj","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://download.kstore.space/download/2863/cs.jar;md5;83fb605345300da7c3d2c2f2a36c6cdc"},//{"key":"csp_Wmkk","name":"💯完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},//{"key":"Cokemv","name":"🦋Cokemv影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},//{"key":"csp_LibVio","name":"🐱LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},//======================================================================================================={"key":"csp_IQIYI","name":"🥝爱","type":3,"api":"csp_IQIYI","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://download.kstore.space/download/2863/xsxin.jar;md5;76ddd410eca67676f4c23a24ae4c7df7"}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Extra data: line 1 column 111 (char 110)
+onetvurl:
+{"key":"csp_Anime1","name":"🌸小日本动漫","type":3,"api":"csp_Anime1","searchable":0,"quickSearch":0,"filterable":0},//======================================================================================================={"key":"drpy_js_厂长资源","name":"🕵‍厂长资源🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/厂长资源.js"}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Extra data: line 1 column 214 (char 213)
+onetvurl:
+{"key":"drpy_js_NY影院","name":"🕵NY影院🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/NY影院.js"},//[飞]源结束地址========================================================================================================{"key":"drpy_js_吼吼影视[飞]","name":"🕵吼吼影视[飞]🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/吼吼[飞].js"}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Extra data: line 1 column 220 (char 219)
+onetvurl:
+{"key":"drpy_js_独播库[飞]","name":"🕵独播库[飞]🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/独播库[飞].js"},//GitHub==================================================================================================={"key":"drpy_js_豆瓣","name":"🎖豆瓣","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/豆瓣.js"}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Extra data: line 1 column 233 (char 232)
+onetvurl:
+{"key":"drpy_js_BD影视","name":"🥌BD影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/BD影视.js"},//js源结束地址========================================================================================================{"key":"drpy_js_短视频","name":"🎥短视频","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/短视频.js"}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Extra data: line 1 column 213 (char 212)
+onetvurl:
+{"key":"drpy_js_DJ音乐","name":"🎥DJ音乐","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/DJ音乐.js"},//=======================================================================================================//======================================================================================================={"key":"csp_xBPQ_um","name":"🎒UM看(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/umkan（XBPQ）.json"}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Extra data: line 1 column 187 (char 186)
+onetvurl:
+{"key":"csp_xBPQ_追剧猫","name":"🐱追剧猫(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/追剧猫（XBPQ）.json"},//XBPQ结束========================================================================================================{"key":"csp_xBPQ_23影视","name":"⚛23影视(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/TVboxo/main/XBPQ/23影视.json"}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Extra data: line 1 column 212 (char 211)
+onetvurl:
+{"key":"csp_xBPQ_e9视频","name":"☪e9视频(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/TVboxo/main/XBPQ/e9视频.json"},//GitHubxBPQ结束========================================================================================================{"key":"csp_XYQBiu_17看球","name":"🏀17看球(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://download.kstore.space/download/2863/xsxin.jar;md5;76ddd410eca67676f4c23a24ae4c7df7","ext":"https://download.kstore.space/download/2863/XYQ/17看球（XYQ）.json"}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Extra data: line 1 column 286 (char 285)
+onetvurl:
+{"key":"csp_XYQBiu_神马筛选","name":"神马筛选(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/神马筛选.json","jar":"https://download.kstore.space/download/2863/xsxin.jar;md5;76ddd410eca67676f4c23a24ae4c7df7"},//XYQ结束========================================================================================================{"key":"腾讯视频〔官源〕","name":"🐝腾讯〔官源〕","type":1,"api":"https://ikaola.tv/api.php/provide/vod/from/qq/?ac=list"}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Extra data: line 1 column 176 (char 175)
+onetvurl:
+{"key":"csp_appysv2_amhys","name":"🌸爱麻花影院(SP)","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://v.jiexi.work/qingdoujiekou.php/v1.vod"},//=======================================================================================================//======================================================================================================={"key":"多多","name":"🐶多多影视","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Expecting value: line 1 column 46 (char 45)
+onetvurl:
+{"key":"杠杠影视","name":"⚖️杠杠影视","type":1,"api":csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://mov.fuqizhishi.com/api.php/provide/vod/"}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Expecting value: line 1 column 45 (char 44)
+onetvurl:
+{"key":"嗷呜影视","name":"🐺嗷呜影视","type":1,"api":csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://www.cx99999.cn/lvdou_api.php/v1.vod"},//======================================================================================================={"key":"csp_biubiu_厂长资源-蓝光","name":"🚚厂长蓝光","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/xpath/厂长资源-蓝光.json"}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Extra data: line 1 column 191 (char 190)
+onetvurl:
+{"key":"csp_biubiu_不开VIP","name":"🈲不开VIP(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/不开VIP.json"},//{"key":"csp_biubiu_在线之家","name":"🏮在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/xpath/在线之家.json"},//{"key":"csp_biubiu_乐猪影视","name":"😻乐猪影视(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/乐猪影视.json"}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Extra data: line 1 column 197 (char 196)
+onetvurl:
+{"key":"csp_xpath_cokemv","name":"💽Cokemv(XP)","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/cokemv.json"},//{"key":"csp_xpath_ikan","name":"💎爱看(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/xpath/ikan.json"}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Expecting value: line 1 column 8 (char 7)
+onetvurl:
+{"key":csp_xpath_电影牛","name":"🦏电影牛(XB)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/电影牛.json"}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Extra data: line 1 column 185 (char 184)
+onetvurl:
+{"key":"csp_biubiu_小强迷","name":"🐞小强迷(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/xpath/小强迷.json"},//=======================================================================================================//{"key":"csp_Alist1","name":"🍰Alist🍰","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"米奇妙妙屋$https://anime.mqmmw.ga#小光盘$https://alist.xiaoguanxiaocheng.life#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园的宝藏库$https://alist.52qy.repl.co#嗨翻$https://pan.hikerfans.com#一只鱼$https://alist.youte.ml#听闻网盘$https://wangpan.sangxuesheng.com#菊花盘$https://pan.142856.xyz#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com","jar":"https://download.kstore.space/download/2863/alist.jar"}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Extra data: line 1 column 184 (char 183)
+onetvurl:
+{"key":"t4_聚合","name":"📡聚合(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable":1,"quickSearch":1,"filterable":1},//{"key":"T4","name":"🦌T4爬虫","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=f94f580abee345aba10f8f3551e29853","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/xpath/T4.json"},//{"key":"T4","name":"🍹T4聚搜🍹","type":4,"api":"https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=f94f580abee345aba10f8f3551e29853&timeout=10","searchable":1,"quickSearch":1,"filterable":1},//{"key":"T4public","name":"🍹T4聚搜🍹","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3a49cf29cf20410997247c6eb4509be9&timeout=10","searchable":1,"quickSearch":1,"filterable":1},//{"key":"T4备用","name":"T4搜索(备用)","type":4,"api":"https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":1,"quickSearch":1,"filterable":1},//======================================================================================================={"key":"csp_Alist","name":"🍰Alist🍰","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/XSVIP/TV/-/raw/master/TVBox/Alist.txt"},//{"key":"T4聚合","name":"🌏T4聚合","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=8f0b3f0dc1834f309f077ea5549e99a8&timeout=5","searchable":1,"quickSearch":1,"filterable":1}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Extra data: line 1 column 126 (char 125)
+onetvurl:
+{"key":"csp_bendi","name":"📂本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},//=======================================================================================================//{"key":"AliPS","name":"🍛盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"8f0b3f0dc1834f309f077ea5549e99a8","jar":"https://link.jscdn.cn/lanzou/aHR0cHM6Ly93d2QubGFuem91bC5jb20vaWJyU1IwOXg5Zmxp.jpg;md5;acc9342e0488b454637854295249dfb1"},//{"key":"csp_Yiso","name":"🐞易搜(仅搜索)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":1,"ext":"8f0b3f0dc1834f309f077ea5549e99a8","jar":"https://link.jscdn.cn/lanzou/aHR0cHM6Ly93d2QubGFuem91bC5jb20vaWJyU1IwOXg5Zmxp.jpg;md5;acc9342e0488b454637854295249dfb1"},//{"key":"Zhaozy","name":"👨🏻‍💻找源(仅搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"8f0b3f0dc1834f309f077ea5549e99a8","jar":"https://link.jscdn.cn/lanzou/aHR0cHM6Ly93d2QubGFuem91bC5jb20vaWJyU1IwOXg5Zmxp.jpg;md5;acc9342e0488b454637854295249dfb1"},//{"key":"push_agent","name":"📲推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"},//======================================================================================================={"key":"csp_biubiu_真的卡影院","name":"🃏真的不卡影院(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/zhenbuka.json"}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Extra data: line 1 column 187 (char 186)
+onetvurl:
+{"key":"csp_xpath_Grab4K","name":"👕Grab4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/Grab4K.json"},//======================================================================================================={"key":"csp_xpath_喵乐","name":"🦁喵乐(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/喵乐.json"}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Extra data: line 1 column 196 (char 195)
+onetvurl:
+{"key":"csp_xpath_蛋蛋赞","name":"🥚🥚赞(XPF)","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/dandanzan10.json"},//======================================================================================================={"key":"csp_biubiu_快猫","name":"🐹快猫(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"{\r\n\"name\":\"快猫\",\r\n\"url\":\"https://www.maomiava.com\",\r\n\"User\":\"空\",\r\n\"shouye\":\"1\",\r\n\"fenlei\":\"电视剧$/index.php/vod/show/id/66/page/#电影$/index.php/vod/show/id/1/page/#综艺$/index.php/vod/show/id/3/page/#动漫$/index.php/vod/show/id/4/page/\",\r\n\"houzhui\":\".html\",\r\n\"shifouercijiequ\":\"1\",\r\n\"jiequqian\":\"module-page\\\">\",\r\n\"jiequhou\":\"id=\\\"page\\\">\",\r\n\"jiequshuzuqian\":\"<a\",\r\n\"jiequshuzuhou\":\"no-referrer\",\r\n\"tupianqian\":\"data-original=\\\"\",\r\n\"tupianhou\":\"\\\"\",\r\n\"biaotiqian\":\"title=\\\"\",\r\n\"biaotihou\":\"\\\"\",\r\n\"lianjieqian\":\"href=\\\"\",\r\n\"lianjiehou\":\"\\\"\",\r\n\"sousuoqian\":\"/index.php/ajax/suggest?mid=1&wd=\",\r\n\"sousuohou\":\"&limit=500\",\r\n\"sousuohouzhui\":\"/index.php/vod/detail/id/\",\r\n\"ssmoshi\":\"0\",\r\n\"sousuoshifouercijiequ\":\"0\",\r\n\"jspic\":\"pic\",\r\n\"jsname\":\"name\",\r\n\"jsid\":\"id\",\r\n\"ssjiequqian\":\"空\",\r\n\"ssjiequhou\":\"空\",\r\n\"ssjiequshuzuqian\":\"空\",\r\n\"ssjiequshuzuhou\":\"空\",\r\n\"sstupianqian\":\"空\",\r\n\"sstupianhou\":\"空\",\r\n\"ssbiaotiqian\":\"空\",\r\n\"ssbiaotihou\":\"空\",\r\n\"sslianjieqian\":\"空\",\r\n\"sslianjiehou\":\"空\",\r\n\"bfshifouercijiequ\":\"0\",\r\n\"bfjiequqian\":\"空\",\r\n\"bfjiequhou\":\"空\",\r\n\"zhuangtaiqian\":\"class=\\\"module-info-item-content\\\">\",\r\n\"zhuangtaihou\":\"</div>\",\r\n\"daoyanqian\":\"导演：\",\r\n\"daoyanhou\":\"</a>\",\r\n\"zhuyanqian\":\"主演：\",\r\n\"zhuyanhou\":\"</a>\",\r\n\"juqingqian\":\"class=\\\"module-info-introduction-content\\\">\",\r\n\"juqinghou\":\"</p>\",\r\n\"bfjiequshuzuqian\":\"class=\\\"module-list\",\r\n\"bfjiequshuzuhou\":\"</div>\",\r\n\"bfyshifouercijiequ\":\"0\",\r\n\"bfyjiequqian\":\"空\",\r\n\"bfyjiequhou\":\"空\",\r\n\"bfyjiequshuzuqian\":\"<a\",\r\n\"bfyjiequshuzuhou\":\"/a>\",\r\n\"bfbiaotiqian\":\"<span>\",\r\n\"bfbiaotihou\":\"</span>\",\r\n\"bflianjieqian\":\"href=\\\"\",\r\n\"bflianjiehou\":\"\\\"\"\r\n}"}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Extra data: line 1 column 2047 (char 2046)
+onetvurl:
+{"key":"csp_biubiu_小鸟","name":"🐦小鸟(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"{\r\n\"name\":\"小鸟\",\r\n\"url\":\"http://www.158381886.xyz/\",\r\n\"User\":\"空\",\r\n\"shouye\":\"1\",\r\n\"fenlei\":\"电影$/index.php/vod/show/id/1/page/#国产剧$/index.php/vod/show/id/13/page/#电视剧$/index.php/vod/show/id/2#综艺$/index.php/vod/show/id/3/page/#动画$/index.php/vod/show/id/4/page/\",\r\n\"houzhui\":\".html\",\r\n\"shifouercijiequ\":\"0\",\r\n\"jiequqian\":\"class=\\\"module-items\",\r\n\"jiequhou\":\"id=\\\"page\",\r\n\"jiequshuzuqian\":\"class=\\\"module-item\\\">\",\r\n\"jiequshuzuhou\":\"</div>\",\r\n\"tupianqian\":\"data-src=\\\"\",\r\n\"tupianhou\":\"\\\"\",\r\n\"biaotiqian\":\"title=\\\"\",\r\n\"biaotihou\":\"\\\"\",\r\n\"lianjieqian\":\"href=\\\"\",\r\n\"lianjiehou\":\"\\\"\",\r\n\"sousuoqian\":\"/index.php/ajax/suggest?mid=1&wd=\",\r\n\"sousuohou\":\"&limit=500\",\r\n\"sousuohouzhui\":\"/index.php/vod/detail/id/\",\r\n\"ssmoshi\":\"0\",\r\n\"sousuoshifouercijiequ\":\"0\",\r\n\"jspic\":\"pic\",\r\n\"jsname\":\"name\",\r\n\"jsid\":\"id\",\r\n\"ssjiequqian\":\"空\",\r\n\"ssjiequhou\":\"空\",\r\n\"ssjiequshuzuqian\":\"空\",\r\n\"ssjiequshuzuhou\":\"空\",\r\n\"sstupianqian\":\"空\",\r\n\"sstupianhou\":\"空\",\r\n\"ssbiaotiqian\":\"空\",\r\n\"ssbiaotihou\":\"空\",\r\n\"sslianjieqian\":\"空\",\r\n\"sslianjiehou\":\"空\",\r\n\"bfshifouercijiequ\":\"0\",\r\n\"bfjiequqian\":\"空\",\r\n\"bfjiequhou\":\"空\",\r\n\"zhuangtaiqian\":\"更新：\",\r\n\"zhuangtaihou\":\"</div>\",\r\n\"daoyanqian\":\"导演：\",\r\n\"daoyanhou\":\"</div>\",\r\n\"zhuyanqian\":\"主演：\",\r\n\"zhuyanhou\":\"</div>\",\r\n\"juqingqian\":\"简介：\",\r\n\"juqinghou\":\"/div>\",\r\n\"bfjiequshuzuqian\":\"class=\\\"sort-item\\\"\",\r\n\"bfjiequshuzuhou\":\"</div>\",\r\n\"bfyshifouercijiequ\":\"0\",\r\n\"bfyjiequqian\":\"空\",\r\n\"bfyjiequhou\":\"空\",\r\n\"bfyjiequshuzuqian\":\"<a\",\r\n\"bfyjiequshuzuhou\":\"/a>\",\r\n\"bfbiaotiqian\":\"<span>\",\r\n\"bfbiaotihou\":\"</span>\",\r\n\"bflianjieqian\":\"href=\\\"\",\r\n\"bflianjiehou\":\"\\\"\"\r\n}"},//{"key":"csp_biubiu_8K","name":"🎱K影院","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"{\r\n\"name\":\"8K\",\r\n\"url\":\"http://vip.8kvod.com:888\",\r\n\"User\":\"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/88.0.4324.150Safari/537.36\",\r\n\"shouye\":\"1\",\r\n\"fenlei\":\"电视剧$/t/2/page/#电影$/t/1/page/#综艺$/t/3/page/#动漫$/t/4/page/\",\r\n\"houzhui\":\"/\",\r\n\"shifouercijiequ\":\"0\",\r\n\"jiequqian\":\"空\",\r\n\"jiequhou\":\"空\",\r\n\"jiequshuzuqian\":\"class=\\\"myui-vodlist__box\\\">\",\r\n\"jiequshuzuhou\":\"</div>\",\r\n\"tupianqian\":\"data-original=\\\"\",\r\n\"tupianhou\":\"\\\"\",\r\n\"biaotiqian\":\"title=\\\"\",\r\n\"biaotihou\":\"\\\"\",\r\n\"lianjieqian\":\"href=\\\"\",\r\n\"lianjiehou\":\"\\\"\",\r\n\"sousuoqian\":\"/index.php/ajax/suggest?mid=1&wd=\",\r\n\"sousuohou\":\"&limit=500\",\r\n\"sousuohouzhui\":\"/k/\",\r\n\"ssmoshi\":\"0\",\r\n\"sousuoshifouercijiequ\":\"0\",\r\n\"jspic\":\"pic\",\r\n\"jsname\":\"name\",\r\n\"jsid\":\"id\",\r\n\"ssjiequqian\":\"空\",\r\n\"ssjiequhou\":\"空\",\r\n\"ssjiequshuzuqian\":\"空\",\r\n\"ssjiequshuzuhou\":\"空\",\r\n\"sstupianqian\":\"空\",\r\n\"sstupianhou\":\"空\",\r\n\"ssbiaotiqian\":\"空\",\r\n\"ssbiaotihou\":\"空\",\r\n\"sslianjieqian\":\"空\",\r\n\"sslianjiehou\":\"空\",\r\n\"bfshifouercijiequ\":\"0\",\r\n\"bfjiequqian\":\"空\",\r\n\"bfjiequhou\":\"空\",\r\n\"zhuangtaiqian\":\"class=\\\"text-red\\\">\",\r\n\"zhuangtaihou\":\"</span>\",\r\n\"daoyanqian\":\"导演：\",\r\n\"daoyanhou\":\"</p>\",\r\n\"zhuyanqian\":\"主演：\",\r\n\"zhuyanhou\":\"</p>\",\r\n\"juqingqian\":\"简介：\",\r\n\"juqinghou\":\"</p>\",\r\n\"bfjiequshuzuqian\":\"class=\\\"myui-content__listsort-listclearfix\\\"\",\r\n\"bfjiequshuzuhou\":\"</div>\",\r\n\"bfyshifouercijiequ\":\"0\",\r\n\"bfyjiequqian\":\"空\",\r\n\"bfyjiequhou\":\"空\",\r\n\"bfyjiequshuzuqian\":\"<li\",\r\n\"bfyjiequshuzuhou\":\"</li>\",\r\n\"bfbiaotiqian\":\">第\",\r\n\"bfbiaotihou\":\"</a>\",\r\n\"bflianjieqian\":\"href=\\\"\",\r\n\"bflianjiehou\":\"\\\"\"\r\n}"},//======================================================================================================={key:'if101海外推荐',name:'🚧If101海外🚧',type:0,api:'https://demo.if101.tv/api.php/provide/vod/at/xml',searchable:1,quickSearch:0,filterable:0}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+onetvurl:
+{key:'唐人街',name:'🚧唐人街海外🚧',type:0,api:'https://www.tangrenjie.tv/api.php/provide/vod/at/xml',searchable:1,quickSearch:0,filterable:0}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+onetvurl:
+{key:'csp_Nbys',name:'🚧泥巴海外🚧',type:3,api:'csp_Nbys',searchable:1,quickSearch:1,filterable:1,jar:'https://download.kstore.space/download/2863/91d.jar;md5;A5ED2B58063A1915FF1FE0B83DBEF99D'}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+onetvurl:
+{key:'If101',name:'🚧If101海外🚧',type:3,api:'csp_If101',searchable:1,quickSearch:1,filterable:1,jar:'https://download.kstore.space/download/2863/91d.jar;md5;A5ED2B58063A1915FF1FE0B83DBEF99D'}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+onetvurl:
+{key:'csp_biubiu_小宝影院',name:'🚧小宝影院海外🚧',type:3,api:'csp_XBiubiu',searchable:0,quickSearch:0,filterable:0,ext:'https://download.kstore.space/download/2863/xpath/xbyshw.json'}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+onetvurl:
+{key:'csp_xpath_HOHO',name:'🚧HOHO海外🚧',type:3,api:'csp_XPathMacFilter',searchable:1,quickSearch:1,filterable:1,ext:'https://download.kstore.space/download/2863/xpath/Hoho.json'}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+onetvurl:
+{key:'csp_xpath_独播库',name:'🚧独播库海外🚧',type:3,api:'csp_XPathMacFilter',searchable:1,quickSearch:1,filterable:1,ext:'https://download.kstore.space/download/2863/xpath/duboku.json'},//======================================================================================================={"key":"csp_biubiu_OmoFun动漫","name":"🥒OmoFun动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/OmoFun动漫.json"}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Extra data: line 1 column 185 (char 184)
+onetvurl:
+{"key":"csp_biubiu_伊雪湾","name":"🥒伊雪湾(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/伊雪湾.json"},##XPath系列{"key":"csp_xpath_独播库","name":"独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/duboku.json"}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Extra data: line 1 column 193 (char 192)
+onetvurl:
+{"key":"csp_xpath_zxzj2","name":"在线之家(XPF)","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/zxzj2.json"},//{"key":"csp_xpath_auete","name":"Auete影视(XPF)","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/auete.json"}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Extra data: line 1 column 181 (char 180)
+onetvurl:
+{"key":"csp_xpath_so2","name":"淘剧鸭(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/so2.json"},##M浏览器中APP影视规则支持(AppYsV2){"key":"csp_appysv2_独播社","name":"独播社","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://35ys.cc/api.php/v1.vod"}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Extra data: line 1 column 164 (char 163)
+onetvurl:
+{"key":"csp_appysv2_69美剧","name":"69美剧(萝卜)","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://www.69mj.com/api.php/v1.vod"},#神马{"key":"csp_appysv2_影视阁","name":"影视阁(神马)","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://216.98.10.85/api.php/iptv/vod/"}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Extra data: line 1 column 161 (char 160)
+onetvurl:
+{"key":"csp_appysv2_2号币","name":"2号币(神马)","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://phoebe.cf/api.php/iptv/vod/"},#官方解析{"key":"8090资源","name":"8090资源(官)","type":1,"api":"http://zy.yilans.net:8090/api.php/provide/vod/","searchable":0,"quickSearch":0}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Extra data: line 1 column 2036 (char 2035)
+onetvurl:
+{"key":"csp_biubiu_搜狗影院","name":"🐶搜狗影院(官)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"{\"name\":\"搜狗影院(官)\",\r\n\"url\":\"http://sogouyy.cn\",\r\n\"tihuan\":\"cnzz.com\",\r\n\"User\":\"空\",\r\n\"fenlei\":\"电影$/s/dianying/page/#电视剧$/s/dianshiju/page/#综艺$/s/zongyi/page/#动漫$/s/dianying/page/#B站$/s/bilibili/page/\",\r\n\"houzhui\":\"---.html\",\r\n\"shifouercijiequ\":\"1\",\r\n\"jiequqian\":\"class=\\\"module-items\",\r\n\"jiequhou\":\"<divid=\\\"page\",\r\n\"jiequshuzuqian\":\"<divclass=\\\"module-item\\\">\",\r\n\"jiequshuzuhou\":\"</div>\",\r\n\"tupianqian\":\"src=\\\"\",\r\n\"tupianhou\":\"\\\"\",\r\n\"biaotiqian\":\"title=\\\"\",\r\n\"biaotihou\":\"\\\"\",\r\n\"lianjieqian\":\"href=\\\"\",\r\n\"lianjiehou\":\"\\\"\",\r\n\"sousuoqian\":\"/index.php/ajax/suggest?mid=1&wd=\",\r\n\"sousuohou\":\"&limit=500\",\r\n\"sousuohouzhui\":\"/d/\",\r\n\"ssmoshi\":\"0\",\r\n\"sousuoshifouercijiequ\":\"0\",\r\n\"jspic\":\"pic\",\r\n\"jsname\":\"name\",\r\n\"jsid\":\"id\",\r\n\"ssjiequqian\":\"空\",\r\n\"ssjiequhou\":\"空\",\r\n\"ssjiequshuzuqian\":\"空\",\r\n\"ssjiequshuzuhou\":\"空\",\r\n\"sstupianqian\":\"空\",\r\n\"sstupianhou\":\"空\",\r\n\"ssbiaotiqian\":\"空\",\r\n\"ssbiaotihou\":\"空\",\r\n\"sslianjieqian\":\"空\",\r\n\"sslianjiehou\":\"空\",\r\n\"bfshifouercijiequ\":\"0\",\r\n\"bfjiequqian\":\"空\",\r\n\"bfjiequhou\":\"空\",\r\n\"bfjiequshuzuqian\":\"class=\\\"sort-item\\\"\",\r\n\"bfjiequshuzuhou\":\"</div>\",\r\n\"zhuangtaiqian\":\"集数：</span>\",\r\n\"zhuangtaihou\":\"</div>\",\r\n\"daoyanqian\":\"导演：</span>\",\r\n\"daoyanhou\":\"</div>\",\r\n\"zhuyanqian\":\"主演：</span>\",\r\n\"zhuyanhou\":\"</div>\",\r\n\"juqingqian\":\"class=\\\"video-info-itemvideo-info-contentvod_content\\\">\",\r\n\"juqinghou\":\"<a\",\r\n\"bfyshifouercijiequ\":\"0\",\r\n\"bfyjiequqian\":\"空\",\r\n\"bfyjiequhou\":\"空\",\r\n\"bfyjiequshuzuqian\":\"<a\",\r\n\"bfyjiequshuzuhou\":\"/a>\",\r\n\"bfbiaotiqian\":\"<span>\",\r\n\"bfbiaotihou\":\"<\",\r\n\"bflianjieqian\":\"href=\\\"\",\r\n\"bflianjiehou\":\"\\\"\"}"},//{"key":"csp_biubiu_饭团","name":"🍚饭团","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"{\r\n\"name\":\"饭团\",\r\n\"url\":\"http://www.fantuantva.com/\",\r\n//\"User\":\"User-Agent:Dart/2.14(dart:io)\",\r\n\"shouye\":\"1\",\r\n\"fenlei\":\"电影$/t/dianying/page/#大陆剧$/t/lianxuju/page/#国产剧$/t/guochanju/page/#综艺$/t/zongyi/page/#动漫$/t/dongman/page/\",\r\n\"houzhui\":\".html\",\r\n\"shifouercijiequ\":\"0\",\r\n\"jiequqian\":\"空\",\r\n\"jiequhou\":\"空\",\r\n\"jiequshuzuqian\":\"class=\\\"show_play\\\">\",\r\n\"jiequshuzuhou\":\"</div>\",\r\n\"tupianqian\":\"data-original=\\\"\",\r\n\"tupianhou\":\"\\\"\",\r\n\"biaotiqian\":\"title=\\\"\",\r\n\"biaotihou\":\"\\\"\",\r\n\"lianjieqian\":\"href=\\\"\",\r\n\"lianjiehou\":\"\\\"\",\r\n\"sousuoqian\":\"/index.php/ajax/suggest?mid=1&wd=\",\r\n\"sousuohou\":\"&limit=500\",\r\n\"sousuohouzhui\":\"/v/\",\r\n\"ssmoshi\":\"0\",\r\n\"sousuoshifouercijiequ\":\"0\",\r\n\"jspic\":\"pic\",\r\n\"jsname\":\"name\",\r\n\"jsid\":\"id\",\r\n\"ssjiequqian\":\"空\",\r\n\"ssjiequhou\":\"空\",\r\n\"ssjiequshuzuqian\":\"空\",\r\n\"ssjiequshuzuhou\":\"空\",\r\n\"sstupianqian\":\"空\",\r\n\"sstupianhou\":\"空\",\r\n\"ssbiaotiqian\":\"空\",\r\n\"ssbiaotihou\":\"空\",\r\n\"sslianjieqian\":\"空\",\r\n\"sslianjiehou\":\"空\",\r\n\"bfshifouercijiequ\":\"0\",\r\n\"bfjiequqian\":\"空\",\r\n\"bfjiequhou\":\"空\",\r\n\"bfjiequshuzuqian\":\"class=\\\"con_c2_list\\\">\",\r\n\"bfjiequshuzuhou\":\"</ul>\",\r\n\"zhuangtaiqian\":\"class=\\\"tc_wz\\\">\",\r\n\"zhuangtaihou\":\"</p>\",\r\n\"daoyanqian\":\"导演：</span>\",\r\n\"daoyanhou\":\"</p>\",\r\n\"zhuyanqian\":\"主演：</span>\",\r\n\"zhuyanhou\":\"</p>\",\r\n\"juqingqian\":\"</span>\",\r\n\"juqinghou\":\"</p>\",\r\n\"bfyshifouercijiequ\":\"0\",\r\n\"bfyjiequqian\":\"空\",\r\n\"bfyjiequhou\":\"空\",\r\n\"bfyjiequshuzuqian\":\"<a\",\r\n\"bfyjiequshuzuhou\":\"/a>\",\r\n\"bfbiaotiqian\":\">\",\r\n\"bfbiaotihou\":\"<\",\r\n\"bflianjieqian\":\"href=\\\"\",\r\n\"bflianjiehou\":\"\\\"\"},\r\n"},#切片资源{"key":"极速BT资源","name":"极速BT资源(切)","type":1,"api":"https://api.jisubt.com/videos","searchable":0,"quickSearch":0}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Extra data: line 1 column 125 (char 124)
+onetvurl:
+{"key":"南国影源","name":"南国影源(切)","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/","searchable":0,"quickSearch":0},##优质资源{"key":"U酷资源","name":"U酷资源(优)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0}
+
+[2022-11-12 15:30:15] Main-Line-211-Exception:Extra data: line 1 column 124 (char 123)
+onetvurl:
+{"key":"筋斗云","name":"筋斗云(优)","type":1,"api":"https://tv.jindcloud.com/api.php/provide/vod/","searchable":0,"quickSearch":0},##三方聚合{"key":"影图","name":"影图(聚)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":0,"quickSearch":0}
+
+[2022-11-12 15:30:18] Main-Line-459-Exception:
+Extra data: line 1 column 44 (char 43)
+{"name":"Json轮询","type":2,"url":"Sequence"},#type1聚合.并发.轮询{"name":"很牛逼","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="}
+
+[2022-11-12 15:30:18] Main-Line-459-Exception:
+Extra data: line 1 column 108 (char 107)
+{"name":"海星解析","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=1735&my=hjklmsuwyzDGHIKXY3&url="},#type0手动解析{"name":"OJBK","type":0,"url":"https://jmwl.qd234.cn/v/?v=","ext":{"flag":["ltnb","renrenmi","rx","xfyun","muxm3u8","xigua","xueren","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩","pptv","PPTV","sohu","letv"]}}
+
+[2022-11-12 15:30:18] Main-Line-457-boxurl:http://s.nxw.so/vip
+parse:"name":"CL4K02","type":0,"url":"https://app.okmedcos.com/4k/?url=","ext":{"flag":["CL4K","qq","腾讯","pptv","PPTV"]
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Extra data: line 1 column 268 (char 267)
+onetvurl:
+{"key":"潇洒美食","name":"🍱潇洒美食","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/美食合集.json","jar":"https://download.kstore.space/download/2863/Bili.jar;md5;c5c337bb2793598e9aa5953898fbb087"},//======================================================================================================={"key":"360_spider","name":"🍩360影视","type":3,"api":"csp_SP360","searchable":0,"quickSearch":0,"filterable":0}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Extra data: line 1 column 105 (char 104)
+onetvurl:
+{"key":"剧荒TV","name":"🎞剧荒TV","type":3,"api":"csp_Juhuang","searchable":0,"quickSearch":0,"filterable":0},//{"key":"293视频","name":"✌️293视频","type":3,"api":"csp_SP293","searchable":0,"quickSearch":0,"filterable":0,"jar":"http://wailian.icu/data/f_65055236.jpg;md5;06ed1a662fc19e4ea22f60f02770f4b6"},//{"key":"csp_剧荒","name":"🎞剧荒","api":"csp_Juhuang","type":3,"filterable":0,"quickSearch":0,"searchable":0,"jar":"https://link.jscdn.cn/lanzou/aHR0cHM6Ly93d2QubGFuem91bC5jb20vaTN0NFIwOXd1MTRo.jpg;md5;1bd31b8197f0047aeebb6f78133ca121"}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Extra data: line 1 column 149 (char 148)
+onetvurl:
+{"key":"GitCafe","name":"📜阿里纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"},//,"jar":"https://link.jscdn.cn/lanzou/aHR0cHM6Ly93d2QubGFuem91bC5jb20vaWJyU1IwOXg5Zmxp.jpg;md5;acc9342e0488b454637854295249dfb1"{"key":"csp_XYQBiu_凌云韩国","name":"🐻凌云韩国","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/凌云视频韩国.json","jar":"https://download.kstore.space/download/2863/XYQBiu_0828.jar"}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Extra data: line 1 column 202 (char 201)
+onetvurl:
+{"key":"在线之家","name":"‍👨🏻‍💻在线之家","api":"csp_Zxzj","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://download.kstore.space/download/2863/cs.jar;md5;83fb605345300da7c3d2c2f2a36c6cdc"},//{"key":"csp_Wmkk","name":"💯完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},//{"key":"Cokemv","name":"🦋Cokemv影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},//{"key":"csp_LibVio","name":"🐱LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},//======================================================================================================={"key":"csp_IQIYI","name":"🥝爱","type":3,"api":"csp_IQIYI","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://download.kstore.space/download/2863/xsxin.jar;md5;76ddd410eca67676f4c23a24ae4c7df7"}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Extra data: line 1 column 111 (char 110)
+onetvurl:
+{"key":"csp_Anime1","name":"🌸小日本动漫","type":3,"api":"csp_Anime1","searchable":0,"quickSearch":0,"filterable":0},//======================================================================================================={"key":"drpy_js_厂长资源","name":"🕵‍厂长资源🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/厂长资源.js"}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Extra data: line 1 column 214 (char 213)
+onetvurl:
+{"key":"drpy_js_NY影院","name":"🕵NY影院🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/NY影院.js"},//[飞]源结束地址========================================================================================================{"key":"drpy_js_吼吼影视[飞]","name":"🕵吼吼影视[飞]🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/吼吼[飞].js"}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Extra data: line 1 column 220 (char 219)
+onetvurl:
+{"key":"drpy_js_独播库[飞]","name":"🕵独播库[飞]🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/独播库[飞].js"},//GitHub==================================================================================================={"key":"drpy_js_豆瓣","name":"🎖豆瓣","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/豆瓣.js"}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Extra data: line 1 column 233 (char 232)
+onetvurl:
+{"key":"drpy_js_BD影视","name":"🥌BD影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/BD影视.js"},//js源结束地址========================================================================================================{"key":"drpy_js_短视频","name":"🎥短视频","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/短视频.js"}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Extra data: line 1 column 213 (char 212)
+onetvurl:
+{"key":"drpy_js_DJ音乐","name":"🎥DJ音乐","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/DJ音乐.js"},//=======================================================================================================//======================================================================================================={"key":"csp_xBPQ_um","name":"🎒UM看(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/umkan（XBPQ）.json"}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Extra data: line 1 column 187 (char 186)
+onetvurl:
+{"key":"csp_xBPQ_追剧猫","name":"🐱追剧猫(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/追剧猫（XBPQ）.json"},//XBPQ结束========================================================================================================{"key":"csp_xBPQ_23影视","name":"⚛23影视(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/TVboxo/main/XBPQ/23影视.json"}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Extra data: line 1 column 212 (char 211)
+onetvurl:
+{"key":"csp_xBPQ_e9视频","name":"☪e9视频(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/TVboxo/main/XBPQ/e9视频.json"},//GitHubxBPQ结束========================================================================================================{"key":"csp_XYQBiu_17看球","name":"🏀17看球(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://download.kstore.space/download/2863/xsxin.jar;md5;76ddd410eca67676f4c23a24ae4c7df7","ext":"https://download.kstore.space/download/2863/XYQ/17看球（XYQ）.json"}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Extra data: line 1 column 286 (char 285)
+onetvurl:
+{"key":"csp_XYQBiu_神马筛选","name":"神马筛选(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/神马筛选.json","jar":"https://download.kstore.space/download/2863/xsxin.jar;md5;76ddd410eca67676f4c23a24ae4c7df7"},//XYQ结束========================================================================================================{"key":"腾讯视频〔官源〕","name":"🐝腾讯〔官源〕","type":1,"api":"https://ikaola.tv/api.php/provide/vod/from/qq/?ac=list"}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Extra data: line 1 column 176 (char 175)
+onetvurl:
+{"key":"csp_appysv2_amhys","name":"🌸爱麻花影院(SP)","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://v.jiexi.work/qingdoujiekou.php/v1.vod"},//=======================================================================================================//======================================================================================================={"key":"多多","name":"🐶多多影视","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Expecting value: line 1 column 46 (char 45)
+onetvurl:
+{"key":"杠杠影视","name":"⚖️杠杠影视","type":1,"api":csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://mov.fuqizhishi.com/api.php/provide/vod/"}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Expecting value: line 1 column 45 (char 44)
+onetvurl:
+{"key":"嗷呜影视","name":"🐺嗷呜影视","type":1,"api":csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://www.cx99999.cn/lvdou_api.php/v1.vod"},//======================================================================================================={"key":"csp_biubiu_厂长资源-蓝光","name":"🚚厂长蓝光","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/xpath/厂长资源-蓝光.json"}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Extra data: line 1 column 191 (char 190)
+onetvurl:
+{"key":"csp_biubiu_不开VIP","name":"🈲不开VIP(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/不开VIP.json"},//{"key":"csp_biubiu_在线之家","name":"🏮在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/xpath/在线之家.json"},//{"key":"csp_biubiu_乐猪影视","name":"😻乐猪影视(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/乐猪影视.json"}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Extra data: line 1 column 197 (char 196)
+onetvurl:
+{"key":"csp_xpath_cokemv","name":"💽Cokemv(XP)","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/cokemv.json"},//{"key":"csp_xpath_ikan","name":"💎爱看(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/xpath/ikan.json"}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Expecting value: line 1 column 8 (char 7)
+onetvurl:
+{"key":csp_xpath_电影牛","name":"🦏电影牛(XB)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/电影牛.json"}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Extra data: line 1 column 185 (char 184)
+onetvurl:
+{"key":"csp_biubiu_小强迷","name":"🐞小强迷(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/xpath/小强迷.json"},//=======================================================================================================//{"key":"csp_Alist1","name":"🍰Alist🍰","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"米奇妙妙屋$https://anime.mqmmw.ga#小光盘$https://alist.xiaoguanxiaocheng.life#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园的宝藏库$https://alist.52qy.repl.co#嗨翻$https://pan.hikerfans.com#一只鱼$https://alist.youte.ml#听闻网盘$https://wangpan.sangxuesheng.com#菊花盘$https://pan.142856.xyz#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com","jar":"https://download.kstore.space/download/2863/alist.jar"}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Extra data: line 1 column 184 (char 183)
+onetvurl:
+{"key":"t4_聚合","name":"📡聚合(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable":1,"quickSearch":1,"filterable":1},//{"key":"T4","name":"🦌T4爬虫","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=f94f580abee345aba10f8f3551e29853","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/xpath/T4.json"},//{"key":"T4","name":"🍹T4聚搜🍹","type":4,"api":"https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=f94f580abee345aba10f8f3551e29853&timeout=10","searchable":1,"quickSearch":1,"filterable":1},//{"key":"T4public","name":"🍹T4聚搜🍹","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3a49cf29cf20410997247c6eb4509be9&timeout=10","searchable":1,"quickSearch":1,"filterable":1},//{"key":"T4备用","name":"T4搜索(备用)","type":4,"api":"https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":1,"quickSearch":1,"filterable":1},//======================================================================================================={"key":"csp_Alist","name":"🍰Alist🍰","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/XSVIP/TV/-/raw/master/TVBox/Alist.txt"},//{"key":"T4聚合","name":"🌏T4聚合","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=8f0b3f0dc1834f309f077ea5549e99a8&timeout=5","searchable":1,"quickSearch":1,"filterable":1}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Extra data: line 1 column 126 (char 125)
+onetvurl:
+{"key":"csp_bendi","name":"📂本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},//=======================================================================================================//{"key":"AliPS","name":"🍛盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"8f0b3f0dc1834f309f077ea5549e99a8","jar":"https://link.jscdn.cn/lanzou/aHR0cHM6Ly93d2QubGFuem91bC5jb20vaWJyU1IwOXg5Zmxp.jpg;md5;acc9342e0488b454637854295249dfb1"},//{"key":"csp_Yiso","name":"🐞易搜(仅搜索)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":1,"ext":"8f0b3f0dc1834f309f077ea5549e99a8","jar":"https://link.jscdn.cn/lanzou/aHR0cHM6Ly93d2QubGFuem91bC5jb20vaWJyU1IwOXg5Zmxp.jpg;md5;acc9342e0488b454637854295249dfb1"},//{"key":"Zhaozy","name":"👨🏻‍💻找源(仅搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"8f0b3f0dc1834f309f077ea5549e99a8","jar":"https://link.jscdn.cn/lanzou/aHR0cHM6Ly93d2QubGFuem91bC5jb20vaWJyU1IwOXg5Zmxp.jpg;md5;acc9342e0488b454637854295249dfb1"},//{"key":"push_agent","name":"📲推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"},//======================================================================================================={"key":"csp_biubiu_真的卡影院","name":"🃏真的不卡影院(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/zhenbuka.json"}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Extra data: line 1 column 187 (char 186)
+onetvurl:
+{"key":"csp_xpath_Grab4K","name":"👕Grab4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/Grab4K.json"},//======================================================================================================={"key":"csp_xpath_喵乐","name":"🦁喵乐(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/喵乐.json"}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Extra data: line 1 column 196 (char 195)
+onetvurl:
+{"key":"csp_xpath_蛋蛋赞","name":"🥚🥚赞(XPF)","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/dandanzan10.json"},//======================================================================================================={"key":"csp_biubiu_快猫","name":"🐹快猫(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"{\r\n\"name\":\"快猫\",\r\n\"url\":\"https://www.maomiava.com\",\r\n\"User\":\"空\",\r\n\"shouye\":\"1\",\r\n\"fenlei\":\"电视剧$/index.php/vod/show/id/66/page/#电影$/index.php/vod/show/id/1/page/#综艺$/index.php/vod/show/id/3/page/#动漫$/index.php/vod/show/id/4/page/\",\r\n\"houzhui\":\".html\",\r\n\"shifouercijiequ\":\"1\",\r\n\"jiequqian\":\"module-page\\\">\",\r\n\"jiequhou\":\"id=\\\"page\\\">\",\r\n\"jiequshuzuqian\":\"<a\",\r\n\"jiequshuzuhou\":\"no-referrer\",\r\n\"tupianqian\":\"data-original=\\\"\",\r\n\"tupianhou\":\"\\\"\",\r\n\"biaotiqian\":\"title=\\\"\",\r\n\"biaotihou\":\"\\\"\",\r\n\"lianjieqian\":\"href=\\\"\",\r\n\"lianjiehou\":\"\\\"\",\r\n\"sousuoqian\":\"/index.php/ajax/suggest?mid=1&wd=\",\r\n\"sousuohou\":\"&limit=500\",\r\n\"sousuohouzhui\":\"/index.php/vod/detail/id/\",\r\n\"ssmoshi\":\"0\",\r\n\"sousuoshifouercijiequ\":\"0\",\r\n\"jspic\":\"pic\",\r\n\"jsname\":\"name\",\r\n\"jsid\":\"id\",\r\n\"ssjiequqian\":\"空\",\r\n\"ssjiequhou\":\"空\",\r\n\"ssjiequshuzuqian\":\"空\",\r\n\"ssjiequshuzuhou\":\"空\",\r\n\"sstupianqian\":\"空\",\r\n\"sstupianhou\":\"空\",\r\n\"ssbiaotiqian\":\"空\",\r\n\"ssbiaotihou\":\"空\",\r\n\"sslianjieqian\":\"空\",\r\n\"sslianjiehou\":\"空\",\r\n\"bfshifouercijiequ\":\"0\",\r\n\"bfjiequqian\":\"空\",\r\n\"bfjiequhou\":\"空\",\r\n\"zhuangtaiqian\":\"class=\\\"module-info-item-content\\\">\",\r\n\"zhuangtaihou\":\"</div>\",\r\n\"daoyanqian\":\"导演：\",\r\n\"daoyanhou\":\"</a>\",\r\n\"zhuyanqian\":\"主演：\",\r\n\"zhuyanhou\":\"</a>\",\r\n\"juqingqian\":\"class=\\\"module-info-introduction-content\\\">\",\r\n\"juqinghou\":\"</p>\",\r\n\"bfjiequshuzuqian\":\"class=\\\"module-list\",\r\n\"bfjiequshuzuhou\":\"</div>\",\r\n\"bfyshifouercijiequ\":\"0\",\r\n\"bfyjiequqian\":\"空\",\r\n\"bfyjiequhou\":\"空\",\r\n\"bfyjiequshuzuqian\":\"<a\",\r\n\"bfyjiequshuzuhou\":\"/a>\",\r\n\"bfbiaotiqian\":\"<span>\",\r\n\"bfbiaotihou\":\"</span>\",\r\n\"bflianjieqian\":\"href=\\\"\",\r\n\"bflianjiehou\":\"\\\"\"\r\n}"}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Extra data: line 1 column 2047 (char 2046)
+onetvurl:
+{"key":"csp_biubiu_小鸟","name":"🐦小鸟(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"{\r\n\"name\":\"小鸟\",\r\n\"url\":\"http://www.158381886.xyz/\",\r\n\"User\":\"空\",\r\n\"shouye\":\"1\",\r\n\"fenlei\":\"电影$/index.php/vod/show/id/1/page/#国产剧$/index.php/vod/show/id/13/page/#电视剧$/index.php/vod/show/id/2#综艺$/index.php/vod/show/id/3/page/#动画$/index.php/vod/show/id/4/page/\",\r\n\"houzhui\":\".html\",\r\n\"shifouercijiequ\":\"0\",\r\n\"jiequqian\":\"class=\\\"module-items\",\r\n\"jiequhou\":\"id=\\\"page\",\r\n\"jiequshuzuqian\":\"class=\\\"module-item\\\">\",\r\n\"jiequshuzuhou\":\"</div>\",\r\n\"tupianqian\":\"data-src=\\\"\",\r\n\"tupianhou\":\"\\\"\",\r\n\"biaotiqian\":\"title=\\\"\",\r\n\"biaotihou\":\"\\\"\",\r\n\"lianjieqian\":\"href=\\\"\",\r\n\"lianjiehou\":\"\\\"\",\r\n\"sousuoqian\":\"/index.php/ajax/suggest?mid=1&wd=\",\r\n\"sousuohou\":\"&limit=500\",\r\n\"sousuohouzhui\":\"/index.php/vod/detail/id/\",\r\n\"ssmoshi\":\"0\",\r\n\"sousuoshifouercijiequ\":\"0\",\r\n\"jspic\":\"pic\",\r\n\"jsname\":\"name\",\r\n\"jsid\":\"id\",\r\n\"ssjiequqian\":\"空\",\r\n\"ssjiequhou\":\"空\",\r\n\"ssjiequshuzuqian\":\"空\",\r\n\"ssjiequshuzuhou\":\"空\",\r\n\"sstupianqian\":\"空\",\r\n\"sstupianhou\":\"空\",\r\n\"ssbiaotiqian\":\"空\",\r\n\"ssbiaotihou\":\"空\",\r\n\"sslianjieqian\":\"空\",\r\n\"sslianjiehou\":\"空\",\r\n\"bfshifouercijiequ\":\"0\",\r\n\"bfjiequqian\":\"空\",\r\n\"bfjiequhou\":\"空\",\r\n\"zhuangtaiqian\":\"更新：\",\r\n\"zhuangtaihou\":\"</div>\",\r\n\"daoyanqian\":\"导演：\",\r\n\"daoyanhou\":\"</div>\",\r\n\"zhuyanqian\":\"主演：\",\r\n\"zhuyanhou\":\"</div>\",\r\n\"juqingqian\":\"简介：\",\r\n\"juqinghou\":\"/div>\",\r\n\"bfjiequshuzuqian\":\"class=\\\"sort-item\\\"\",\r\n\"bfjiequshuzuhou\":\"</div>\",\r\n\"bfyshifouercijiequ\":\"0\",\r\n\"bfyjiequqian\":\"空\",\r\n\"bfyjiequhou\":\"空\",\r\n\"bfyjiequshuzuqian\":\"<a\",\r\n\"bfyjiequshuzuhou\":\"/a>\",\r\n\"bfbiaotiqian\":\"<span>\",\r\n\"bfbiaotihou\":\"</span>\",\r\n\"bflianjieqian\":\"href=\\\"\",\r\n\"bflianjiehou\":\"\\\"\"\r\n}"},//{"key":"csp_biubiu_8K","name":"🎱K影院","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"{\r\n\"name\":\"8K\",\r\n\"url\":\"http://vip.8kvod.com:888\",\r\n\"User\":\"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/88.0.4324.150Safari/537.36\",\r\n\"shouye\":\"1\",\r\n\"fenlei\":\"电视剧$/t/2/page/#电影$/t/1/page/#综艺$/t/3/page/#动漫$/t/4/page/\",\r\n\"houzhui\":\"/\",\r\n\"shifouercijiequ\":\"0\",\r\n\"jiequqian\":\"空\",\r\n\"jiequhou\":\"空\",\r\n\"jiequshuzuqian\":\"class=\\\"myui-vodlist__box\\\">\",\r\n\"jiequshuzuhou\":\"</div>\",\r\n\"tupianqian\":\"data-original=\\\"\",\r\n\"tupianhou\":\"\\\"\",\r\n\"biaotiqian\":\"title=\\\"\",\r\n\"biaotihou\":\"\\\"\",\r\n\"lianjieqian\":\"href=\\\"\",\r\n\"lianjiehou\":\"\\\"\",\r\n\"sousuoqian\":\"/index.php/ajax/suggest?mid=1&wd=\",\r\n\"sousuohou\":\"&limit=500\",\r\n\"sousuohouzhui\":\"/k/\",\r\n\"ssmoshi\":\"0\",\r\n\"sousuoshifouercijiequ\":\"0\",\r\n\"jspic\":\"pic\",\r\n\"jsname\":\"name\",\r\n\"jsid\":\"id\",\r\n\"ssjiequqian\":\"空\",\r\n\"ssjiequhou\":\"空\",\r\n\"ssjiequshuzuqian\":\"空\",\r\n\"ssjiequshuzuhou\":\"空\",\r\n\"sstupianqian\":\"空\",\r\n\"sstupianhou\":\"空\",\r\n\"ssbiaotiqian\":\"空\",\r\n\"ssbiaotihou\":\"空\",\r\n\"sslianjieqian\":\"空\",\r\n\"sslianjiehou\":\"空\",\r\n\"bfshifouercijiequ\":\"0\",\r\n\"bfjiequqian\":\"空\",\r\n\"bfjiequhou\":\"空\",\r\n\"zhuangtaiqian\":\"class=\\\"text-red\\\">\",\r\n\"zhuangtaihou\":\"</span>\",\r\n\"daoyanqian\":\"导演：\",\r\n\"daoyanhou\":\"</p>\",\r\n\"zhuyanqian\":\"主演：\",\r\n\"zhuyanhou\":\"</p>\",\r\n\"juqingqian\":\"简介：\",\r\n\"juqinghou\":\"</p>\",\r\n\"bfjiequshuzuqian\":\"class=\\\"myui-content__listsort-listclearfix\\\"\",\r\n\"bfjiequshuzuhou\":\"</div>\",\r\n\"bfyshifouercijiequ\":\"0\",\r\n\"bfyjiequqian\":\"空\",\r\n\"bfyjiequhou\":\"空\",\r\n\"bfyjiequshuzuqian\":\"<li\",\r\n\"bfyjiequshuzuhou\":\"</li>\",\r\n\"bfbiaotiqian\":\">第\",\r\n\"bfbiaotihou\":\"</a>\",\r\n\"bflianjieqian\":\"href=\\\"\",\r\n\"bflianjiehou\":\"\\\"\"\r\n}"},//======================================================================================================={key:'if101海外推荐',name:'🚧If101海外🚧',type:0,api:'https://demo.if101.tv/api.php/provide/vod/at/xml',searchable:1,quickSearch:0,filterable:0}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+onetvurl:
+{key:'唐人街',name:'🚧唐人街海外🚧',type:0,api:'https://www.tangrenjie.tv/api.php/provide/vod/at/xml',searchable:1,quickSearch:0,filterable:0}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+onetvurl:
+{key:'csp_Nbys',name:'🚧泥巴海外🚧',type:3,api:'csp_Nbys',searchable:1,quickSearch:1,filterable:1,jar:'https://download.kstore.space/download/2863/91d.jar;md5;A5ED2B58063A1915FF1FE0B83DBEF99D'}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+onetvurl:
+{key:'If101',name:'🚧If101海外🚧',type:3,api:'csp_If101',searchable:1,quickSearch:1,filterable:1,jar:'https://download.kstore.space/download/2863/91d.jar;md5;A5ED2B58063A1915FF1FE0B83DBEF99D'}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+onetvurl:
+{key:'csp_biubiu_小宝影院',name:'🚧小宝影院海外🚧',type:3,api:'csp_XBiubiu',searchable:0,quickSearch:0,filterable:0,ext:'https://download.kstore.space/download/2863/xpath/xbyshw.json'}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+onetvurl:
+{key:'csp_xpath_HOHO',name:'🚧HOHO海外🚧',type:3,api:'csp_XPathMacFilter',searchable:1,quickSearch:1,filterable:1,ext:'https://download.kstore.space/download/2863/xpath/Hoho.json'}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+onetvurl:
+{key:'csp_xpath_独播库',name:'🚧独播库海外🚧',type:3,api:'csp_XPathMacFilter',searchable:1,quickSearch:1,filterable:1,ext:'https://download.kstore.space/download/2863/xpath/duboku.json'},//======================================================================================================={"key":"csp_biubiu_OmoFun动漫","name":"🥒OmoFun动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/OmoFun动漫.json"}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Extra data: line 1 column 185 (char 184)
+onetvurl:
+{"key":"csp_biubiu_伊雪湾","name":"🥒伊雪湾(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/伊雪湾.json"},##XPath系列{"key":"csp_xpath_独播库","name":"独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/duboku.json"}
+
+[2022-11-12 15:30:18] Main-Line-211-Exception:Extra data: line 1 column 193 (char 192)
+onetvurl:
+{"key":"csp_xpath_zxzj2","name":"在线之家(XPF)","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/zxzj2.json"},//{"key":"csp_xpath_auete","name":"Auete影视(XPF)","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/auete.json"}
+
+[2022-11-12 15:30:19] Main-Line-211-Exception:Extra data: line 1 column 181 (char 180)
+onetvurl:
+{"key":"csp_xpath_so2","name":"淘剧鸭(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/so2.json"},##M浏览器中APP影视规则支持(AppYsV2){"key":"csp_appysv2_独播社","name":"独播社","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://35ys.cc/api.php/v1.vod"}
+
+[2022-11-12 15:30:19] Main-Line-211-Exception:Extra data: line 1 column 164 (char 163)
+onetvurl:
+{"key":"csp_appysv2_69美剧","name":"69美剧(萝卜)","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://www.69mj.com/api.php/v1.vod"},#神马{"key":"csp_appysv2_影视阁","name":"影视阁(神马)","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://216.98.10.85/api.php/iptv/vod/"}
+
+[2022-11-12 15:30:19] Main-Line-211-Exception:Extra data: line 1 column 161 (char 160)
+onetvurl:
+{"key":"csp_appysv2_2号币","name":"2号币(神马)","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://phoebe.cf/api.php/iptv/vod/"},#官方解析{"key":"8090资源","name":"8090资源(官)","type":1,"api":"http://zy.yilans.net:8090/api.php/provide/vod/","searchable":0,"quickSearch":0}
+
+[2022-11-12 15:30:19] Main-Line-211-Exception:Extra data: line 1 column 2036 (char 2035)
+onetvurl:
+{"key":"csp_biubiu_搜狗影院","name":"🐶搜狗影院(官)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"{\"name\":\"搜狗影院(官)\",\r\n\"url\":\"http://sogouyy.cn\",\r\n\"tihuan\":\"cnzz.com\",\r\n\"User\":\"空\",\r\n\"fenlei\":\"电影$/s/dianying/page/#电视剧$/s/dianshiju/page/#综艺$/s/zongyi/page/#动漫$/s/dianying/page/#B站$/s/bilibili/page/\",\r\n\"houzhui\":\"---.html\",\r\n\"shifouercijiequ\":\"1\",\r\n\"jiequqian\":\"class=\\\"module-items\",\r\n\"jiequhou\":\"<divid=\\\"page\",\r\n\"jiequshuzuqian\":\"<divclass=\\\"module-item\\\">\",\r\n\"jiequshuzuhou\":\"</div>\",\r\n\"tupianqian\":\"src=\\\"\",\r\n\"tupianhou\":\"\\\"\",\r\n\"biaotiqian\":\"title=\\\"\",\r\n\"biaotihou\":\"\\\"\",\r\n\"lianjieqian\":\"href=\\\"\",\r\n\"lianjiehou\":\"\\\"\",\r\n\"sousuoqian\":\"/index.php/ajax/suggest?mid=1&wd=\",\r\n\"sousuohou\":\"&limit=500\",\r\n\"sousuohouzhui\":\"/d/\",\r\n\"ssmoshi\":\"0\",\r\n\"sousuoshifouercijiequ\":\"0\",\r\n\"jspic\":\"pic\",\r\n\"jsname\":\"name\",\r\n\"jsid\":\"id\",\r\n\"ssjiequqian\":\"空\",\r\n\"ssjiequhou\":\"空\",\r\n\"ssjiequshuzuqian\":\"空\",\r\n\"ssjiequshuzuhou\":\"空\",\r\n\"sstupianqian\":\"空\",\r\n\"sstupianhou\":\"空\",\r\n\"ssbiaotiqian\":\"空\",\r\n\"ssbiaotihou\":\"空\",\r\n\"sslianjieqian\":\"空\",\r\n\"sslianjiehou\":\"空\",\r\n\"bfshifouercijiequ\":\"0\",\r\n\"bfjiequqian\":\"空\",\r\n\"bfjiequhou\":\"空\",\r\n\"bfjiequshuzuqian\":\"class=\\\"sort-item\\\"\",\r\n\"bfjiequshuzuhou\":\"</div>\",\r\n\"zhuangtaiqian\":\"集数：</span>\",\r\n\"zhuangtaihou\":\"</div>\",\r\n\"daoyanqian\":\"导演：</span>\",\r\n\"daoyanhou\":\"</div>\",\r\n\"zhuyanqian\":\"主演：</span>\",\r\n\"zhuyanhou\":\"</div>\",\r\n\"juqingqian\":\"class=\\\"video-info-itemvideo-info-contentvod_content\\\">\",\r\n\"juqinghou\":\"<a\",\r\n\"bfyshifouercijiequ\":\"0\",\r\n\"bfyjiequqian\":\"空\",\r\n\"bfyjiequhou\":\"空\",\r\n\"bfyjiequshuzuqian\":\"<a\",\r\n\"bfyjiequshuzuhou\":\"/a>\",\r\n\"bfbiaotiqian\":\"<span>\",\r\n\"bfbiaotihou\":\"<\",\r\n\"bflianjieqian\":\"href=\\\"\",\r\n\"bflianjiehou\":\"\\\"\"}"},//{"key":"csp_biubiu_饭团","name":"🍚饭团","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"{\r\n\"name\":\"饭团\",\r\n\"url\":\"http://www.fantuantva.com/\",\r\n//\"User\":\"User-Agent:Dart/2.14(dart:io)\",\r\n\"shouye\":\"1\",\r\n\"fenlei\":\"电影$/t/dianying/page/#大陆剧$/t/lianxuju/page/#国产剧$/t/guochanju/page/#综艺$/t/zongyi/page/#动漫$/t/dongman/page/\",\r\n\"houzhui\":\".html\",\r\n\"shifouercijiequ\":\"0\",\r\n\"jiequqian\":\"空\",\r\n\"jiequhou\":\"空\",\r\n\"jiequshuzuqian\":\"class=\\\"show_play\\\">\",\r\n\"jiequshuzuhou\":\"</div>\",\r\n\"tupianqian\":\"data-original=\\\"\",\r\n\"tupianhou\":\"\\\"\",\r\n\"biaotiqian\":\"title=\\\"\",\r\n\"biaotihou\":\"\\\"\",\r\n\"lianjieqian\":\"href=\\\"\",\r\n\"lianjiehou\":\"\\\"\",\r\n\"sousuoqian\":\"/index.php/ajax/suggest?mid=1&wd=\",\r\n\"sousuohou\":\"&limit=500\",\r\n\"sousuohouzhui\":\"/v/\",\r\n\"ssmoshi\":\"0\",\r\n\"sousuoshifouercijiequ\":\"0\",\r\n\"jspic\":\"pic\",\r\n\"jsname\":\"name\",\r\n\"jsid\":\"id\",\r\n\"ssjiequqian\":\"空\",\r\n\"ssjiequhou\":\"空\",\r\n\"ssjiequshuzuqian\":\"空\",\r\n\"ssjiequshuzuhou\":\"空\",\r\n\"sstupianqian\":\"空\",\r\n\"sstupianhou\":\"空\",\r\n\"ssbiaotiqian\":\"空\",\r\n\"ssbiaotihou\":\"空\",\r\n\"sslianjieqian\":\"空\",\r\n\"sslianjiehou\":\"空\",\r\n\"bfshifouercijiequ\":\"0\",\r\n\"bfjiequqian\":\"空\",\r\n\"bfjiequhou\":\"空\",\r\n\"bfjiequshuzuqian\":\"class=\\\"con_c2_list\\\">\",\r\n\"bfjiequshuzuhou\":\"</ul>\",\r\n\"zhuangtaiqian\":\"class=\\\"tc_wz\\\">\",\r\n\"zhuangtaihou\":\"</p>\",\r\n\"daoyanqian\":\"导演：</span>\",\r\n\"daoyanhou\":\"</p>\",\r\n\"zhuyanqian\":\"主演：</span>\",\r\n\"zhuyanhou\":\"</p>\",\r\n\"juqingqian\":\"</span>\",\r\n\"juqinghou\":\"</p>\",\r\n\"bfyshifouercijiequ\":\"0\",\r\n\"bfyjiequqian\":\"空\",\r\n\"bfyjiequhou\":\"空\",\r\n\"bfyjiequshuzuqian\":\"<a\",\r\n\"bfyjiequshuzuhou\":\"/a>\",\r\n\"bfbiaotiqian\":\">\",\r\n\"bfbiaotihou\":\"<\",\r\n\"bflianjieqian\":\"href=\\\"\",\r\n\"bflianjiehou\":\"\\\"\"},\r\n"},#切片资源{"key":"极速BT资源","name":"极速BT资源(切)","type":1,"api":"https://api.jisubt.com/videos","searchable":0,"quickSearch":0}
+
+[2022-11-12 15:30:19] Main-Line-211-Exception:Extra data: line 1 column 125 (char 124)
+onetvurl:
+{"key":"南国影源","name":"南国影源(切)","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/","searchable":0,"quickSearch":0},##优质资源{"key":"U酷资源","name":"U酷资源(优)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0}
+
+[2022-11-12 15:30:19] Main-Line-211-Exception:Extra data: line 1 column 124 (char 123)
+onetvurl:
+{"key":"筋斗云","name":"筋斗云(优)","type":1,"api":"https://tv.jindcloud.com/api.php/provide/vod/","searchable":0,"quickSearch":0},##三方聚合{"key":"影图","name":"影图(聚)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":0,"quickSearch":0}
+
+[2022-11-12 15:30:20] Main-Line-211-Exception:Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+onetvurl:
+{//b站筛选嫖自Q群管理ZJ{"key":"csp_BBB","name":"哔哩合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/json/bili.json"}
+
+[2022-11-12 15:30:20] Main-Line-211-Exception:Extra data: line 1 column 138 (char 137)
+onetvurl:
+{"key":"dr_兔小贝","name":"兔小贝┃儿童教育","type":1,"api":"http://drpy.fuqizhishi.com/vod?rule=兔小贝","searchable":2,"quickSearch":0,"filterable":0},//xbpq劳思~{"key":"csp_xBPQ_在线","name":"️在线之家","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/json/zxzj2.json"}
+
+[2022-11-12 15:30:20] Main-Line-211-Exception:Extra data: line 1 column 146 (char 145)
+onetvurl:
+{"key":"csp_xBPQ_酷客","name":"酷客影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/json/kuke.json"},//XYQB香佬{"key":"csp_XYQBiu_lingyun","name":"凌云影视","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/json/lingyun.json"},//{"key":"csp_XYQBiu_23yy","name":"23影院","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/json/23ys.json"}
+
+[2022-11-12 15:30:20] Main-Line-211-Exception:Extra data: line 1 column 142 (char 141)
+onetvurl:
+{"key":"dr_AnFuns","name":"AnFuns","type":1,"api":"http://drpy.fuqizhishi.com/vod?rule=AnFuns","searchable":2,"quickSearch":0,"filterable":0},//{"key":"演唱会","name":"演唱会（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/演唱会.php"},//{"key":"戏曲","name":"戏曲（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/戏曲.php"}
+
+[2022-11-12 15:30:20] Main-Line-211-Exception:Extra data: line 1 column 158 (char 157)
+onetvurl:
+{"key":"csp_XYQBiu_dsp","name":"短视频合集","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/json/duanshipin.json"},//{"key":"少儿教育","name":"教育合集┃B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/xue.php"},//这一部分白嫖{"key":"pc_学习课堂","name":"学习课堂┃B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/学堂.json"},//{"key":"xp_女团热舞","name":"女团热舞┃B站","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/女团热舞.json"}
+
+[2022-11-12 15:30:20] Main-Line-211-Exception:Extra data: line 1 column 150 (char 149)
+onetvurl:
+{"key":"csp_Alist","name":"Alist┃网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/json/alist.json"},//{"key":"csp_bendi","name":"本地文件","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":0,"filterable":1,"type_flag":1}
+
+[2022-11-12 15:59:10] Main-Line-496-Exception:
+Extra data: line 1 column 135 (char 134)
+{"name":"网络搜集02","type":1,"url":"https://json.pangujiexi.com/json.php?url=","ext":{"flag":["youku","优酷","qq","腾讯","qiyi","爱奇艺","奇艺"]}},}
+
+[2022-11-12 16:35:54] Main-Line-614-Exception:Expecting ',' delimiter: line 1 column 2012 (char 2011)
+tvsite:{"key":"csp_biubiu_乐鱼","name":"🐟乐鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"{\r\n\"name\":\"乐鱼\",\r\n\"url\":\"https://www.lyavi.com/\",\r\n\"User\":\"空\",\r\n\"shouye\":\"1\",\r\n\"fenlei\":\"电视剧$/lys/lyTv/page/#电影$/lys/lyMovie/page/#综艺$/lys/lyVariety/page/#动漫$/lys/lyCartoon/page/\",\r\n\"houzhui\":\".html\",\r\n\"shifouercijiequ\":\"0\",\r\n\"jiequqian\":\"空\",\r\n\"jiequhou\":\"空\",\r\n\"jiequshuzuqian\":\"class=\\\"module-item-pic\\\">\",\r\n\"jiequshuzuhou\":\"</div>\",\r\n\"tupianqian\":\"data-src=\\\"\",\r\n\"tupianhou\":\"\\\"\",\r\n\"biaotiqian\":\"title=\\\"\",\r\n\"biaotihou\":\"\\\"\",\r\n\"lianjieqian\":\"href=\\\"\",\r\n\"lianjiehou\":\"\\\"\",\r\n\"sousuoqian\":\"/index.php/ajax/suggest?mid=1&wd=\",\r\n\"sousuohou\":\"&limit=500\",\r\n\"sousuohouzhui\":\"/lyd/\",\r\n\"ssmoshi\":\"0\",\r\n\"sousuoshifouercijiequ\":\"0\",\r\n\"jspic\":\"pic\",\r\n\"jsname\":\"name\",\r\n\"jsid\":\"id\",\r\n\"ssjiequqian\":\"空\",\r\n\"ssjiequhou\":\"空\",\r\n\"ssjiequshuzuqian\":\"空\",\r\n\"ssjiequshuzuhou\":\"空\",\r\n\"sstupianqian\":\"空\",\r\n\"sstupianhou\":\"空\",\r\n\"ssbiaotiqian\":\"空\",\r\n\"ssbiaotihou\":\"空\",\r\n\"sslianjieqian\":\"空\",\r\n\"sslianjiehou\":\"空\",\r\n\"bfshifouercijiequ\":\"0\",\r\n\"bfjiequqian\":\"空\",\r\n\"bfjiequhou\":\"空\",\r\n\"zhuangtaiqian\":\"class=\\\"module-info-item-content\\\">\",\r\n\"zhuangtaihou\":\"</div>\",\r\n\"daoyanqian\":\"导演：\",\r\n\"daoyanhou\":\"</a>\",\r\n\"zhuyanqian\":\"主演：\",\r\n\"zhuyanhou\":\"</span>\",\r\n\"juqingqian\":\"class=\\\"video-info-itemvideo-info-contentvod_content\\\">\",\r\n\"juqinghou\":\"</span>\",\r\n\"bfjiequshuzuqian\":\"class=\\\"sort-item\\\"\",\r\n\"bfjiequshuzuhou\":\"</div>\",\r\n\"bfyshifouercijiequ\":\"0\",\r\n\"bfyjiequqian\":\"空\",\r\n\"bfyjiequhou\":\"空\",\r\n\"bfyjiequshuzuqian\":\"<a\",\r\n\"bfyjiequshuzuhou\":\"/a>\",\r\n\"bfbiaotiqian\":\"<span>\",\r\n\"bfbiaotihou\":\"</span>\",\r\n\"bflianjieqian\":\"href=\\\"\",\r\n\"bflianjiehou\":\"\\\"\"\r\n,"jar":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929"}","jar":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929"},
+
+[2022-11-12 16:35:54] Main-Line-614-Exception:Expecting ',' delimiter: line 1 column 2174 (char 2173)
+tvsite:{"key":"csp_biubiu_um影院","name":"🎬UM影院(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"{\r\n\"name\":\"um\",\r\n\"url\":\"https://www.umkan.com/\",\r\n\"User\":\"User-Agent:Dart/2.14(dart:io)\",\r\n\"shouye\":\"1\",\r\n\"fenlei\":\"电影$/index.php/vod/show/id/1/page/#国产剧$/index.php/vod/show/class/国产/id/2/page/#电视剧$/index.php/vod/show/id/2/page/#综艺$/index.php/vod/show/id/3/page/#动画$/index.php/vod/show/id/4/page/\",\r\n\"houzhui\":\".html\",\r\n\"shifouercijiequ\":\"1\",\r\n\"jiequqian\":\"class=\\\"module-items\",\r\n\"jiequhou\":\"id=\\\"page\",\r\n\"jiequshuzuqian\":\"<a\",\r\n\"jiequshuzuhou\":\"</a>\",\r\n\"tupianqian\":\"data-original=\\\"\",\r\n\"tupianhou\":\"\\\"\",\r\n\"biaotiqian\":\"title=\\\"\",\r\n\"biaotihou\":\"\\\"\",\r\n\"lianjieqian\":\"href=\\\"\",\r\n\"lianjiehou\":\"\\\"\",\r\n\"sousuoqian\":\"/index.php/ajax/suggest?mid=1&wd=\",\r\n\"sousuohou\":\"&limit=500\",\r\n\"sousuohouzhui\":\"/index.php/vod/detail/id/\",\r\n\"ssmoshi\":\"0\",\r\n\"sousuoshifouercijiequ\":\"0\",\r\n\"jspic\":\"pic\",\r\n\"jsname\":\"name\",\r\n\"jsid\":\"id\",\r\n\"ssjiequqian\":\"空\",\r\n\"ssjiequhou\":\"空\",\r\n\"ssjiequshuzuqian\":\"空\",\r\n\"ssjiequshuzuhou\":\"空\",\r\n\"sstupianqian\":\"空\",\r\n\"sstupianhou\":\"空\",\r\n\"ssbiaotiqian\":\"空\",\r\n\"ssbiaotihou\":\"空\",\r\n\"sslianjieqian\":\"空\",\r\n\"sslianjiehou\":\"空\",\r\n\"bfshifouercijiequ\":\"0\",\r\n\"bfjiequqian\":\"空\",\r\n\"bfjiequhou\":\"空\",\r\n\"zhuangtaiqian\":\"class=\\\"module-item-note\\\">\",\r\n\"zhuangtaihou\":\"</div>\",\r\n\"daoyanqian\":\"target=\\\"_blank\\\">\",\r\n\"daoyanhou\":\"</a>\",\r\n\"zhuyanqian\":\"target=\\\"_blank\\\">\",\r\n\"zhuyanhou\":\"</span>\",\r\n\"juqingqian\":\"class=\\\"module-info-introduction-content\\\">\",\r\n\"juqinghou\":\"</p>\",\r\n\"bfjiequshuzuqian\":\"class=\\\"module-list\",\r\n\"bfjiequshuzuhou\":\"</div>\",\r\n\"bfyshifouercijiequ\":\"0\",\r\n\"bfyjiequqian\":\"空\",\r\n\"bfyjiequhou\":\"空\",\r\n\"bfyjiequshuzuqian\":\"<a\",\r\n\"bfyjiequshuzuhou\":\"/a>\",\r\n\"bfbiaotiqian\":\"<span>\",\r\n\"bfbiaotihou\":\"</span>\",\r\n\"bflianjieqian\":\"href=\\\"\",\r\n\"bflianjiehou\":\"\\\"\"\r\n,"jar":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929"}","jar":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929"},
+
+[2022-11-12 16:35:54] Main-Line-614-Exception:Expecting ',' delimiter: line 1 column 2116 (char 2115)
+tvsite:{"key":"csp_biubiu_锐行加速","name":"🚴‍锐行加速(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"{\r\n\"name\":\"加速影院\",\r\n\"url\":\"https://www.rxjiasu.com/\",\r\n\"User\":\"空\",\r\n\"shouye\":\"1\",\r\n\"fenlei\":\"电影$/index.php/vod/show/id/1/page/#国产剧$/index.php/vod/show/id/13/page/#电视剧$/index.php/vod/show/id/2/page/#综艺$/index.php/vod/show/id/39/page/\",\r\n\"houzhui\":\".html\",\r\n\"shifouercijiequ\":\"0\",\r\n\"jiequqian\":\"空\",\r\n\"jiequhou\":\"空\",\r\n\"jiequshuzuqian\":\"class=\\\"module-item-pic\\\">\",\r\n\"jiequshuzuhou\":\"</div>\",\r\n\"tupianqian\":\"data-src=\\\"\",\r\n\"tupianhou\":\"\\\"\",\r\n\"biaotiqian\":\"title=\\\"\",\r\n\"biaotihou\":\"\\\"\",\r\n\"lianjieqian\":\"href=\\\"\",\r\n\"lianjiehou\":\"\\\"\",\r\n\"sousuoqian\":\"/index.php/ajax/suggest?mid=1&wd=\",\r\n\"sousuohou\":\"&limit=500\",\r\n\"sousuohouzhui\":\"/index.php/vod/detail/id/\",\r\n\"ssmoshi\":\"0\",\r\n\"sousuoshifouercijiequ\":\"0\",\r\n\"jspic\":\"pic\",\r\n\"jsname\":\"name\",\r\n\"jsid\":\"id\",\r\n\"ssjiequqian\":\"空\",\r\n\"ssjiequhou\":\"空\",\r\n\"ssjiequshuzuqian\":\"空\",\r\n\"ssjiequshuzuhou\":\"空\",\r\n\"sstupianqian\":\"空\",\r\n\"sstupianhou\":\"空\",\r\n\"ssbiaotiqian\":\"空\",\r\n\"ssbiaotihou\":\"空\",\r\n\"sslianjieqian\":\"空\",\r\n\"sslianjiehou\":\"空\",\r\n\"bfshifouercijiequ\":\"0\",\r\n\"bfjiequqian\":\"空\",\r\n\"bfjiequhou\":\"空\",\r\n\"zhuangtaiqian\":\"class=\\\"video-info-item\\\">\",\r\n\"zhuangtaihou\":\"</div>\",\r\n\"daoyanqian\":\"target=\\\"_blank\\\">\",\r\n\"daoyanhou\":\"</a>\",\r\n\"zhuyanqian\":\"target=\\\"_blank\\\">\",\r\n\"zhuyanhou\":\"</span>\",\r\n\"juqingqian\":\"class=\\\"video-info-itemvideo-info-contentvod_content\\\">\",\r\n\"juqinghou\":\"</span>\",\r\n\"bfjiequshuzuqian\":\"class=\\\"sort-item\",\r\n\"bfjiequshuzuhou\":\"</div>\",\r\n\"bfyshifouercijiequ\":\"0\",\r\n\"bfyjiequqian\":\"空\",\r\n\"bfyjiequhou\":\"空\",\r\n\"bfyjiequshuzuqian\":\"<a\",\r\n\"bfyjiequshuzuhou\":\"/a>\",\r\n\"bfbiaotiqian\":\"<span>\",\r\n\"bfbiaotihou\":\"</span>\",\r\n\"bflianjieqian\":\"href=\\\"\",\r\n\"bflianjiehou\":\"\\\"\"\r\n,"jar":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929"}","jar":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929"},
+
+[2022-11-12 16:35:54] Main-Line-614-Exception:Expecting ',' delimiter: line 1 column 1963 (char 1962)
+tvsite:{"key":"csp_biubiu_影视大全","name":"📹影视大全(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"{\r\n\"name\":\"影视大全\",\r\n\"url\":\"https://www.ekvod.com/\",\r\n\"User\":\"User-Agent:Dart/2.14(dart:io)\",\r\n\"shouye\":\"1\",\r\n\"fenlei\":\"电影$/vodshow/1-----------#电视剧$/vodshow/2-----------#综艺$/vodshow/3-----------#动画$/vodshow/4-----------\",\r\n\"houzhui\":\".html\",\r\n\"shifouercijiequ\":\"1\",\r\n\"jiequqian\":\"module-page\",\r\n\"jiequhou\":\"id=\\\"page\",\r\n\"jiequshuzuqian\":\"<a\",\r\n\"jiequshuzuhou\":\"</a>\",\r\n\"tupianqian\":\"data-original=\\\"\",\r\n\"tupianhou\":\"\\\"\",\r\n\"biaotiqian\":\"title=\\\"\",\r\n\"biaotihou\":\"\\\"\",\r\n\"lianjieqian\":\"href=\\\"\",\r\n\"lianjiehou\":\"\\\"\",\r\n\"sousuoqian\":\"/index.php/ajax/suggest?mid=1&wd=\",\r\n\"sousuohou\":\"&limit=500\",\r\n\"sousuohouzhui\":\"/voddetail/\",\r\n\"ssmoshi\":\"0\",\r\n\"sousuoshifouercijiequ\":\"0\",\r\n\"jspic\":\"pic\",\r\n\"jsname\":\"name\",\r\n\"jsid\":\"id\",\r\n\"ssjiequqian\":\"空\",\r\n\"ssjiequhou\":\"空\",\r\n\"ssjiequshuzuqian\":\"空\",\r\n\"ssjiequshuzuhou\":\"空\",\r\n\"sstupianqian\":\"空\",\r\n\"sstupianhou\":\"空\",\r\n\"ssbiaotiqian\":\"空\",\r\n\"ssbiaotihou\":\"空\",\r\n\"sslianjieqian\":\"空\",\r\n\"sslianjiehou\":\"空\",\r\n\"bfshifouercijiequ\":\"0\",\r\n\"bfjiequqian\":\"空\",\r\n\"bfjiequhou\":\"空\",\r\n\"zhuangtaiqian\":\"更新：\",\r\n\"zhuangtaihou\":\"</div>\",\r\n\"daoyanqian\":\"导演：\",\r\n\"daoyanhou\":\"</div>\",\r\n\"zhuyanqian\":\"主演：\",\r\n\"zhuyanhou\":\"</div>\",\r\n\"juqingqian\":\"简介：\",\r\n\"juqinghou\":\"/div>\",\r\n\"bfjiequshuzuqian\":\"class=\\\"module-list\",\r\n\"bfjiequshuzuhou\":\"</div>\",\r\n\"bfyshifouercijiequ\":\"0\",\r\n\"bfyjiequqian\":\"空\",\r\n\"bfyjiequhou\":\"空\",\r\n\"bfyjiequshuzuqian\":\"<a\",\r\n\"bfyjiequshuzuhou\":\"/a>\",\r\n\"bfbiaotiqian\":\"<span>\",\r\n\"bfbiaotihou\":\"</span>\",\r\n\"bflianjieqian\":\"href=\\\"\",\r\n\"bflianjiehou\":\"\\\"\"\r\n,"jar":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929"}","jar":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 186 (char 185)
+tvsite:{"key":"77","name":"77(爬虫)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 191 (char 190)
+tvsite:{"key":"Kuaikan","name":"快看(爬虫)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 183 (char 182)
+tvsite:{"key":"🐷","name":"乐猪(爬虫)","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 187 (char 186)
+tvsite:{"key":"Lgyy","name":"蓝光影院(爬虫)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 191 (char 190)
+tvsite:{"key":"Fantuan","name":"饭团(爬虫)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 191 (char 190)
+tvsite:{"key":"Coke","name":"Cokemv(爬虫)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 202 (char 201)
+tvsite:{"key":"AppTT","name":"TT(爬虫)","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 190 (char 189)
+tvsite:{"key":"Bttoo","name":"Bttoo(爬虫)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 191 (char 190)
+tvsite:{"key":"Bdys01","name":"哔滴影视(爬虫)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 187 (char 186)
+tvsite:{"key":"Ysgc","name":"影视工厂(爬虫)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 187 (char 186)
+tvsite:{"key":"Smdyy","name":"神马(爬虫)","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 185 (char 184)
+tvsite:{"key":"Ddrk","name":"低端(爬虫)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 185 (char 184)
+tvsite:{"key":"厂长","name":"厂长(爬虫)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 238 (char 237)
+tvsite:{"key":"农民","name":"农民(爬虫)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gst163.github.io/s/nongminyingshi.json","jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 196 (char 195)
+tvsite:{"key":"LiteApple","name":"小苹果(爬虫)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 190 (char 189)
+tvsite:{"key":"ZJMiao","name":"追剧喵(爬虫)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 187 (char 186)
+tvsite:{"key":"Tkys","name":"天空影视(爬虫)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 187 (char 186)
+tvsite:{"key":"Nkdy","name":"难看电影(爬虫)","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 191 (char 190)
+tvsite:{"key":"Juhuang","name":"剧荒(爬虫)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 191 (char 190)
+tvsite:{"key":"Lib","name":"Libvio(电视不太好用)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 188 (char 187)
+tvsite:{"key":"Dy555","name":"555(爬虫)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 193 (char 192)
+tvsite:{"key":"Dy1010","name":"电影1010(爬虫)","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 187 (char 186)
+tvsite:{"key":"Zjdr","name":"追剧达人(爬虫)","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 187 (char 186)
+tvsite:{"key":"Wmkk","name":"完美看看(爬虫)","type":3,"api":"csp_Wmkk","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 187 (char 186)
+tvsite:{"key":"在线之家","name":"在线之家(爬虫)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 187 (char 186)
+tvsite:{"key":"Dm84","name":"动漫巴士(爬虫)","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 189 (char 188)
+tvsite:{"key":"Anime1","name":"日漫(爬虫)","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 193 (char 192)
+tvsite:{"key":"Anfuns","name":"Anfuns(爬虫)","type":3,"api":"csp_Anfuns","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 186 (char 185)
+tvsite:{"key":"IQIYI","name":"爱(解析)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 180 (char 179)
+tvsite:{"key":"QQ","name":"腾(解析)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 184 (char 183)
+tvsite:{"key":"MGTV","name":"芒(解析)","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 186 (char 185)
+tvsite:{"key":"360","name":"360(解析)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 185 (char 184)
+tvsite:{"key":"Nbys","name":"泥巴(墙外)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 190 (char 189)
+tvsite:{"key":"Xiaoh","name":"Xiaoh(墙外)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 188 (char 187)
+tvsite:{"key":"If101","name":"101(墙外)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 254 (char 253)
+tvsite:{"key":"Gitcafe","name":"小纸条(爬虫)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kebedd69.github.io/TVbox-interface/token.json","jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 253 (char 252)
+tvsite:{"key":"zhaozy","name":"找资源(仅搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kebedd69.github.io/TVbox-interface/token.json","jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 250 (char 249)
+tvsite:{"key":"AliPS","name":"盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kebedd69.github.io/TVbox-interface/token.json","jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 250 (char 249)
+tvsite:{"key":"Yisou","name":"一搜(仅搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kebedd69.github.io/TVbox-interface/token.json","jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 259 (char 258)
+tvsite:{"key":"Upyunso","name":"Upyunso(仅搜索)","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kebedd69.github.io/TVbox-interface/token.json","jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 245 (char 244)
+tvsite:{"key":"Voflix","name":"Voflix(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://dxawi.github.io/1/json/voflix.json","jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 236 (char 235)
+tvsite:{"key":"Bili","name":"Bili(爬虫)","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dxawi.github.io/1/json/bili.json","jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 233 (char 232)
+tvsite:{"key":"知识","name":"知识学堂(爬虫)","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dxawi.github.io/1/json/xx1.json","jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 231 (char 230)
+tvsite:{"key":"儿童","name":"儿童(爬虫)","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dxawi.github.io/1/json/xx2.json","jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 231 (char 230)
+tvsite:{"key":"小学","name":"小学(爬虫)","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dxawi.github.io/1/json/xx3.json","jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 231 (char 230)
+tvsite:{"key":"初中","name":"初中(爬虫)","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dxawi.github.io/1/json/xx4.json","jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 231 (char 230)
+tvsite:{"key":"高中","name":"高中(爬虫)","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dxawi.github.io/1/json/xx5.json","jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 193 (char 192)
+tvsite:{"key":"Yj1211","name":"Yj1211(爬虫)","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 246 (char 245)
+tvsite:{"key":"推送","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://kebedd69.github.io/TVbox-interface/token.json","jar":"https://dxawi.github.io/1/jar/cc.jar;md5;53eb2714d09335dad87738de96796285"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 208 (char 207)
+tvsite:{"key":"360","name":"360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://kebedd69.github.io/TVbox-interface/jar/甜蜜11031.jar;md5;ca07e741640debc3777bb9a227cfb884"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 212 (char 211)
+tvsite:{"key":"csp_77","name":"七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://kebedd69.github.io/TVbox-interface/jar/甜蜜11031.jar;md5;ca07e741640debc3777bb9a227cfb884"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 270 (char 269)
+tvsite:{"key":"Bili","name":"Bili(SP)","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://kebedd69.github.io/TVbox-interface/bili.json","jar":"https://kebedd69.github.io/TVbox-interface/jar/甜蜜11031.jar;md5;ca07e741640debc3777bb9a227cfb884"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 209 (char 208)
+tvsite:{"key":"APPTT","name":"图图（SP）","api":"csp_AppTT","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://kebedd69.github.io/TVbox-interface/jar/甜蜜11031.jar;md5;ca07e741640debc3777bb9a227cfb884"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 214 (char 213)
+tvsite:{"key":"剧荒TV（SP）","name":"剧荒（SP）","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://kebedd69.github.io/TVbox-interface/jar/甜蜜11031.jar;md5;ca07e741640debc3777bb9a227cfb884"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 216 (char 215)
+tvsite:{"key":"Lezhu_spider","name":"乐猪(SP)","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://kebedd69.github.io/TVbox-interface/jar/甜蜜11031.jar;md5;ca07e741640debc3777bb9a227cfb884"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 279 (char 278)
+tvsite:{"key":"csp_Nmys","name":"农民影视(SP)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kebedd69.github.io/TVbox-interface/json/nmys.json","jar":"https://kebedd69.github.io/TVbox-interface/jar/甜蜜11031.jar;md5;ca07e741640debc3777bb9a227cfb884"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 213 (char 212)
+tvsite:{"key":"csp_Lgyy","name":"蓝光影院(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://kebedd69.github.io/TVbox-interface/jar/甜蜜11031.jar;md5;ca07e741640debc3777bb9a227cfb884"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 208 (char 207)
+tvsite:{"key":"饭团","name":"饭团(SP)","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://kebedd69.github.io/TVbox-interface/jar/甜蜜11031.jar;md5;ca07e741640debc3777bb9a227cfb884"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 212 (char 211)
+tvsite:{"key":"Bttoo","name":"Bttoo(SP)","api":"csp_Bttoo","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://kebedd69.github.io/TVbox-interface/jar/甜蜜11031.jar;md5;ca07e741640debc3777bb9a227cfb884"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 236 (char 235)
+tvsite:{"key":"低端","name":"低端(SP)","api":"csp_Ddrk","type":3,"filterable":1,"quickSearch":1,"searchable":1,"click":"ddys.tv;#vjsp>button","jar":"https://kebedd69.github.io/TVbox-interface/jar/甜蜜11031.jar;md5;ca07e741640debc3777bb9a227cfb884"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 207 (char 206)
+tvsite:{"key":"zxzj","name":"在线(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://kebedd69.github.io/TVbox-interface/jar/甜蜜11031.jar;md5;ca07e741640debc3777bb9a227cfb884"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 209 (char 208)
+tvsite:{"key":"追剧喵","name":"追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://kebedd69.github.io/TVbox-interface/jar/甜蜜11031.jar;md5;ca07e741640debc3777bb9a227cfb884"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 207 (char 206)
+tvsite:{"key":"日漫","name":"日漫(SP)","api":"csp_Anime1","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://kebedd69.github.io/TVbox-interface/jar/甜蜜11031.jar;md5;ca07e741640debc3777bb9a227cfb884"}"},
+
+[2022-11-12 16:41:18] Main-Line-614-Exception:Extra data: line 1 column 213 (char 212)
+tvsite:{"key":"Kuaikan","name":"快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://kebedd69.github.io/TVbox-interface/jar/甜蜜11031.jar;md5;ca07e741640debc3777bb9a227cfb884"}"},
+
+[2022-11-12 16:41:20] Main-Line-614-Exception:Extra data: line 1 column 281 (char 280)
+tvsite:{"key":"csp_xbpq_子子影视","name":"子子影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://kebedd69.github.io/TVbox-interface/子子影视.json","jar":"https://kebedd69.github.io/TVbox-interface/jar/甜蜜11031.jar;md5;ca07e741640debc3777bb9a227cfb884"}"},
+
+[2022-11-12 16:41:20] Main-Line-614-Exception:Extra data: line 1 column 281 (char 280)
+tvsite:{"key":"csp_xbpq_胖虎影视","name":"胖虎影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://kebedd69.github.io/TVbox-interface/胖虎影视.json","jar":"https://kebedd69.github.io/TVbox-interface/jar/甜蜜11031.jar;md5;ca07e741640debc3777bb9a227cfb884"}"},
+
+[2022-11-12 16:41:20] Main-Line-614-Exception:Extra data: line 1 column 290 (char 289)
+tvsite:{"key":"csp_xpath_qiumi","name":"球迷直播","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://kebedd69.github.io/TVbox-interface/json/qiumi.json","jar":"https://kebedd69.github.io/TVbox-interface/jar/甜蜜11031.jar;md5;ca07e741640debc3777bb9a227cfb884"}"},
+
+[2022-11-12 16:41:20] Main-Line-614-Exception:Extra data: line 1 column 211 (char 210)
+tvsite:{"key":"在线直播","name":"在线直播(SP)","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":0,"filterable":1,"jar":"https://kebedd69.github.io/TVbox-interface/jar/甜蜜11031.jar;md5;ca07e741640debc3777bb9a227cfb884"}"},
+
+[2022-11-12 16:41:20] Main-Line-614-Exception:Extra data: line 1 column 275 (char 274)
+tvsite:{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://zdir.kebedd69.repl.co/public/TVBox/token.json","jar":"https://kebedd69.github.io/TVbox-interface/jar/甜蜜11031.jar;md5;ca07e741640debc3777bb9a227cfb884"}"},
