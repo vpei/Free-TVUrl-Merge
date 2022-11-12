@@ -1,5 +1,5 @@
 {
-//Update:2022-11-13 04:14:05.343011
+//Update:2022-11-13 06:12:52.466279
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -136,8 +136,7 @@
 {"name":"黑米","type":1,"url":"https://www.myxin.top/jx/api/?url="},
 {"name":"无名","type":1,"url":"https://www.administratorw.com/video.php?url="},
 {"name":"无名小站","type":1,"url":"https://www.administratorw.com/admin.php?url="},
-{"name":"集象","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2245&my=cdfhirsuwyEGIPU346&url="},
-{"name":"VIP1","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2233&my=eginqstBCJMNSUX689&url="}
+{"name":"集象","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2245&my=cdfhirsuwyEGIPU346&url="}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],

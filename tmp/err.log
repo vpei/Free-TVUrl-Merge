@@ -1829,3 +1829,11 @@ https://box.okeybox.top/tv/0xth.json
 [2022-11-13 04:14:05] Main-Line-496-Exception:
 Extra data: line 1 column 113 (char 112)
 {"name":"VIP3","type":1,"url":"http://jifei.mrcy0.com/home/api?type=ys&uid=2752189&key=aefghtACLNRSZ01247&url="},}
+
+[2022-11-13 06:11:11] Main-Line-530-Exception:HTTPSConnectionPool(host='box.okeybox.top', port=443): Max retries exceeded with url: /tv/0xth.json (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fbdf7c24e10>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+osite_tvurl:
+https://box.okeybox.top/tv/0xth.json
+
+[2022-11-13 06:12:52] Main-Line-496-Exception:
+Extra data: line 1 column 108 (char 107)
+{"name":"VIP1","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2233&my=eginqstBCJMNSUX689&url="},}
