@@ -7,7 +7,8 @@
 
 "spider":"./vod;md5;c4ba98711fac35daff17780d0817f5dc",
 "wallpaper":"https://壁纸.神器每日推送.tk",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvbGl2ZS50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvbGl2ZS50eHQ="]}],
+"epg":"http://epg.51zmt.top:8000/api/diyp/"}],
 
 "sites":[
 {"key":"douban2","name":"🅱豆瓣荐片┃神器妹推荐首页","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":0,"quickSearch":0,"filterable":0},

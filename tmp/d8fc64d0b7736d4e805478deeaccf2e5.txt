@@ -2,8 +2,9 @@
 //Q裙：711368232
 //搜索加群第一时间了解最新消息：https://jq.qq.com/?_wv=1027&k=Ml8bJRFQ
 
+
 {
-"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;DF921CEE9A4089D70550A37FFB1ECF43",
+	"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;DF921CEE9A4089D70550A37FFB1ECF43",
 	"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives":[{
 		"name":"直播",
