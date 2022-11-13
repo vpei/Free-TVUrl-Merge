@@ -87,7 +87,6 @@
 {"name":"刚刚影视","type":1,"url":"https://vip.fuqizhishi.com/?v="},
 {"name":"钢铁侠","type":1,"url":"https://json.freejx.in/?url="},
 {"name":"道长VIP","type":1,"url":"https://80k.tv/jxplayer.php?v="},
-{"name":"道长自建","type":1,"url":"https://vip.lianfaka.com/vip/?url="},
 {"name":"江湖解析","type":1,"url":"http://jx.vipmv.co/?url="},
 {"name":"8090","type":1,"url":"https://www.8090g.cn/?url="},
 {"name":"万能","type":1,"url":"https://json.legendwhb.cn/llq/?url="},
