@@ -345,7 +345,7 @@ if(menu == 'uptvbox'):
                 # rq = s.get(newboxurl, keep_alive=False, verify=False, timeout=(240, 120)) #连接超时 和 读取超时
                 # rq.encoding = 'utf-8'
                 if(rq.encoding == 'ISO-8859-1'):
-                    rq.encoding = rq.apparent_encoding 
+                    rq.encoding = rq.apparent_encoding
                 if (rq.status_code != 200 and rq.status_code != 301 and rq.status_code != 302):
                     print('[GET Code {}] Download sub error on link: '.format(rq.status_code) + osite_tvurl)
                     boxurl = boxurl + '\n' + i
