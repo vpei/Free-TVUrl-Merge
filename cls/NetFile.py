@@ -33,9 +33,9 @@ class NetFile(): # 将订阅链接中YAML，Base64等内容转换为 Url 链接�
                 print("\nNetFile-Line-18: Download File error.][" + str(rq.status_code) + "]-Url: " + r_url)
             else:
                 #retxt = rq.content.decode("utf-8")
-                if(rq.encoding == 'ISO-8859-1'):
+                if(rq.encoding == 'ISO-8859-1' or rq.encoding == None):
                     rq.encoding = rq.apparent_encoding
-                retxt = rq.text.encode(rq.encoding).decode('utf-8')
+                retxt = rq.text # .encode(rq.encoding).decode('utf-8')
             rq.close()
         except Exception as ex:
             print('\nNetFile-Line-34: down res file err: ' + str(ex) + '\n' +  r_url)
