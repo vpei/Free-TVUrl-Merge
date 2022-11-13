@@ -595,9 +595,9 @@ if(menu == 'check'):
                     elif(j.find('"key":') > -1 and j.find('"name":') > -1 and j.find('"type":') > -1):
                         addtv += '\r\n' + j + ','
                 else:
-                    print('Main-Line-612-not-tvsite-url:' + i)
+                    print('Main-Line-612-not-tvsite-url:' + j)
             except Exception as ex:
-                LocalFile.write_LogFile('Main-Line-614-Exception:' + str(ex) + '\ntvsite:' + i)
+                LocalFile.write_LogFile('Main-Line-614-Exception:' + str(ex) + '\ntvsite:' + j)
         
         LocalFile.write_LocalFile('./res/r_sites_err.txt', r_sites_err.strip('\r\n'))
         print('Line-563:/res/r_sites_err.txt已更新。')
