@@ -192,3 +192,4 @@
 [2022-11-13 10:10:39] 404:{"name":"解析5","type":1,"url":"https://play.fuqizhishi.com/jx/API.php?appkey=xiaobaiiiii&url="},
 [2022-11-13 10:10:40] 0:{"name":"解析20","type":0,"url":"https://parse.123mingren.com/?url="},
 [2022-11-13 11:23:56] 0:{"name":"网络搜集02","type":1,"url":"https://json.pangujiexi.com/json.php?url=","ext":{"flag":["youku","优酷","qq","腾讯","qiyi","爱奇艺","奇艺"]}},
+[2022-11-13 12:36:59] 0:{"name":"解析","type":0,"url":"https://ckmov.ccyjjd.com/ckmov/?url="},
