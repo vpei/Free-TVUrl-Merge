@@ -25,7 +25,7 @@ except:
     menu = 'init'
 print('menu: ' + menu)
 
-# ustat = NetFile.url_stat('https://video.xuanqi.pro/api.php/provide/vod/', 60, 60)
+# ustat = NetFile.url_stat('https://video.xuan.io/api.php/provide/vod/', 60, 60)
 # menu = 'update'
 # menu = 'upexpire'
 # menu = 'uptvbox'
@@ -44,7 +44,6 @@ print('menu: ' + menu)
 #                 print('Get-File-is-True:' + resurl + '' + i + ' FileSize:' + str(len(File)))
 #         except Exception as ex:
 #             print('Get-File-is-False:' + resurl + '' + i + '\n' + str(ex))
-
 
 # def write_json():
 #     '''
@@ -331,6 +330,7 @@ if(menu == 'uptvbox'):
             osite_upmd5 = osite['upmd5']
             osite_tvurl = osite['tvurl']
             osite_size = osite['size']
+        osite_tvurl = 'http://vpei.vmess.com/368a78117708e614f481b0f9ecb5642d.txt'
         if(boxurl.find(osite_tvurl) == -1):
             try:
                 newboxurl = osite_tvurl.replace('<yyyy>', datetime.datetime.now().strftime('%Y'))
@@ -344,6 +344,8 @@ if(menu == 'uptvbox'):
                 rq = s.get(newboxurl, timeout=(240, 120)) #连接超时 和 读取超时
                 # rq = s.get(newboxurl, keep_alive=False, verify=False, timeout=(240, 120)) #连接超时 和 读取超时
                 # rq.encoding = 'utf-8'
+                if(rq.encoding == 'ISO-8859-1'):
+                    rq.encoding = rq.apparent_encoding 
                 if (rq.status_code != 200 and rq.status_code != 301 and rq.status_code != 302):
                     print('[GET Code {}] Download sub error on link: '.format(rq.status_code) + osite_tvurl)
                     boxurl = boxurl + '\n' + i
@@ -352,11 +354,12 @@ if(menu == 'uptvbox'):
                 # boxsites = boxsites.encode(rq.encoding).decode('utf-8')
                 # print(str(isinstance(rq.text, basestring)))
                 # print(str(chardet.detect(rq.text)))
-                if(rq.encoding != 'utf-16le' and rq.encoding != None):
-                    boxsites = rq.text.encode(rq.encoding).decode('utf-8')
-                else:
-                    boxsites = rq.text.encode('utf-8') #unicode -> str
-                    boxsites = boxsites.decode('utf-8') #str -> unicode
+                #if(rq.encoding != 'utf-16le' and rq.encoding != None):
+                #    boxsites = rq.text.encode(rq.encoding).decode('utf-8')
+                #else:
+                #    boxsites = rq.text.encode('utf-8') #unicode -> str
+                #    boxsites = boxsites.decode('utf-8') #str -> unicode
+                boxsites = rq.text #.encode(rq.apparent_encoding).decode('utf-8')
                 boxsites = boxsites.replace(' ','')
                 boxsites = boxsites.encode('utf-8').decode('utf-8', 'ignore').replace('\ufeff', '').strip('\n')
                 # if (boxsites != ''):# and osite_upmd5 != hashlib.md5(boxsites.encode('utf-8')).hexdigest()):
@@ -429,7 +432,7 @@ if(menu == 'uptvbox'):
                                 LocalFile.write_LogFile('Main-Line-205-main-Exception:' + str(ex) + '\nosite_tvurl:\n' + onetv)
                     elif (osite['type'] == 'mixed'):
                         boxsites = boxsites.replace('\r','').replace('\n','').replace('\t','').replace('	','').replace(' ','')
-                        tvjar = StrText.get_str_btw(boxsites, '"spider":"', '",', 0)
+                        tvjar = StrText.get_str_btw(boxsites, '"spider":"', '"', 0)
                         if(boxsites.find('"proxy://do=live&type=txt&ext=')>-1):
                             try:
                                 onelive = base64.b64decode(StrText.get_str_btw(boxsites, 'proxy://do=live&type=txt&ext=', '"', 0)).decode('utf-8')
