@@ -463,3 +463,17 @@ osite_tvurl:
 https://box.okeybox.top/tv/0xth.json
 
 [2022-11-13 11:23:56] Main-Line-623-Exception:name 'i' is not defined
+
+[2022-11-13 12:25:42] Main-Line-211-Exception:Extra data: line 1 column 181 (char 180)
+onetvurl:
+{"key":"csp_biubiu_开心果电影网","name":"🥒开心果电影网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/开心果电影网.json"},#阿里Token{"key":"push_agent","name":"🍭推送（爱优腾/磁力/阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"daae36603bcd490681bdd8d03940783a","jar":"https://raw.iqiq.io/vpei/Free-TVUrl-Merge/main/res/push_agent.PNG"}
+
+[2022-11-13 12:26:15] Main-Line-211-Exception:Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+onetvurl:
+{//,"jar":""{"key":"csp_77","name":"ğŸ‘’é…·äº‘ä¸ƒä¸ƒã€”SPã€•Qç¾¤ï¼š783468715","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},//{"key":"douban","name":"ğŸ”�è±†ç“£è��ç‰‡ã€”T4ã€•","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":1,"quickSearch":1,"filterable":0}
+
+[2022-11-13 12:26:24] Main-Line-530-Exception:HTTPSConnectionPool(host='box.okeybox.top', port=443): Max retries exceeded with url: /tv/0xth.json (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f499b62dc10>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+osite_tvurl:
+https://box.okeybox.top/tv/0xth.json
+
+[2022-11-13 12:29:31] Main-Line-623-Exception:name 'i' is not defined
