@@ -168,3 +168,8 @@
 {"name":"优众2","type":1,"url":"https://jisu.rongxingvr.top/api/?key=JGM0Kc1Sz0xCJnRMcY&url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
 {"name":"云you","type":1,"url":"http://chaloli.cn/home/api?type=ys&uid=1942949&key=bfijlnovBCEGHJTV09&url="},
 {"name":"解析10","type":0,"url":"http://www.ckmov.vip/api.php?url="},
+{"name":"纯净1","type":1,"url":"https://z1.m1907.top/?jx="},
+{"name":"集象","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2245&my=cdfhirsuwyEGIPU346&url="},
+{"name":"VIP1","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2233&my=eginqstBCJMNSUX689&url="},
+{"name":"VIP3","type":1,"url":"http://jifei.mrcy0.com/home/api?type=ys&uid=2752189&key=aefghtACLNRSZ01247&url="},
+{"name":"急速5","type":1,"url":"http://ck.laobandq.com/3515240842.php?pltfrom=1100&url="},
