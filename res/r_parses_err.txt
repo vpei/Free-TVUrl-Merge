@@ -195,3 +195,4 @@
 [2022-11-13 12:36:59] 0:{"name":"解析","type":0,"url":"https://ckmov.ccyjjd.com/ckmov/?url="},
 [2022-11-13 17:05:59] 0:{"name":"七哥","url":"https://jx.mmkv.cn/tv.php?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 [2022-11-14 00:19:28] 0:{"name":"道长自建","type":1,"url":"https://vip.lianfaka.com/vip/?url="},
+[2022-11-14 04:16:13] 0:{"name":"Json8","type":1,"url":"http://119.91.206.244:9999/jx/hfys.php?url=","ext":{"flag":["imgo","duoduozy","renrenmi","ltnb","miaoparty","miaoparty2","miaoparty3","laodiyun","laodim3u8","lekanzyw","rx","CL4K","fuckapp","1080P","wuduzy"]}},
