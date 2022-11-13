@@ -1,5 +1,5 @@
 {
-//Update:2022-11-13 20:56:53.194622
+//Update:2022-11-13 22:32:21.982656
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -808,8 +808,6 @@
 {"key":"dr_vidhub","name":"vidhub(drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://drpy.owen10086.repl.co/admin/view/vidhub.js","jar":"https://drpy.owen10086.repl.co/files/custom_spider.jar"},
 {"key":"dr_voflix","name":"voflix(drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://drpy.owen10086.repl.co/admin/view/voflix.js","jar":"https://drpy.owen10086.repl.co/files/custom_spider.jar"},
 {"key":"dr_双十电影","name":"双十电影(drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://drpy.owen10086.repl.co/admin/view/双十电影.js","jar":"https://drpy.owen10086.repl.co/files/custom_spider.jar"},
-{"key":"dr_唐人街影视","name":"唐人街影视(drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://drpy.owen10086.repl.co/admin/view/唐人街影视.js","jar":"https://drpy.owen10086.repl.co/files/custom_spider.jar"},
-{"key":"dr_尘落影视","name":"尘落影视(drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://drpy.owen10086.repl.co/admin/view/尘落影视.js","jar":"https://drpy.owen10086.repl.co/files/custom_spider.jar"},
 {"key":"dr_抓饭体育","name":"抓饭体育(drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://drpy.owen10086.repl.co/admin/view/抓饭体育.js","jar":"https://drpy.owen10086.repl.co/files/custom_spider.jar"},
 {"key":"dr_斗鱼直播","name":"斗鱼直播(drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://drpy.owen10086.repl.co/admin/view/斗鱼直播.js","jar":"https://drpy.owen10086.repl.co/files/custom_spider.jar"},
 {"key":"dr_爱迪影视","name":"爱迪影视(drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://drpy.owen10086.repl.co/admin/view/爱迪影视.js","jar":"https://drpy.owen10086.repl.co/files/custom_spider.jar"},
