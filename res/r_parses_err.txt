@@ -193,3 +193,4 @@
 [2022-11-13 10:10:40] 0:{"name":"解析20","type":0,"url":"https://parse.123mingren.com/?url="},
 [2022-11-13 11:23:56] 0:{"name":"网络搜集02","type":1,"url":"https://json.pangujiexi.com/json.php?url=","ext":{"flag":["youku","优酷","qq","腾讯","qiyi","爱奇艺","奇艺"]}},
 [2022-11-13 12:36:59] 0:{"name":"解析","type":0,"url":"https://ckmov.ccyjjd.com/ckmov/?url="},
+[2022-11-13 17:05:59] 0:{"name":"七哥","url":"https://jx.mmkv.cn/tv.php?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
