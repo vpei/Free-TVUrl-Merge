@@ -501,6 +501,8 @@ if(menu == 'uptvbox'):
     r_parses = '{"name":"解析聚合","type":3,"url":"Demo"},\r\n{"name":"Json并发","type":2,"url":"Parallel"},\r\n{"name":"Json轮询","type":2,"url":"Sequence"},'
     for oneparse in parses.split('},{'):        
         try:
+            if(len(oneparse.split('}')) > len(oneparse.split('{'))):
+                oneparse = oneparse.strip(',')[:-1].strip(',')
             oneparse = '{' + oneparse + '}'
             if(oneparse.find('"name":"') > -1 and oneparse.find('"url":"') > -1):
                 onep = json.loads(oneparse)
@@ -529,30 +531,33 @@ if(menu == 'check'):
         addtv = ''
         nsfw = ''
         spare = ''
-        for i in tvbox.split('\n'):
+        tvbox = tvbox.replace('//{','\n{')
+        for j in tvbox.split('\n'):
             try:
-                if(i != '' and r_sites_err.find('"jar":"./') == -1 and r_sites_err.find(i) == -1 and i.find('"key":') > -1 and i.find('"name":') > -1 and i.find('"type":') > -1):
-                    ii = i.replace('//{','{').strip(',').replace('"type":0','"type":1')
-                    tv = json.loads(ii)
+                if(j != '' and j.find('"jar":"./') == -1 and j.find('"ext":"./') == -1 and j.find('"key":') > -1 and j.find('"name":') > -1 and j.find('"type":') > -1 and r_sites_err.find(j) == -1):
+                    j = j.strip(',').replace('"type":0','"type":1')
+                    if(len(j.split('}')) > len(j.split('{'))):
+                        j = j.strip(',')[:-1].strip(',')
+                    tv = json.loads(j)
                     # 检查自定义Jar文件是否存在
-                    if(ii.find('"jar":"') > -1):
+                    if('jar' in tv.keys()):
                         jar = tv['jar']
                         if(jar.find('http') == 0):
                             ustat = NetFile.url_stat(jar, 60, 60)
                             if(ustat == 404 or ustat == 0):
-                                ii = ii.replace(',"jar":"' + jar + '"', '')
+                                j = j.replace(',"jar":"' + jar + '"', '')
                     # 自定义电影网站名称
-                    if(ii.find('"name"') > -1 and ii.find('"key"') > -1 ):
+                    if(('name' in tv.keys()) and ('key' in tv.keys())):
                         if(rename.find(tv['key']) > -1):
                             newname = StrText.get_str_btw(rename.replace('\r',''), tv['key'] + ':', '\n', 0)
                             tv['name'] = newname
-                            ii = json.dumps(tv)                              
+                            j = json.dumps(tv)                              
                     # 过滤重复的电影网站
-                    if((addtv + spare + nsfw).find(ii) > -1):
+                    if((addtv + spare + nsfw).find(j) > -1):
                         continue
                     # 过滤重复Key的电影网站
                     if((addtv + nsfw).find('"key":"' + tv['key'] + '"') > -1):
-                        spare += '\r\n' + ii + ','
+                        spare += '\r\n' + j + ','
                         continue
                     # 分类去重
                     id = tv['type']
@@ -564,7 +569,7 @@ if(menu == 'check'):
                             if(api.find('http') == 0):
                                 ustat = NetFile.url_stat(api, 60, 60)
                                 if(ustat == 404 or ustat == 0):
-                                    r_sites_err += '\r\n[' + datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S") + '] ' + str(ustat) + ':' + ii + ','
+                                    r_sites_err += '\r\n[' + datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S") + '] ' + str(ustat) + ':' + j + ','
                                     continue
                     elif(id == 3):
                         if('ext' in tv.keys()):
@@ -575,7 +580,7 @@ if(menu == 'check'):
                                 if(ext.find('http') == 0):
                                     ustat = NetFile.url_stat(ext, 60, 60)
                                     if(ustat == 404 or ustat == 0):
-                                        r_sites_err += '\r\n[' + datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S") + '] ' + str(ustat) + ':' + ii + ','
+                                        r_sites_err += '\r\n[' + datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S") + '] ' + str(ustat) + ':' + j + ','
                                         continue
                         else:
                             # 未配置Ext信息，让api值唯一
@@ -583,12 +588,12 @@ if(menu == 'check'):
                                 continue
 
                     else:
-                        spare += '\r\n' + ii + ','
+                        spare += '\r\n' + j + ','
                     
                     if(tv['name'].find('*') > -1):
-                        nsfw += '\r\n' + ii + ','
-                    elif(ii.find('"key":') > -1 and ii.find('"name":') > -1 and ii.find('"type":') > -1):
-                        addtv += '\r\n' + ii + ','
+                        nsfw += '\r\n' + j + ','
+                    elif(j.find('"key":') > -1 and j.find('"name":') > -1 and j.find('"type":') > -1):
+                        addtv += '\r\n' + j + ','
                 else:
                     print('Main-Line-612-not-tvsite-url:' + i)
             except Exception as ex:
