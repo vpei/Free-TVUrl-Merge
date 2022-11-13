@@ -17,6 +17,7 @@ class LocalFile(): # 将订阅链接中YAML，Base64等内容转换为 Url 链�
 
     # 写入字符串到本地文件
     def write_LogFile(fcont):
+        print(fcont)
         fname = './tmp/err.log'
         fcont = '[' + datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S") + '] ' + fcont
         LocalFile.write_LocalFile(fname, fcont)

@@ -27,15 +27,23 @@ class NetFile(): # 将订阅链接中YAML，Base64等内容转换为 Url 链接�
             requests.adapters.DEFAULT_RETRIES = 3 # 增加重连次数
             s = requests.session()
             s.keep_alive = False # 关闭多余连接
+            s.verify = False
             rq = s.get(r_url, timeout=(linktime, readtime))
             #rq = requests.get(url, timeout=(30, 60)) #连接超时 和 读取超时
             if (rq.status_code != 200):
                 print("\nNetFile-Line-18: Download File error.][" + str(rq.status_code) + "]-Url: " + r_url)
             else:
                 #retxt = rq.content.decode("utf-8")
-                if(rq.encoding == 'ISO-8859-1' or rq.encoding == None):
+                if(rq.encoding == None):
                     rq.encoding = rq.apparent_encoding
-                retxt = rq.text # .encode(rq.encoding).decode('utf-8')
+                if(rq.encoding == 'ISO-8859-1'):
+                    retxt = rq.text.encode(rq.encoding).decode('gbk').encode('utf8').decode('utf-8')
+                elif(rq.encoding == 'Windows-1252'):
+                    rq.encoding = 'utf-8'
+                    retxt = rq.text.encode(rq.encoding).decode('utf-8')
+                else:
+                    retxt = rq.text.encode(rq.encoding).decode('utf-8')
+                # retxt = rq.text.encode(rq.encoding).decode('utf-8')
             rq.close()
         except Exception as ex:
             print('\nNetFile-Line-34: down res file err: ' + str(ex) + '\n' +  r_url)
