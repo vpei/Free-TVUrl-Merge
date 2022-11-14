@@ -1,5 +1,5 @@
 {
-//Update:2022-11-14 18:45:05.956300
+//Update:2022-11-14 21:00:12.381451
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -703,7 +703,7 @@
 {"key":"mtv_xp_凌云韩国","name":"切片┃凌云韩国","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-凌云韩国.json"},
 {"key":"mtv_xp_奇优影院","name":"切片┃奇优影院","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-奇优影院.json"},
 {"key":"dr_豆芽影院","name":"豆芽影院(drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://drpy.owen10086.repl.co/admin/view/豆芽影院.js","jar":"https://drpy.owen10086.repl.co/files/custom_spider.jar"},
-{"key":"dr_兰花影院","name":"兰花影院(drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://drpy.owen10086.repl.co/admin/view/兰花影院.js","jar":"https://drpy.owen10086.repl.co/files/custom_spider.jar"},
+{"key":"dr_兰花影院","name":"兰花影院(drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://drpy.owen10086.repl.co/admin/view/兰花影院.js"},
 {"key":"dr_NY影院","name":"NY影院(drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://drpy.owen10086.repl.co/admin/view/NY影院.js","jar":"https://drpy.owen10086.repl.co/files/custom_spider.jar"},
 {"key":"dr_听书网","name":"听书网(drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://drpy.owen10086.repl.co/admin/view/听书网.js","jar":"https://drpy.owen10086.repl.co/files/custom_spider.jar"},
 {"key":"dr_看看电影","name":"看看电影(drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://drpy.owen10086.repl.co/admin/view/看看电影.js","jar":"https://drpy.owen10086.repl.co/files/custom_spider.jar"},
