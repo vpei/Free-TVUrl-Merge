@@ -1,5 +1,5 @@
 {
-//Update:2022-11-14 21:00:12.381451
+//Update:2022-11-14 22:43:33.233567
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -1099,7 +1099,6 @@
 {"name":"m3u8tv高清","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
 {"name":"parwix稳定","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"OKjx综合","type":0,"url":"https://okjx.cc/?url="},
-{"name":"GGTV","type":1,"url":"https://play.fuqizhishi.com/jx2/API.php?appkey=iiiixiaobai&url="},
 {"name":"爱酷嗅探","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 {"name":"刘兵解析","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"江湖解析","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="},
@@ -1216,7 +1215,6 @@
 {"name":"xfyun云","type":1,"url":"https://vip.xfyun.one/home/api?type=ys&uid=2581923&key=ceijpquvBMOSUVXZ23&url=","ext":{"flag":["xfyun"]}},
 {"name":"解04","type":1,"url":"https://jhjx.kuanjv.com/newky/?url="},
 {"name":"解22","type":1,"url":"https://dd.mouliuk.com/home/api?type=ys&uid=12293&key=acfhkovxzDEIMPWX29&url="},
-{"name":"解23","type":1,"url":"https://vip.byteamone.cn/api/?key=vpO0packXeAp4XYCnA&url="},
 {"name":"解27","type":1,"url":"http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url="},
 {"name":"解41","type":1,"url":"https://jx.kujiexi.net/m3u8.php?url="},
 {"name":"解42","type":1,"url":"http://jx.ykyunbo.com/m3u8.php?url="},
@@ -1255,7 +1253,6 @@
 {"name":"纯净1","type":1,"url":"https://z1.m1907.top/?jx="},
 {"name":"集象","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2245&my=cdfhirsuwyEGIPU346&url="},
 {"name":"VIP1","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2233&my=eginqstBCJMNSUX689&url="},
-{"name":"VIP3","type":1,"url":"http://jifei.mrcy0.com/home/api?type=ys&uid=2752189&key=aefghtACLNRSZ01247&url="},
 {"name":"急速5","type":1,"url":"http://ck.laobandq.com/3515240842.php?pltfrom=1100&url="}
 ],
 
