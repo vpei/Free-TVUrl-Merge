@@ -198,3 +198,4 @@
 [2022-11-14 04:16:13] 0:{"name":"Json8","type":1,"url":"http://119.91.206.244:9999/jx/hfys.php?url=","ext":{"flag":["imgo","duoduozy","renrenmi","ltnb","miaoparty","miaoparty2","miaoparty3","laodiyun","laodim3u8","lekanzyw","rx","CL4K","fuckapp","1080P","wuduzy"]}},
 [2022-11-14 12:33:41] 0:{"name":"ç¥�3","type":1,"url":"http://api.ckflv.cn/?url="},
 [2022-11-14 16:17:39] 0:{"name":"PPJ解析","type":1,"url":"https://jx.ppjbk.cn/?url="},
+[2022-11-14 18:17:15] 0:{"name":"鸿途","url":"https://drpy.owen10086.repl.co/parse/api/鸿途.js?url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
