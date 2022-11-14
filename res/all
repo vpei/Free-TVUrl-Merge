@@ -1,5 +1,5 @@
 "sites":[
-//Update:2022-11-14 12:56:12.395330
+//Update:2022-11-14 14:42:04.132689
 
 {"key":"Juhuang","name":"剧荒TV","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
@@ -779,7 +779,7 @@
 {"key":"dr_酷云77","name":"酷云77(drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://drpy.owen10086.repl.co/admin/view/酷云77.js","jar":"https://drpy.owen10086.repl.co/files/custom_spider.jar"},
 {"key":"dr_百忙无果","name":"百忙无果(drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://drpy.owen10086.repl.co/admin/view/百忙无果.js","jar":"https://drpy.owen10086.repl.co/files/custom_spider.jar"},
 {"key":"dr_AGE动漫","name":"AGE动漫(drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://drpy.owen10086.repl.co/admin/view/AGE动漫.js","jar":"https://drpy.owen10086.repl.co/files/custom_spider.jar"},
-{"key":"dr_RP影视","name":"RP影视(drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://drpy.owen10086.repl.co/admin/view/RP影视.js","jar":"https://drpy.owen10086.repl.co/files/custom_spider.jar"},
+{"key":"dr_RP影视","name":"RP影视(drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://drpy.owen10086.repl.co/admin/view/RP影视.js"},
 {"key":"dr_有声小说吧","name":"有声小说吧(drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://drpy.owen10086.repl.co/admin/view/有声小说吧.js","jar":"https://drpy.owen10086.repl.co/files/custom_spider.jar"},
 {"key":"dr_短视频","name":"短视频(drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://drpy.owen10086.repl.co/admin/view/短视频.js","jar":"https://drpy.owen10086.repl.co/files/custom_spider.jar"},
 {"key":"dr_HD(1)","name":"HD(1)(drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://drpy.owen10086.repl.co/admin/view/HD(1).js","jar":"https://drpy.owen10086.repl.co/files/custom_spider.jar"},
