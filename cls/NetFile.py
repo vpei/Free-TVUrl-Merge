@@ -37,13 +37,17 @@ class NetFile(): # 将订阅链接中YAML，Base64等内容转换为 Url 链接�
                 if(rq.encoding == None):
                     rq.encoding = rq.apparent_encoding
                 if(rq.encoding == 'ISO-8859-1'):
-                    retxt = rq.text.encode(rq.encoding).decode('gbk').encode('utf8').decode('utf-8')
+                    retxt = rq.text.encode(rq.encoding).decode('gbk').encode('utf8')
                 elif(rq.encoding == 'Windows-1252'):
                     rq.encoding = 'utf-8'
-                    retxt = rq.text.encode(rq.encoding).decode('utf-8')
+                    retxt = rq.text.encode(rq.encoding)
+                elif(rq.encoding == 'UTF-8-SIG'):
+                    # b'\xef\xbb\xbf
+                    retxt = rq.text.encode(rq.encoding)[3:]
+                    # retxt = retxt.replace('\ufeff', '')
                 else:
-                    retxt = rq.text.encode(rq.encoding).decode('utf-8')
-                # retxt = rq.text.encode(rq.encoding).decode('utf-8')
+                    retxt = rq.text.encode(rq.encoding)
+                retxt = retxt.decode('utf-8')
             rq.close()
         except Exception as ex:
             print('\nNetFile-Line-34: down res file err: ' + str(ex) + '\n' +  r_url)
