@@ -1,5 +1,5 @@
 {
-//Update:2022-11-14 14:42:04.129148
+//Update:2022-11-14 16:45:10.756070
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -113,7 +113,6 @@
 {"name":"vip视频在线解析1","type":1,"url":"https://vip.agoni.top/?url="},
 {"name":"综合线路解析","type":1,"url":"https://laisoyiba.com/mov/s/?sv=3&url="},
 {"name":"全民","type":1,"url":"https://jx.quanmingjiexi.com/?url="},
-{"name":"PPJ解析","type":1,"url":"https://jx.ppjbk.cn/?url="},
 {"name":"云解析","type":1,"url":"https://jx.ppflv.com/?url="},
 {"name":"淘电影","type":1,"url":"https://jx.vodjx.top/vip/?url="},
 {"name":"迪奥","type":1,"url":"https://123.1dior.cn/?url="},

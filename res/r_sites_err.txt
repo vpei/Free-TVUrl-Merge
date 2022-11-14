@@ -694,3 +694,4 @@
 {"key":"小宝影院","name":"小宝影院","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Olevod","name":"Olevod","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bd","name":"📯哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
+[2022-11-14 16:28:35] 0:{"key":"搜狐(官源)","name":"🦊搜狐","type":1,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/sohu/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"]},

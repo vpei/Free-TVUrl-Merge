@@ -197,3 +197,4 @@
 [2022-11-14 00:19:28] 0:{"name":"道长自建","type":1,"url":"https://vip.lianfaka.com/vip/?url="},
 [2022-11-14 04:16:13] 0:{"name":"Json8","type":1,"url":"http://119.91.206.244:9999/jx/hfys.php?url=","ext":{"flag":["imgo","duoduozy","renrenmi","ltnb","miaoparty","miaoparty2","miaoparty3","laodiyun","laodim3u8","lekanzyw","rx","CL4K","fuckapp","1080P","wuduzy"]}},
 [2022-11-14 12:33:41] 0:{"name":"ç¥�3","type":1,"url":"http://api.ckflv.cn/?url="},
+[2022-11-14 16:17:39] 0:{"name":"PPJ解析","type":1,"url":"https://jx.ppjbk.cn/?url="},
