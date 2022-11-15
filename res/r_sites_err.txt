@@ -707,3 +707,5 @@
 [2022-11-15 14:31:01] 0:{"key":"dr_兰花影院","name":"兰花影院(drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://drpy.owen10086.repl.co/admin/view/兰花影院.js"},
 [2022-11-15 16:20:37] 0:{"key":"csp_appysv2_狐影TV","name":"狐影TV(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.foxhtv.com/api.php/v1.vod","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
 [2022-11-15 16:21:14] 404:{"key":"超高清影视","name":"超高清影视(聚)","type":1,"api":"http://shdmv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+[2022-11-15 18:16:52] 0:{"key":"6U资源","name":"6U资源(官)","type":1,"api":"http://zy.ataoju.com/inc/apijson_vod.php","playUrl":"parse:parwix1","searchable":0,"quickSearch":0},
+[2022-11-15 18:32:48] 0:{"key":"6U资源","name":"6U资源(官)","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php","searchable":0,"quickSearch":0},
