@@ -1,5 +1,5 @@
 {
-//Update:2022-11-15 09:20:35.250633
+//Update:2022-11-15 11:38:58.608685
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -50,7 +50,6 @@
 {"key":"畅视影视","name":"畅视影视","type":1,"api":"http://app.reboju.net/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"小蜻蜓APP","name":"小蜻蜓APP","type":1,"api":"http://3ketv.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"影图","name":"影图","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"随缘电影","name":"随缘电影","type":1,"api":"https://baobei666.com/inc/apijson_vod.php","playUrl":"parse:parwix1","searchable":0,"quickSearch":0},
 {"key":"飘零影院","name":"飘零影院","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"艾旦影视","name":"艾旦影视","type":1,"api":"https://lovedan.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"快看客栈","name":"快看客栈","type":1,"api":"https://www.vp1127.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -1174,7 +1173,6 @@
 {"name":"盘古无广告","type":1,"url":"http://www.pangujiexi.cc/jiexi.php?url="},
 {"name":"未知","type":1,"url":"http://106.52.218.221:88/?url="},
 {"name":"插萝莉","type":1,"url":"http://chaloli.cn/home/api?type=ys&uid=1&key=dklsuzIKNPRVW14568&url="},
-{"name":"ok2","type":0,"url":"https://api.okjx.cc:3389/jx.php?url="},
 {"name":"易看解析","type":1,"url":"https://analysis.yikan.one/analysis/player/?url="},
 {"name":"必成解析","type":1,"url":"https://jisu.rongxingvr.top/api/?key=rCMmoKD0H0ShJ00u2f&url="},
 {"name":"vip视频在线解析1","type":1,"url":"https://vip.agoni.top/?url="},

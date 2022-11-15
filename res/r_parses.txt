@@ -91,7 +91,6 @@
 {"name":"盘古无广告","type":1,"url":"http://www.pangujiexi.cc/jiexi.php?url="},
 {"name":"未知","type":1,"url":"http://106.52.218.221:88/?url="},
 {"name":"插萝莉","type":1,"url":"http://chaloli.cn/home/api?type=ys&uid=1&key=dklsuzIKNPRVW14568&url="},
-{"name":"ok2","type":0,"url":"https://api.okjx.cc:3389/jx.php?url="},
 {"name":"易看解析","type":1,"url":"https://analysis.yikan.one/analysis/player/?url="},
 {"name":"必成解析","type":1,"url":"https://jisu.rongxingvr.top/api/?key=rCMmoKD0H0ShJ00u2f&url="},
 {"name":"vip视频在线解析1","type":1,"url":"https://vip.agoni.top/?url="},
