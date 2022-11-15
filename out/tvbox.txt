@@ -1,5 +1,5 @@
 {
-//Update:2022-11-16 02:07:51.640651
+//Update:2022-11-16 02:47:45.388073
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -690,14 +690,7 @@
 {"key":"mtv_xp_凌云影视","name":"切片┃凌云影视","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-凌云影视.json"},
 {"key":"mtv_xp_凌云韩国","name":"切片┃凌云韩国","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-凌云韩国.json"},
 {"key":"mtv_xp_奇优影院","name":"切片┃奇优影院","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-奇优影院.json"},
-{"key":"dr_新视觉影视","name":"新视觉影视(drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://drpy.owen10086.repl.co/admin/view/新视觉影视.js"},
 {"key":"t4","name":"T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=b9fbd657a716432da68ef6ecfee68d2b&timeout=8","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_蓝光影院","name":"蓝光影院(drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://drpy.owen10086.repl.co/admin/view/蓝光影院.js"},
-{"key":"dr_影视工厂","name":"影视工厂(drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://drpy.owen10086.repl.co/admin/view/影视工厂.js"},
-{"key":"dr_JRS看直播","name":"JRS看直播(drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://drpy.owen10086.repl.co/admin/view/JRS看直播.js"},
-{"key":"dr_gaze","name":"gaze(drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://drpy.owen10086.repl.co/admin/view/gaze.js","jar":"https://drpy.owen10086.repl.co/files/custom_spider.jar"},
-{"key":"dr_小白菜电影","name":"小白菜电影(drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://drpy.owen10086.repl.co/admin/view/小白菜电影.js","jar":"https://drpy.owen10086.repl.co/files/custom_spider.jar"},
-{"key":"dr_独播库[飞]","name":"独播库[飞](drpy)","type":3,"api":"https://drpy.owen10086.repl.co/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://drpy.owen10086.repl.co/admin/view/独播库[飞].js"},
 {"key":"ç©ºæ ¼7","name":"","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_88kanqiu","name":"âš½88çœ‹ç�ƒ","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/MaooXP/88kanqiu.json"},
 {"key":"潇洒日记","name":"🏂潇洒日记","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/哔哩.json"},
