@@ -130,7 +130,6 @@
 {"name":"解66","type":1,"url":"http://okjx.cc/?url="},
 {"name":"解85","type":1,"url":"https://www.1717yun.com/api/?url="},
 {"name":"解87","type":1,"url":"https://www.ikukk.com/?url="},
-{"name":"解95","type":1,"url":"https://660e.com/?url="},
 {"name":"解98","type":1,"url":"https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url="},
 {"name":"解101","type":1,"url":"https://player.maqq.cn/?url="},
 {"name":"解109","type":1,"url":"http://m2090.com/?url="},
