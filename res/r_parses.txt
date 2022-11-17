@@ -110,7 +110,6 @@
 {"name":"xfyun云","type":1,"url":"https://vip.xfyun.one/home/api?type=ys&uid=2581923&key=ceijpquvBMOSUVXZ23&url=","ext":{"flag":["xfyun"]}},
 {"name":"解04","type":1,"url":"https://jhjx.kuanjv.com/newky/?url="},
 {"name":"解22","type":1,"url":"https://dd.mouliuk.com/home/api?type=ys&uid=12293&key=acfhkovxzDEIMPWX29&url="},
-{"name":"解27","type":1,"url":"http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url="},
 {"name":"解41","type":1,"url":"https://jx.kujiexi.net/m3u8.php?url="},
 {"name":"解42","type":1,"url":"http://jx.ykyunbo.com/m3u8.php?url="},
 {"name":"解43","type":1,"url":"https://player.aibozyplayer.com/m3u8/?url="},
