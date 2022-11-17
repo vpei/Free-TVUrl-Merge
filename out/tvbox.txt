@@ -1,5 +1,5 @@
 {
-//Update:2022-11-17 20:41:17.026052
+//Update:2022-11-17 22:47:45.340357
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -859,20 +859,15 @@
 {"key":"drpy_js_学生球赛录像","name":"🎥学生球赛录像","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/学生球赛录像[js1].js"},
 {"key":"drpy_js_爱车MV","name":"🎥爱车MV","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/爱车MV.js"},
 {"key":"drpy_js_酷奇MV","name":"🎥酷奇MV","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/酷奇MV.js"},
-{"key":"csp_xBPQ_freeok","name":"️🏝FREEOK(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/freeok（XBPQ）.json"},
 {"key":"csp_xBPQ_巨人","name":"👤巨人影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/巨人（XBPQ）.json"},
 {"key":"csp_xBPQ_荐片","name":"🎬荐片影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/荐片（XBPQ）.json"},
 {"key":"csp_xBPQ_极品影视","name":"🏛极品影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/极品（XBPQ）.json"},
 {"key":"csp_xBPQ_黑洞影视","name":"🌌黑洞影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/黑洞影视（XBPQ）.json"},
 {"key":"csp_xBPQ_胖虎影视","name":"🐯胖虎影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/胖虎影视（XBPQ）.json"},
-{"key":"csp_xBPQ_子子影视","name":"🎩‍子子影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/子子影视（XBPQ）.json"},
-{"key":"csp_xBPQ_爱酷影视","name":"🍖‍爱酷影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/爱酷（XBPQ）.json"},
 {"key":"csp_xBPQ_万能影视","name":"💊‍万能影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/万能影视（XBPQ）.json"},
 {"key":"csp_xBPQ_1080dy","name":"⚗1080电影(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/1080dy（XBPQ）.json"},
 {"key":"csp_xBPQ_F7好看剧","name":"💈‍F7好看剧(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/F7好看剧（XBPQ）.json"},
 {"key":"csp_xBPQ_电影先生","name":"🤵电影先生(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/电影先生（XBPQ）.json"},
-{"key":"csp_xBPQ_‍libvio","name":"💈‍libvio(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/libvio（XBPQ）.json"},
-{"key":"csp_xBPQ_厂长资源","name":"🚔厂长资源(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/厂长资源（XBPQ）.json"},
 {"key":"csp_xBPQ_乐猪TV","name":"🐷乐猪TV(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/乐猪TV（XBPQ）.json"},
 {"key":"csp_xBPQ_双十电影","name":"🏛双十电影(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/双十电影（XBPQ）.json"},
 {"key":"csp_xBPQ_锐行电影","name":"🥾锐行电影(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/锐行影院（XBPQ）.json"},
@@ -880,10 +875,6 @@
 {"key":"csp_xBPQ_在线之家","name":"🖨在线之家(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/在线之家（XBPQ）.json"},
 {"key":"csp_xBPQ_Fositv","name":"🏝Fositv(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/Fositv（XBPQ）.json"},
 {"key":"csp_xBPQ_HOHO","name":"📹HOHO(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/HOHO（XBPQ）.json"},
-{"key":"csp_xBPQ_小强迷","name":"🐞小强迷(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/小强迷（XBPQ）.json"},
-{"key":"csp_xBPQ_达达龟","name":"🐢达达龟(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/达达龟（XBPQ）.json"},
-{"key":"csp_xBPQ_奈非电影","name":"👨‍🦼奈非电影(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/奈非电影（XBPQ）.json"},
-{"key":"csp_xBPQ_热播酷","name":"🔥热播酷(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/热播酷（XBPQ）.json"},
 {"key":"csp_xBPQ_饭团TV","name":"🍚饭团TV(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/饭团TV（XBPQ）.json"},
 {"key":"csp_xBPQ_小小影视","name":"🤡小小影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/小小影视（XBPQ）.json"},
 {"key":"csp_xBPQ_好看影视","name":"👸好看影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/好看影视（XBPQ）.json"},
