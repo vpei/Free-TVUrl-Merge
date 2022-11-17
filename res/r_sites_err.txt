@@ -845,3 +845,4 @@
 [2022-11-17 11:12:48] 404:{"key":"csp_xml___樱花资源2","name":"🐝樱花资源2","type":1,"api":"https://yhzy.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 [2022-11-17 16:21:29] 0:{"key":"csp_appysv2_一站VIP影视","name":"一站VIP影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dpp8.xyz/api.php/v1.vod","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
 [2022-11-17 18:22:58] 404:{"key":"csp_xp_dandanzan10","name":"💢蛋蛋赞","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/dandanzan10.json"},
+[2022-11-17 20:27:45] 0:{"key":"快看客栈","name":"快看客栈","type":1,"api":"https://www.vp1127.com/api.php/provide/vod/","searchable":1,"quickSearch":1},

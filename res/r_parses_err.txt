@@ -222,3 +222,4 @@
 [2022-11-17 02:18:56] 0:{"name":"解95","type":1,"url":"https://660e.com/?url="},
 [2022-11-17 16:18:27] 0:{"name":"解27","type":1,"url":"http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url="},
 [2022-11-17 18:13:12] 0:{"name":"听乐","type":1,"url":"https://jx.dj6u.com/?url="},
+[2022-11-17 20:24:30] 0:{"name":"宝盒TV","type":1,"url":"https://jx.52ruo.cc/json/?id=6&url="},

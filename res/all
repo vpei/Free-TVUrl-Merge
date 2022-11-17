@@ -1,5 +1,5 @@
 "sites":[
-//Update:2022-11-17 18:31:39.761489
+//Update:2022-11-17 20:41:17.029066
 
 {"key":"Juhuang","name":"剧荒TV","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
@@ -47,7 +47,6 @@
 {"key":"影图","name":"影图","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"飘零影院","name":"飘零影院","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"艾旦影视","name":"艾旦影视","type":1,"api":"https://lovedan.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"快看客栈","name":"快看客栈","type":1,"api":"https://www.vp1127.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"网民电影","name":"网民电影","type":1,"api":"https://www.prinevillesda.org/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"麒麟资源","name":"麒麟资源(官)","type":1,"api":"http://www.qilinzyz.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 {"key":"极客资源","name":"极客资源","type":1,"api":"https://jkzy1.com/api.php/provide/vod/from/zkzym3u8/","searchable":1,"quickSearch":1},
@@ -1063,7 +1062,6 @@
 {"key":"海玉影视","name":"海玉影视(聚)","type":1,"api":"http://tv2.hykjtv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"百淘影视","name":"百淘影视(聚)","type":1,"api":"http://ys.58g8.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"39影视","name":"39影视(聚)","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"快看客栈","name":"快看客栈(聚)","type":1,"api":"https://www.vp1127.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"网民电影","name":"网民电影(聚)","type":1,"api":"https://www.prinevillesda.org/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_xpath_huya","name":"🐯虎牙(XP)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/huya2.json","jar":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_biubiu_斗鱼","name":"🥒斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/斗鱼.json","jar":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
@@ -1753,7 +1751,6 @@
 {"key":"飘零影院","name":"飘零影院(聚)","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"艾旦影视","name":"艾旦影视(聚)","type":1,"api":"https://lovedan.net/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"39影视","name":"39影视(聚)","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"快看客栈","name":"快看客栈(聚)","type":1,"api":"https://www.vp1127.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"网民电影","name":"网民电影(聚)","type":1,"api":"https://www.prinevillesda.org/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"push_agent","name":"🍭推送（爱优腾/磁力/阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"daae36603bcd490681bdd8d03940783a","jar":"https://raw.iqiq.io/vpei/Free-TVUrl-Merge/main/res/push_agent.PNG"},
 {"key":"push_agent","name":"🍭推送（爱优腾/磁力/阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"daae36603bcd490681bdd8d03940783a","jar":"https://raw.iqiq.io/vpei/Free-TVUrl-Merge/main/res/push_agent.PNG"}
