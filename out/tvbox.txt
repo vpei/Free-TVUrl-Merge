@@ -1,5 +1,5 @@
 {
-//Update:2022-11-17 09:18:02.098275
+//Update:2022-11-17 11:23:53.379780
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -348,7 +348,6 @@
 {"key":"csp_xml___飞速资源","name":"🐝飞速资源","type":1,"api":"https://m3u8.feisuzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___飞速资源2","name":"🐝飞速资源2","type":1,"api":"http://fszy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___无尽资源","name":"🐝无尽资源","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml___樱花资源2","name":"🐝樱花资源2","type":1,"api":"https://yhzy.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___FOX采集","name":"🐝FOX采集","type":1,"api":"https://foxzy.net/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___鱼乐资源","name":"🐝鱼乐资源","type":1,"api":"https://www.ylzy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___共青春","name":"🐝共青春影院","type":1,"api":"https://gqcyy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
