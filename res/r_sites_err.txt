@@ -856,3 +856,4 @@
 [2022-11-17 22:43:18] 0:{"key":"csp_xBPQ_奈非电影","name":"👨‍🦼奈非电影(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/奈非电影（XBPQ）.json"},
 [2022-11-17 22:44:19] 0:{"key":"csp_xBPQ_热播酷","name":"🔥热播酷(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/热播酷（XBPQ）.json"},
 [2022-11-18 00:23:38] 0:{"key":"csp_xpath_wnvod","name":"🦋万能影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XP//wnvod.json"},
+[2022-11-18 11:17:56] 0:{"key":"csp_xpath_lezhutv","name":"乐猪TV(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/lezhutv.json"},
