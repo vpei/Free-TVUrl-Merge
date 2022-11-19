@@ -861,3 +861,4 @@
 [2022-11-18 18:22:27] 0:{"key":"csp_xml_多多资源","name":"🐝多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/at/xml","playUrl":"https://player.movie09.com/dplayer/?url=","searchable":1,"quickSearch":1},
 [2022-11-19 06:18:17] 0:{"key":"csp_xpath_jbb","name":"剧白白(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/jubaibai.json"},
 [2022-11-19 11:10:49] 0:{"key":"csp_appysv2_OK影视","name":"OK影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://123.ok00.xyz/api.php/v1.vod","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
+[2022-11-19 12:17:19] 0:{"key":"csp_xpath_ddg","name":"达达龟(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/dadagui.json"},
