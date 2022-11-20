@@ -127,7 +127,6 @@
 {"name":"解98","type":1,"url":"https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url="},
 {"name":"解101","type":1,"url":"https://player.maqq.cn/?url="},
 {"name":"解109","type":1,"url":"http://m2090.com/?url="},
-{"name":"解111","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=998036&key=afhlnuvzDJLMOX3689&url="},
 {"name":"解112","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=7743764&key=acgjlopuxACEHJLT48&url="},
 {"name":"解118","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=594615&key=bcehpqtxCEGKMT0248&url="},
 {"name":"zn","type":1,"url":"https://svip.znjson.com/api/?key=gX8j9IPvoQ5mFmlIzu&url="},
