@@ -1,5 +1,5 @@
 "sites":[
-//Update:2022-11-21 11:27:33.247821
+//Update:2022-11-21 12:32:29.700257
 
 {"key":"Juhuang","name":"剧荒TV","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
