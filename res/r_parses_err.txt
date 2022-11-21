@@ -228,3 +228,4 @@
 [2022-11-19 20:20:33] 0:{"name":"全民","type":1,"url":"https://jx.quanmingjiexi.com/?url="},
 [2022-11-19 22:11:44] 404:{"name":"急速5","type":1,"url":"http://ck.laobandq.com/3515240842.php?pltfrom=1100&url="},
 [2022-11-20 14:17:32] 0:{"name":"解111","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=998036&key=afhlnuvzDJLMOX3689&url="},
+[2022-11-21 22:13:02] 0:{"name":"解04","type":1,"url":"https://jhjx.kuanjv.com/newky/?url="},
