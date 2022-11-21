@@ -875,3 +875,4 @@
 [2022-11-20 20:23:34] 0:{"key":"csp_xml___段友影视","name":"🐝段友影视","type":1,"api":"http://shangjihuoke.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 [2022-11-20 20:24:35] 0:{"key":"csp_AppYs2_段友影视","name":"🐌段友影视2","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shangjihuoke.com/api.php/tv.vod"},
 [2022-11-21 18:17:03] 0:{"key":"csp_xpath_94sm","name":"94神马(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/94sm.json"},
+[2022-11-22 02:26:49] 404:{"key":"csp_appysv2_1080KK","name":"🐌1080KK","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://123.250idc.com/mogai_api.php/v1.vod"},
