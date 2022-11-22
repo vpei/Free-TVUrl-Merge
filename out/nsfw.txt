@@ -1,5 +1,5 @@
 {
-//Update:2022-11-22 12:30:24.978208
+//Update:2022-11-22 14:31:29.043325
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -79,7 +79,6 @@
 {"name":"萝卜","type":1,"url":"https://ys.lbbb.cc/?url="},
 {"name":"BL解析","type":1,"url":"https://svip.bljiex.cc/?v="},
 {"name":"尘烟","type":1,"url":"https://vip.xuux.icu/home/api?type=ys&uid=5593023&key=efhilopruvCMPTZ138&url="},
-{"name":"飞飞解析","type":1,"url":"https://y.9dan.cc/?v="},
 {"name":"盘古无广告","type":1,"url":"http://www.pangujiexi.cc/jiexi.php?url="},
 {"name":"未知","type":1,"url":"http://106.52.218.221:88/?url="},
 {"name":"插萝莉","type":1,"url":"http://chaloli.cn/home/api?type=ys&uid=1&key=dklsuzIKNPRVW14568&url="},
