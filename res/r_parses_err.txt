@@ -234,3 +234,4 @@
 [2022-11-22 02:19:51] 0:{"name":"RongXingVR","type":1,"url":"https://vip.rongxingvr.top/api/?key=JJEZkZIhzkA4cUtBfR&url=","ext":{"flag":["renrenmi","rx","rongxing","mgtv","èŠ’æ�œ","bilibili","å“”å“©å“”å“©","å“”å“©"]}},
 [2022-11-22 02:21:07] 0:{"name":"风起吴郡","type":1,"url":"http://pandown.pro/app/kxjx.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
 [2022-11-22 02:22:11] 0:{"name":"融兴","type":1,"url":"https://svip.rongxingvr.top/api/?key=4gb6ui9qfap4kLrvb2&url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
+[2022-11-22 11:08:53] 0:{"name":"ç›˜å�¤","type":0,"url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="},
