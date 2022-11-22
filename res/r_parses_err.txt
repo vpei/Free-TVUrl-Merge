@@ -236,3 +236,6 @@
 [2022-11-22 02:22:11] 0:{"name":"融兴","type":1,"url":"https://svip.rongxingvr.top/api/?key=4gb6ui9qfap4kLrvb2&url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
 [2022-11-22 11:08:53] 0:{"name":"ç›˜å�¤","type":0,"url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="},
 [2022-11-22 14:17:31] 0:{"name":"飞飞解析","type":1,"url":"https://y.9dan.cc/?v="},
+[2022-11-22 18:14:25] 0:{"name":"淘电影","type":1,"url":"https://jx.vodjx.top/vip/?url="},
+[2022-11-22 18:15:28] 0:{"name":"盖世","type":1,"url":"https://www.gai4.com/?url="},
+[2022-11-22 18:16:58] 0:{"name":"解98","type":1,"url":"https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url="},

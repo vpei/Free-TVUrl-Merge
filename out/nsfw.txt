@@ -1,5 +1,5 @@
 {
-//Update:2022-11-22 16:31:24.920604
+//Update:2022-11-22 18:30:53.024239
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -87,13 +87,11 @@
 {"name":"vip视频在线解析1","type":1,"url":"https://vip.agoni.top/?url="},
 {"name":"综合线路解析","type":1,"url":"https://laisoyiba.com/mov/s/?sv=3&url="},
 {"name":"云解析","type":1,"url":"https://jx.ppflv.com/?url="},
-{"name":"淘电影","type":1,"url":"https://jx.vodjx.top/vip/?url="},
 {"name":"迪奥","type":1,"url":"https://123.1dior.cn/?url="},
 {"name":"ckmov","type":1,"url":"https://www.ckmov.vip/api.php?url="},
 {"name":"playerjy/B站","type":1,"url":"https://jx.playerjy.com/?url="},
 {"name":"诺诺","type":1,"url":"https://www.ckmov.com/?url="},
 {"name":"MUTV","type":1,"url":"https://jiexi.janan.net/jiexi/?url="},
-{"name":"盖世","type":1,"url":"https://www.gai4.com/?url="},
 {"name":"YiTV","type":1,"url":"https://jiexi.us/?url="},
 {"name":"星空","type":1,"url":"http://60jx.com/?url="},
 {"name":"52","type":1,"url":"https://vip.52jiexi.top/?url="},
@@ -128,7 +126,6 @@
 {"name":"解66","type":1,"url":"http://okjx.cc/?url="},
 {"name":"解85","type":1,"url":"https://www.1717yun.com/api/?url="},
 {"name":"解87","type":1,"url":"https://www.ikukk.com/?url="},
-{"name":"解98","type":1,"url":"https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url="},
 {"name":"解101","type":1,"url":"https://player.maqq.cn/?url="},
 {"name":"解109","type":1,"url":"http://m2090.com/?url="},
 {"name":"解112","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=7743764&key=acgjlopuxACEHJLT48&url="},
