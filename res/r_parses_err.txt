@@ -241,3 +241,4 @@
 [2022-11-22 18:16:58] 0:{"name":"解98","type":1,"url":"https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url="},
 [2022-11-22 20:26:08] 0:{"name":"解析14","url":"https://go.yh0523.cn/y.cy?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 [2022-11-22 22:13:03] 0:{"name":"萝卜","type":1,"url":"https://ys.lbbb.cc/?url="},
+[2022-11-23 16:15:57] 0:{"name":"云端2","type":0,"url":"https://sb.5gseo.net/?url="},
