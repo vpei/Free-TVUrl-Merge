@@ -1,5 +1,5 @@
 {
-//Update:2022-11-23 06:25:21.439569
+//Update:2022-11-23 09:11:09.444746
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -768,12 +768,8 @@
 {"key":"drpy_js_吸瓜","name":"🎖‍吸瓜","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/吸瓜.js"},
 {"key":"drpy_js_朱古力","name":"🎖‍朱古力","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/朱古力.js"},
 {"key":"drpy_js_2099电影","name":"🎖‍2099电影","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/2099电影.js"},
-{"key":"drpy_js_31看影院","name":"🎖31看影院","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/31看影院.js"},
-{"key":"drpy_js_539影院","name":"🎖539影院","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/539影院.js"},
 {"key":"drpy_js_7喜影院","name":"🎖7喜影院","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/7喜影院.js"},
 {"key":"drpy_js_9U电影","name":"🎖9U电影","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/9U电影.js"},
-{"key":"drpy_js_MXONE","name":"🎖MXONE","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/MXONE.js"},
-{"key":"drpy_js_TV云播","name":"🎖TV云播","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/TV云播.js"},
 {"key":"drpy_js_七小时影院","name":"🎖七小时影院","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/七小时影院.js"},
 {"key":"drpy_js_八蛋影视","name":"🎖八蛋影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/八蛋影视.js"},
 {"key":"drpy_js_冲TV","name":"🎖冲TV","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/冲TV.js"},
@@ -786,7 +782,6 @@
 {"key":"drpy_js_小宝影院","name":"🎖小宝影院","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/小宝影院.js"},
 {"key":"drpy_js_影渣渣","name":"🎖影渣渣","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/影渣渣.js"},
 {"key":"drpy_js_快云影院","name":"🎖快云影院","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/快云影院.js"},
-{"key":"drpy_js_我爱跟剧","name":"🎖我爱跟剧","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/我爱跟剧.js"},
 {"key":"drpy_js_捷华影视","name":"🎖捷华影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/捷华影视.js"},
 {"key":"drpy_js_新安影院","name":"🎖新安影院","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/新安影院.js"},
 {"key":"drpy_js_楚门影院","name":"🎖楚门影院","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/楚门影院.js"},
@@ -797,7 +792,6 @@
 {"key":"drpy_js_溪谷影视","name":"🎖溪谷影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/溪谷影视.js"},
 {"key":"drpy_js_爱壹帆","name":"🎖爱壹帆","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/爱壹帆.js"},
 {"key":"drpy_js_爱看影视","name":"🎖爱看影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/爱看影视.js"},
-{"key":"drpy_js_皮皮泡","name":"🎖皮皮泡","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/皮皮泡.js"},
 {"key":"drpy_js_盛世电影网","name":"🎖盛世电影网","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/盛世电影网.js"},
 {"key":"drpy_js_看了么","name":"🎖看了么","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/看了么.js"},
 {"key":"drpy_js_看片狂人","name":"🎖看片狂人","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/看片狂人.js"},
@@ -813,7 +807,6 @@
 {"key":"drpy_js_视觉影院","name":"🎖视觉影院","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/视觉影院.js"},
 {"key":"drpy_js_追剧啦","name":"🎖追剧啦","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/追剧啦.js"},
 {"key":"drpy_js_追剧迷","name":"🎖追剧迷","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/追剧迷.js"},
-{"key":"drpy_js_追剧影视","name":"🎖追剧影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/追剧影视.js"},
 {"key":"drpy_js_金曼影视","name":"🎖金曼影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/金曼影视.js"},
 {"key":"drpy_js_霹雳影视","name":"🎖霹雳影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/霹雳影视.js"},
 {"key":"drpy_js_首播影院","name":"🎖首播影院","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/首播影院.js"},
