@@ -1,5 +1,5 @@
 {
-//Update:2022-11-25 16:26:44.621924
+//Update:2022-11-25 18:24:52.906642
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -122,7 +122,6 @@
 {"name":"解66","type":1,"url":"http://okjx.cc/?url="},
 {"name":"解85","type":1,"url":"https://www.1717yun.com/api/?url="},
 {"name":"解87","type":1,"url":"https://www.ikukk.com/?url="},
-{"name":"解101","type":1,"url":"https://player.maqq.cn/?url="},
 {"name":"解109","type":1,"url":"http://m2090.com/?url="},
 {"name":"解112","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=7743764&key=acgjlopuxACEHJLT48&url="},
 {"name":"解118","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=594615&key=bcehpqtxCEGKMT0248&url="},
