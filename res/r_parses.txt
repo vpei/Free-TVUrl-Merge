@@ -75,7 +75,6 @@
 {"name":"诺诺","type":1,"url":"https://www.ckmov.com/?url="},
 {"name":"MUTV","type":1,"url":"https://jiexi.janan.net/jiexi/?url="},
 {"name":"YiTV","type":1,"url":"https://jiexi.us/?url="},
-{"name":"星空","type":1,"url":"http://60jx.com/?url="},
 {"name":"52","type":1,"url":"https://vip.52jiexi.top/?url="},
 {"name":"黑米","type":1,"url":"https://www.myxin.top/jx/api/?url="},
 {"name":"无名","type":1,"url":"https://www.administratorw.com/video.php?url="},

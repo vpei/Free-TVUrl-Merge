@@ -1,5 +1,5 @@
 {
-//Update:2022-11-25 22:25:51.415366
+//Update:2022-11-26 02:15:44.185630
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -87,7 +87,6 @@
 {"name":"诺诺","type":1,"url":"https://www.ckmov.com/?url="},
 {"name":"MUTV","type":1,"url":"https://jiexi.janan.net/jiexi/?url="},
 {"name":"YiTV","type":1,"url":"https://jiexi.us/?url="},
-{"name":"星空","type":1,"url":"http://60jx.com/?url="},
 {"name":"52","type":1,"url":"https://vip.52jiexi.top/?url="},
 {"name":"黑米","type":1,"url":"https://www.myxin.top/jx/api/?url="},
 {"name":"无名","type":1,"url":"https://www.administratorw.com/video.php?url="},
