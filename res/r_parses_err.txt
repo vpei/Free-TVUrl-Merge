@@ -249,3 +249,4 @@
 [2022-11-26 01:59:03] 0:{"name":"星空","type":1,"url":"http://60jx.com/?url="},
 [2022-11-26 20:19:55] 0:{"name":"无名","type":1,"url":"https://www.administratorw.com/video.php?url="},
 [2022-11-26 20:19:56] 0:{"name":"无名小站","type":1,"url":"https://www.administratorw.com/admin.php?url="},
+[2022-11-27 00:14:41] 0:{"name":"293","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14(dart:io)"}}},
