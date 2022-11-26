@@ -77,8 +77,6 @@
 {"name":"YiTV","type":1,"url":"https://jiexi.us/?url="},
 {"name":"52","type":1,"url":"https://vip.52jiexi.top/?url="},
 {"name":"黑米","type":1,"url":"https://www.myxin.top/jx/api/?url="},
-{"name":"无名","type":1,"url":"https://www.administratorw.com/video.php?url="},
-{"name":"无名小站","type":1,"url":"https://www.administratorw.com/admin.php?url="},
 {"name":"筋斗云","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1494542&key=ijmqvwxABEHILMOT48&url="},
 {"name":"DC","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=7665652&key=dglmnwEFILMOPRW056&url="},
 {"name":"Yoyo1","type":1,"url":"https://json.legendwhb.cn/json.php/?url="},
