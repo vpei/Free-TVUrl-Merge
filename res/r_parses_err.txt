@@ -251,3 +251,4 @@
 [2022-11-26 20:19:56] 0:{"name":"无名小站","type":1,"url":"https://www.administratorw.com/admin.php?url="},
 [2022-11-27 00:14:41] 0:{"name":"293","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14(dart:io)"}}},
 [2022-11-27 20:19:24] 0:{"name":"Json9","type":1,"url":"http://jx.vipmv.co/json.php?token=123457&url=","ext":{"flag":["qq","腾讯","letv","乐视","mgtv","芒果","youku","优酷","qiyi","iqiyi","爱奇艺","奇艺"]}},
+[2022-11-28 06:13:07] 0:{"name":"ç¥�2","type":0,"url":"https://h5.freejson.xyz/player/?url=","ext":{"flag":["qq","è…¾è®¯","qiyi","çˆ±å¥‡è‰º","å¥‡è‰º","youku","ä¼˜é…·","mgtv","èŠ’æ�œ","letv","ä¹�è§†","pptv","PPTV","sohu","bilibili","å“”å“©å“”å“©","å“”å“©"],"header":{"User-Agent":"okhttp/4.1.0"}}},
