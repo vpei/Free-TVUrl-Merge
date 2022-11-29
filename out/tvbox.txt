@@ -1,5 +1,5 @@
 {
-//Update:2022-11-29 09:11:23.248283
+//Update:2022-11-29 11:04:55.706450
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -797,7 +797,6 @@
 {"key":"drpy_js_落攻阁影视","name":"🎖落攻阁影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/落攻阁影视.js"},
 {"key":"drpy_js_蛋蛋魔法","name":"🎖蛋蛋魔法","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/蛋蛋魔法.js"},
 {"key":"drpy_js_西瓜影视","name":"🎖西瓜影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/西瓜影视.js"},
-{"key":"drpy_js_视中心影视","name":"🎖视中心影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/视中心影视.js"},
 {"key":"drpy_js_视觉影院","name":"🎖视觉影院","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/视觉影院.js"},
 {"key":"drpy_js_追剧啦","name":"🎖追剧啦","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/追剧啦.js"},
 {"key":"drpy_js_追剧迷","name":"🎖追剧迷","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/追剧迷.js"},
