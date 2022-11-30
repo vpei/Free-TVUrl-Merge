@@ -1,5 +1,5 @@
 {
-//Update:2022-11-30 09:11:22.701913
+//Update:2022-11-30 11:03:36.230906
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -61,7 +61,6 @@
 {"name":"180","url":"https://jx.000180.top/jx/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"1717云","url":"https://www.1717yun.com/jx/ty.php?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"äº‘youè§£æ��â‘ ","type":1,"url":"http://chaloli.cn/home/api?type=ys&uid=1&key=ekloswzABCGHKLOT58&url="},
-{"name":"刚刚影视","type":1,"url":"https://vip.fuqizhishi.com/?v="},
 {"name":"钢铁侠","type":1,"url":"https://json.freejx.in/?url="},
 {"name":"道长VIP","type":1,"url":"https://80k.tv/jxplayer.php?v="},
 {"name":"江湖解析","type":1,"url":"http://jx.vipmv.co/?url="},
