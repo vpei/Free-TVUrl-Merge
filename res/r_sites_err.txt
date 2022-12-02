@@ -996,3 +996,4 @@
 [2022-12-02 03:04:04] 0:{"key":"py_cctvny","name":"📺央视农业py","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/l/o/raw/branch/o/o/py_cctvny.py"},
 [2022-12-02 03:05:04] 0:{"key":"py_cctvjs","name":"📺央视军事py","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/l/o/raw/branch/o/o/py_cctvjs.py"},
 [2022-12-02 03:05:09] 404:{"key":"csp_XYQBiu_17kan","name":"ğŸ‘€17kanã€”XYQã€•","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/äº‘æ˜Ÿæ—¥è®°/sh/MaooXB/17kan.json"},
+[2022-12-02 16:19:03] 404:{"key":"csp_xp_naifei","name":"💢奈飞中文","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/naifei.json"},
