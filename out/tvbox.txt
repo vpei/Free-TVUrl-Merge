@@ -1,5 +1,5 @@
 {
-//Update:2022-12-02 20:37:33.640488
+//Update:2022-12-02 22:31:03.811652
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -817,7 +817,6 @@
 {"key":"py_huya","name":"py_huya(Pyramid)","type":3,"api":"py_huya","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://drpy.owen10086.repl.co/txt/py/py_huya.py"},
 {"key":"py_gitcafe","name":"py_gitcafe(Pyramid)","type":3,"api":"py_gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://drpy.owen10086.repl.co/txt/py/py_gitcafe.py"},
 {"key":"py_gimytv","name":"py_gimytv(Pyramid)","type":3,"api":"py_gimytv","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://drpy.owen10086.repl.co/txt/py/py_gimytv.py"},
-{"key":"py_genmov","name":"py_genmov(Pyramid)","type":3,"api":"py_genmov","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://drpy.owen10086.repl.co/txt/py/py_genmov.py"},
 {"key":"py_douyu","name":"py_douyu(Pyramid)","type":3,"api":"py_douyu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://drpy.owen10086.repl.co/txt/py/py_douyu.py"},
 {"key":"py_czspp","name":"py_czspp(Pyramid)","type":3,"api":"py_czspp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://drpy.owen10086.repl.co/txt/py/py_czspp.py"},
 {"key":"py_cokemv","name":"py_cokemv(Pyramid)","type":3,"api":"py_cokemv","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://drpy.owen10086.repl.co/txt/py/py_cokemv.py"},
@@ -843,7 +842,6 @@
 {"name":"刘兵解析","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"江湖解析","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="},
 {"name":"äº‘youè§£æ��2","type":1,"url":"https://maoyingshi.cc/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14(dart:io)"}}},
-{"name":"çº¿è·¯NX","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
 {"name":"2","type":1,"url":"https://jx.mczdyw.com/xg.php?url=","ext":{"flag":["mgtv","èŠ’æ�œ"]}},
 {"name":"æ±Ÿæ¹–è§£æ��","type":1,"url":"http://103.40.240.46/jh/?url=","ext":{"flag":["renrenmi","qq","è…¾è®¯","youku","ä¼˜é…·","mgtv","èŠ’æ�œ","xigua","è¥¿ç“œ"]}},
 {"name":"ç�‹ç‰Œ","type":1,"url":"https://za.kuanjv.com/?url=","ext":{"flag":["qq","è…¾è®¯","qiyi","çˆ±å¥‡è‰º","å¥‡è‰º","youku","ä¼˜é…·","mgtv","èŠ’æ�œ","æ�œç‹�","sohu","letv","ä¹�è§†","bilibili","å“”å“©å“”å“©","å“”å“©","xigua","è¥¿ç“œ"]}},
