@@ -267,3 +267,4 @@
 [2022-12-02 16:13:52] 404:{"name":"盘古无广告","type":1,"url":"http://www.pangujiexi.cc/jiexi.php?url="},
 [2022-12-02 16:14:58] 0:{"name":"MUTV","type":1,"url":"https://jiexi.janan.net/jiexi/?url="},
 [2022-12-02 22:10:58] 0:{"name":"çº¿è·¯NX","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
+[2022-12-03 04:13:15] 0:{"name":"ğŸ’‹Soä¸¶","type":0,"url":"https://tljiaqing.nde.tw/m3u8/?url="},
