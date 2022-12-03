@@ -1,5 +1,5 @@
 {
-//Update:2022-12-03 20:35:21.937357
+//Update:2022-12-03 22:31:28.854269
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -791,7 +791,6 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-{"name":"解析02","type":1,"url":"https://www.nxflv.com/?url="},
 {"name":"解析第一","type":0,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 {"name":"解析05","type":0,"url":"http://id190.tpddns.cn:81/jsonch/?url="},
 {"name":"m3u8tv高清","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
@@ -844,7 +843,6 @@
 {"name":"迪奥","type":1,"url":"https://123.1dior.cn/?url="},
 {"name":"ckmov","type":1,"url":"https://www.ckmov.vip/api.php?url="},
 {"name":"playerjy/B站","type":1,"url":"https://jx.playerjy.com/?url="},
-{"name":"诺诺","type":1,"url":"https://www.ckmov.com/?url="},
 {"name":"YiTV","type":1,"url":"https://jiexi.us/?url="},
 {"name":"52","type":1,"url":"https://vip.52jiexi.top/?url="},
 {"name":"筋斗云","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1494542&key=ijmqvwxABEHILMOT48&url="},
