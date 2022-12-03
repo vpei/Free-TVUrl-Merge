@@ -272,3 +272,4 @@
 [2022-12-03 14:13:26] 0:{"name":"云端1","type":0,"url":"https://js.52jx.top:2525/?url="},
 [2022-12-03 22:11:46] 0:{"name":"解析02","type":1,"url":"https://www.nxflv.com/?url="},
 [2022-12-03 22:13:36] 0:{"name":"诺诺","type":1,"url":"https://www.ckmov.com/?url="},
+[2022-12-04 02:15:21] 0:{"name":"解59","type":1,"url":"https://dp.fqplayer.com/dplayer/?url="},

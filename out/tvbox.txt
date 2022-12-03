@@ -1,5 +1,5 @@
 {
-//Update:2022-12-04 00:53:19.492325
+//Update:2022-12-04 02:32:55.854603
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -34,7 +34,6 @@
 {"key":"csp_biubiu_真不卡影院(不支持搜索)","name":"真不卡影院","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/真不卡影院(不支持搜索).json"},
 {"key":"csp_biubiu_LIBVIO","name":"🌂宝盒LIBVIO","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2644/LIBVIO.json?sign=OmzoNqIDNqOAVEeEJMD2JD5QhAdzUId-1nEBGGdQrH0%3D%3A0"},
 {"key":"快车资源","name":"快车资源","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"番茄资源","name":"番茄资源","type":1,"api":"http://api.fqzy.cc/api.php/provide/vod/","playUrl":"https://dp.fqplayer.com/dplayer/?url=","searchable":1,"quickSearch":1},
 {"key":"光速资源","name":"光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"鱼乐资源","name":"鱼乐资源","type":1,"api":"https://api.ylzy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"百度资源","name":"百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -847,7 +846,6 @@
 {"name":"解51","type":1,"url":"http://www.ikukk.com/?url="},
 {"name":"解54","type":1,"url":"http://api.diliktv.xyz/vip/jx.php?url="},
 {"name":"解58","type":1,"url":"https://9kjx.com/?url="},
-{"name":"解59","type":1,"url":"https://dp.fqplayer.com/dplayer/?url="},
 {"name":"解63","type":1,"url":"http://vip.26db.cn/c/?url="},
 {"name":"解64","type":1,"url":"http://vip.26db.cn/f/?url="},
 {"name":"解65","type":1,"url":"http://vip.26db.cn/a/?url="},

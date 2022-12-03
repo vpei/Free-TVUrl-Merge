@@ -1059,3 +1059,4 @@
 [2022-12-04 00:41:36] 0:{"key":"csp_biubiu_宝仙HD","name":"👶宝仙影院(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/宝仙影院.json"},
 [2022-12-04 00:42:37] 0:{"key":"csp_biubiu_600dvd","name":"💽600DVD(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/600dvd.json"},
 [2022-12-04 00:43:37] 0:{"key":"csp_biubiu_8K影院","name":"🎱K影院(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/8K影院.json"},
+[2022-12-04 02:15:43] 0:{"key":"番茄资源","name":"番茄资源","type":1,"api":"http://api.fqzy.cc/api.php/provide/vod/","playUrl":"https://dp.fqplayer.com/dplayer/?url=","searchable":1,"quickSearch":1},
