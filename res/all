@@ -1,5 +1,5 @@
 "sites":[
-//Update:2022-12-05 20:38:20.564979
+//Update:2022-12-05 22:26:52.950845
 
 {"key":"Juhuang","name":"剧荒TV","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
@@ -226,7 +226,6 @@
 {"key":"csp_appysv2_豆芽视频","name":"豆芽视频(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://bdintv.cn/lvdou_api.php/v1.vod","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_appysv2_百淘影视","name":"百淘影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.58g8.com/lvdou_api.php/v1.vod","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_appysv2_阿里影视","name":"阿里影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://aliys.cn:90/api.php/v1.vod","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
-{"key":"csp_appysv2_云玺TV","name":"云玺TV(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.138.193.213:8181//api.php/Miguo/vod/","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_appysv2_开乐TV","name":"开乐TV(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://server.sztuotai.com//api.php/Chengcheng/vod/","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_appysv2_非凡影院","name":"非凡影院(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.feifan12.xyz/api.php/iptv/vod/","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"步步高资源","name":"步步高资源(切)","type":1,"api":"https://api.yparse.com/api/json","searchable":1,"quickSearch":1},
@@ -1041,7 +1040,6 @@
 {"key":"csp_appysv2_豆芽视频","name":"豆芽视频(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://bdintv.cn/lvdou_api.php/v1.vod","jar":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_appysv2_百淘影视","name":"百淘影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.58g8.com/lvdou_api.php/v1.vod","jar":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_appysv2_阿里影视","name":"阿里影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://aliys.cn:90/api.php/v1.vod","jar":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
-{"key":"csp_appysv2_云玺TV","name":"云玺TV(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.138.193.213:8181//api.php/Miguo/vod/","jar":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_appysv2_开乐TV","name":"开乐TV(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://server.sztuotai.com//api.php/Chengcheng/vod/","jar":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_appysv2_非凡影院","name":"非凡影院(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.feifan12.xyz/api.php/iptv/vod/","jar":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_Kmys","name":"🔥酷猫影视(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/ext/kmys.txt"},
