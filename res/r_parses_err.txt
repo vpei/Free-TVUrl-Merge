@@ -273,3 +273,4 @@
 [2022-12-03 22:11:46] 0:{"name":"解析02","type":1,"url":"https://www.nxflv.com/?url="},
 [2022-12-03 22:13:36] 0:{"name":"诺诺","type":1,"url":"https://www.ckmov.com/?url="},
 [2022-12-04 02:15:21] 0:{"name":"解59","type":1,"url":"https://dp.fqplayer.com/dplayer/?url="},
+[2022-12-05 20:22:18] 0:{"name":"äº‘youè§£æ��2","type":1,"url":"https://maoyingshi.cc/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14(dart:io)"}}},
