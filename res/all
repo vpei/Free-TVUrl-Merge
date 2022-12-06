@@ -1,5 +1,5 @@
 "sites":[
-//Update:2022-12-06 10:52:04.508709
+//Update:2022-12-06 12:26:20.088165
 
 {"key":"Juhuang","name":"剧荒TV","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
@@ -311,7 +311,6 @@
 {"key":"csp_biubiu_hdmoli","name":"🐛hdmoli","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XB/hdmoli.json"},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XB/\u521b\u827a\u5f71\u89c6.json", "jar": "https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/jar/box281.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea"},
 {"key":"csp_xml___CK资源","name":"🐝CK资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml___飞速资源","name":"🐝飞速资源","type":1,"api":"https://m3u8.feisuzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___飞速资源2","name":"🐝飞速资源2","type":1,"api":"http://fszy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___无尽资源","name":"🐝无尽资源","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___FOX采集","name":"🐝FOX采集","type":1,"api":"https://foxzy.net/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
@@ -741,7 +740,6 @@
 {"key":"csp_xpath_94sm","name":"94神马(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/94sm.json","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_xpath_dm84","name":"动漫巴士(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/dm84.json","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"py_pansou","name":"py_pansou(Pyramid)","type":3,"api":"py_pansou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://drpy.owen10086.repl.co/txt/py/py_pansou.py"},
-{"key":"py_huya","name":"py_huya(Pyramid)","type":3,"api":"py_huya","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://drpy.owen10086.repl.co/txt/py/py_huya.py"},
 {"key":"py_gitcafe","name":"py_gitcafe(Pyramid)","type":3,"api":"py_gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://drpy.owen10086.repl.co/txt/py/py_gitcafe.py"},
 {"key":"py_gimytv","name":"py_gimytv(Pyramid)","type":3,"api":"py_gimytv","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://drpy.owen10086.repl.co/txt/py/py_gimytv.py"},
 {"key":"py_douyu","name":"py_douyu(Pyramid)","type":3,"api":"py_douyu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://drpy.owen10086.repl.co/txt/py/py_douyu.py"},
