@@ -1215,3 +1215,4 @@
 [2022-12-08 02:51:23] 404:{"key":"csp_xp_789kp","name":"ğŸ’¢789çœ‹ç‰‡ã€”XBã€•","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/äº‘æ˜Ÿæ—¥è®°/sh/MaooXB/789kp.json"},
 [2022-12-08 02:51:24] 404:{"key":"csp_xp_wnvod","name":"ğŸ’¢ä¸‡èƒ½å½±è§†ã€”XBã€•","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/äº‘æ˜Ÿæ—¥è®°/sh/MaooXB/wnvod.json"},
 [2022-12-08 02:51:25] 404:{"key":"csp_xp_tjyy","name":"ğŸ’¢å¥‡ä¼˜å½±é™¢ã€”XBã€•","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/äº‘æ˜Ÿæ—¥è®°/sh/MaooXB/huigutongying.json"},
+[2022-12-08 20:23:18] 0:{"key":"csp_appysv2_阿里影视","name":"阿里影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://aliys.cn:90/api.php/v1.vod","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
