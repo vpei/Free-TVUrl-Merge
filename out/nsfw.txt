@@ -1,5 +1,5 @@
 {
-//Update:2022-12-11 22:18:48.814028
+//Update:2022-12-12 00:22:23.634743
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -23,7 +23,6 @@
 {"name":"ç�‹ç‰Œ","type":1,"url":"https://za.kuanjv.com/?url=","ext":{"flag":["qq","è…¾è®¯","qiyi","çˆ±å¥‡è‰º","å¥‡è‰º","youku","ä¼˜é…·","mgtv","èŠ’æ�œ","æ�œç‹�","sohu","letv","ä¹�è§†","bilibili","å“”å“©å“”å“©","å“”å“©","xigua","è¥¿ç“œ"]}},
 {"name":"zui","type":0,"url":"https://jx.zui.cm/?url=","ext":{"flag":["ltnb"]}},
 {"name":"ltnb04","type":0,"url":"https://vip.bljiex.com/?v=","ext":{"flag":["ltnb"]}},
-{"name":"ç¥�4","type":0,"url":"https://freejx.rx88.top:1234/?url="},
 {"name":"rx2","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
 {"name":"风起清河","type":1,"url":"http://www.pandown.pro/app/tkys/tkysjx.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
 {"name":"风起陈留","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905","优播线路","腾播线路"],"header":{"User-Agent":"Dart/2.14(dart:io)"}}},
