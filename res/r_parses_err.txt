@@ -294,3 +294,5 @@
 [2022-12-07 00:16:46] 0:{"name":"尘烟","type":1,"url":"https://vip.xuux.icu/home/api?type=ys&uid=5593023&key=efhilopruvCMPTZ138&url="},
 [2022-12-07 20:21:49] 0:{"name":"2","type":1,"url":"https://jx.mczdyw.com/xg.php?url=","ext":{"flag":["mgtv","èŠ’æ�œ"]}},
 [2022-12-12 00:13:12] 0:{"name":"ç¥�4","type":0,"url":"https://freejx.rx88.top:1234/?url="},
+[2022-12-12 22:12:50] 0:{"name":"万能","type":1,"url":"https://json.legendwhb.cn/llq/?url="},
+[2022-12-12 22:13:02] 0:{"name":"Yoyo1","type":1,"url":"https://json.legendwhb.cn/json.php/?url="},
