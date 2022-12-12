@@ -1,5 +1,5 @@
 {
-//Update:2022-12-12 18:24:41.293787
+//Update:2022-12-12 20:31:15.644019
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -13,7 +13,6 @@
 {"key":"csp_Anime1","name":"Anime1动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Yj1211","name":"JustLive","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Askhd_Chyb","name":"磁海云播","type":3,"api":"csp_Askhd","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_appysv2_M2_暖光影视","name":"暖光影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"},
 {"key":"csp_bendi","name":"本地播放","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":0,"filterable":1,"type_flag":1},
 {"key":"mtv_pc_奇艺视频","name":"奇艺视频","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_小苹果源","name":"小苹果源","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
