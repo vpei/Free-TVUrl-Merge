@@ -1,5 +1,5 @@
 {
-//Update:2022-12-13 16:26:22.092328
+//Update:2022-12-13 18:25:22.434031
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -45,7 +45,6 @@
 {"name":"BL解析","type":1,"url":"https://svip.bljiex.cc/?v="},
 {"name":"未知","type":1,"url":"http://106.52.218.221:88/?url="},
 {"name":"易看解析","type":1,"url":"https://analysis.yikan.one/analysis/player/?url="},
-{"name":"必成解析","type":1,"url":"https://jisu.rongxingvr.top/api/?key=rCMmoKD0H0ShJ00u2f&url="},
 {"name":"vip视频在线解析1","type":1,"url":"https://vip.agoni.top/?url="},
 {"name":"综合线路解析","type":1,"url":"https://laisoyiba.com/mov/s/?sv=3&url="},
 {"name":"云解析","type":1,"url":"https://jx.ppflv.com/?url="},
