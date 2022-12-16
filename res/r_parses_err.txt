@@ -297,3 +297,4 @@
 [2022-12-12 22:12:50] 0:{"name":"万能","type":1,"url":"https://json.legendwhb.cn/llq/?url="},
 [2022-12-12 22:13:02] 0:{"name":"Yoyo1","type":1,"url":"https://json.legendwhb.cn/json.php/?url="},
 [2022-12-13 18:14:48] 0:{"name":"必成解析","type":1,"url":"https://jisu.rongxingvr.top/api/?key=rCMmoKD0H0ShJ00u2f&url="},
+[2022-12-16 18:14:05] 0:{"name":"风起陇西1","type":0,"url":"https://hxys.tv/bfq/?url="},

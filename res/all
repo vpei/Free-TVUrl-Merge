@@ -1,5 +1,5 @@
 "sites":[
-//Update:2022-12-16 16:22:46.957363
+//Update:2022-12-16 18:24:58.580864
 
 {"key":"Juhuang","name":"剧荒TV","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
@@ -268,7 +268,6 @@
 {"key":"csp_biubiu_韩剧在线","name":"🐛韩剧在线","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XB/韩剧在线.json"},
 {"key":"csp_biubiu_akmeiju","name":"🐛爱看美剧","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XB/akmeiju.json"},
 {"key":"csp_appysv2_gotka","name":"🐌速播影视(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
-{"key":"csp_appysv2_300看世界","name":"🐌300看世界(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://300ys.xyz/mogai_api.php/v1.vod"},
 {"key":"csp_Blidw","name":"🐞动物世界","type":3,"api":"csp_Blidw","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AliPanSou","name":"🐞云喵搜📵","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_xpath_huyam","name":"🐻虎牙M","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XP/huya.json"},
