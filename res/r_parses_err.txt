@@ -298,3 +298,6 @@
 [2022-12-12 22:13:02] 0:{"name":"Yoyo1","type":1,"url":"https://json.legendwhb.cn/json.php/?url="},
 [2022-12-13 18:14:48] 0:{"name":"必成解析","type":1,"url":"https://jisu.rongxingvr.top/api/?key=rCMmoKD0H0ShJ00u2f&url="},
 [2022-12-16 18:14:05] 0:{"name":"风起陇西1","type":0,"url":"https://hxys.tv/bfq/?url="},
+[2022-12-18 12:12:44] 0:{"name":"m2090","url":"https://m2090.com/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+[2022-12-18 12:14:12] 0:{"name":"解58","type":1,"url":"https://9kjx.com/?url="},
+[2022-12-18 12:15:18] 0:{"name":"解109","type":1,"url":"http://m2090.com/?url="},
