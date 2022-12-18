@@ -38,7 +38,6 @@
 {"name":"playerjy/B站","type":1,"url":"https://jx.playerjy.com/?url="},
 {"name":"YiTV","type":1,"url":"https://jiexi.us/?url="},
 {"name":"52","type":1,"url":"https://vip.52jiexi.top/?url="},
-{"name":"追剧吧1","type":1,"url":"http://newjiexi.gotto.top/yun_apib.php/?url="},
 {"name":"播放呀","type":1,"url":"https://jx.vk95.com/xx/?url="},
 {"name":"xfyun云","type":1,"url":"https://vip.xfyun.one/home/api?type=ys&uid=2581923&key=ceijpquvBMOSUVXZ23&url=","ext":{"flag":["xfyun"]}},
 {"name":"解22","type":1,"url":"https://dd.mouliuk.com/home/api?type=ys&uid=12293&key=acfhkovxzDEIMPWX29&url="},
