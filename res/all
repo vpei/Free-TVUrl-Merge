@@ -1,5 +1,5 @@
 "sites":[
-//Update:2022-12-20 09:03:28.825647
+//Update:2022-12-20 10:45:18.495987
 
 {"key":"Juhuang","name":"剧荒TV","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
@@ -207,7 +207,6 @@
 {"key":"csp_appysv2_佑尘云影视","name":"佑尘云影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.i7yc.cn/api.php/v1.vod","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_appysv2_夕阳影视","name":"夕阳影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.seo-tv.work/mogai_api.php/v1.vod","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_appysv2_小鸟动漫","name":"小鸟动漫(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
-{"key":"csp_appysv2_熊猫视频","name":"熊猫视频(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://anegh.com/lvdou_api.php/v1.vod","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_appysv2_星辰TV","name":"星辰TV(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xingchentv.cn/mogai_api.php/v1.vod","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_appysv2_悟空影院","name":"悟空影院(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dapi.pntao.com/api.php/v1.vod","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_appysv2_兔子窝","name":"兔子窝(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cj.huimaojia.com:12345/mogai_api.php/v1.vod","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
@@ -856,7 +855,6 @@
 {"key":"csp_appysv2_佑尘云影视","name":"佑尘云影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.i7yc.cn/api.php/v1.vod","jar":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_appysv2_夕阳影视","name":"夕阳影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.seo-tv.work/mogai_api.php/v1.vod","jar":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_appysv2_小鸟动漫","name":"小鸟动漫(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod","jar":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
-{"key":"csp_appysv2_熊猫视频","name":"熊猫视频(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://anegh.com/lvdou_api.php/v1.vod","jar":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_appysv2_星辰TV","name":"星辰TV(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xingchentv.cn/mogai_api.php/v1.vod","jar":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_appysv2_悟空影院","name":"悟空影院(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dapi.pntao.com/api.php/v1.vod","jar":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_appysv2_兔子窝","name":"兔子窝(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cj.huimaojia.com:12345/mogai_api.php/v1.vod","jar":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
@@ -977,7 +975,6 @@
 {"key":"csp_biubiu_Nike影视网","name":"🐛Nike影视网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XB/Nike影视网.json"},
 {"key":"csp_biubiu_伊雪湾","name":"🐛伊雪湾","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XB/伊雪湾.json"},
 {"key":"csp_biubiu_极品影视","name":"🐛极品影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XB/极品影视.json"},
-{"key":"csp_appysv2_熊猫视频","name":"🐌熊猫视频","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://anegh.com/lvdou_api.php/v1.vod"},
 {"key":"csp_appysv2_小鸟动漫","name":"🐌小鸟动漫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
 {"key":"csp_CZSPP","name":"接口被限制即将停用，公众号：分享迷，回复：接口","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitcode.net/mtv9527/mao/-/raw/master/0902.jar;md5;D2DED0D4B8B12B325BFCD3B7D1ECD3EA"},
 {"key":"csp_Blixs","name":"接口被限制即将停用，公众号：分享迷，回复：接口","type":3,"api":"csp_Blixs","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://gitcode.net/mtv9527/mao/-/raw/master/0902.jar;md5;D2DED0D4B8B12B325BFCD3B7D1ECD3EA"},
@@ -1278,7 +1275,6 @@
 {"key":"csp_xpath_zj883","name":"追剧网(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/zj883.json"},
 {"key":"csp_xpath_cerrd","name":"真不卡影院(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/cerrd.json"},
 {"key":"csp_appysv2_小鸟动漫","name":"小鸟动漫(萝卜)","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_熊猫视频","name":"熊猫视频(萝卜)","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://anegh.com/lvdou_api.php/v1.vod"},
 {"key":"csp_appysv2_兔子窝","name":"兔子窝(萝卜)","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://cj.huimaojia.com:12345/mogai_api.php/v1.vod"},
 {"key":"csp_appysv2_百淘影视","name":"百淘影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ys.58g8.com/lvdou_api.php/v1.vod"},
 {"key":"步步高资源","name":"步步高资源(切)","type":1,"api":"https://api.yparse.com/api/json","searchable":0,"quickSearch":0},
