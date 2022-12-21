@@ -1,5 +1,5 @@
 "sites":[
-//Update:2022-12-21 06:21:53.784969
+//Update:2022-12-21 08:55:54.488431
 
 {"key":"Juhuang","name":"剧荒TV","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
@@ -408,7 +408,6 @@
 {"key":"drpy_js_在线之家","name":"🕵在线之家🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/在线之家.js"},
 {"key":"drpy_js_真不卡","name":"🕵真不卡🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/真不卡.js"},
 {"key":"drpy_js_完美看看","name":"🕵完美看看🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/完美看看.js"},
-{"key":"drpy_js_555影视","name":"🕵555影视🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/555影视.js"},
 {"key":"drpy_js_AGE动漫","name":"🕵AGE动漫🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/AGE动漫.js"},
 {"key":"drpy_js_1080P","name":"🕵1080P🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/1080P.js"},
 {"key":"drpy_js_AnFuns","name":"🕵AnFuns🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/AnFuns.js"},
