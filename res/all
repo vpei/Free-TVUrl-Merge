@@ -1,5 +1,5 @@
 "sites":[
-//Update:2022-12-21 22:22:04.296674
+//Update:2022-12-22 00:27:26.190856
 
 {"key":"Juhuang","name":"剧荒TV","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
@@ -16,7 +16,6 @@
 {"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=daae36603bcd490681bdd8d03940783a&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"乐活影视","name":"乐活影视","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"闪电资源","name":"闪电资源","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"py_bilibili","name":"哔哩PY","type":3,"api":"py_bilibili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_bilibili.py"},
 {"key":"csp_xpath_kuqimv","name":"酷奇MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/kuqimv.json"},
 {"key":"csp_biubiu_风车动漫","name":"🍒风车动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2809/%E9%A3%8E%E8%BD%A6%E5%8A%A8%E6%BC%AB.json?sign=b1ntret-a0cUD6DLTuzsQFe6wX9uJpjKDv6h5YuSPjo%3D%3A0"},
 {"key":"csp_biubiu_OmoFun动漫","name":"🍒OmoFun动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2647/OmoFun%E5%8A%A8%E6%BC%AB.json?sign=NizUSKpcup6esDOfcyAk8XgIC2QvlN26n4q5_3Ardxs%3D%3A0"},
@@ -411,7 +410,6 @@
 {"key":"drpy_js_AnFuns","name":"🕵AnFuns🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/AnFuns.js"},
 {"key":"drpy_js_007影视","name":"🕵007影视🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/007影视.js"},
 {"key":"drpy_js_cokemv","name":"🕵cokemv🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/cokemv.js"},
-{"key":"drpy_js_drpy","name":"🕵drpy🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/dr/drpy.js"},
 {"key":"drpy_js_l0l","name":"🕵l0l🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/l0l.js"},
 {"key":"drpy_js_LIBVIO","name":"🕵LIBVIO🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/LIBVIO.js"},
 {"key":"drpy_js_vip影院","name":"🕵vip影院🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/vip影院.js"},
@@ -580,6 +578,8 @@
 {"key":"csp_xpath_dm84","name":"动漫巴士(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/dm84.json","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_biubiu_哔嘀影视","name":"🥒哔嘀影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/哔嘀影视.json","jar":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"bdys","name":"🧲哔嘀磁力","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/l/o/raw/branch/o/o/%E7%A3%81%E5%8A%9B.json"},
+{"key":"py_bilibili","name":"🅱哔哩哔哩py","type":3,"api":"py_bilibili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/l/o/raw/branch/o/o/py_bilibili.py"},
+{"key":"drpy_js_drpy","name":"🎖‍drpy","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/drpy.js"},
 
 
 {"key":"csp_Dy555","name":"5️⃣555影视(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
@@ -1078,7 +1078,6 @@
 {"key":"csp_biubiu_OmoFun动漫","name":"🧚OmoFun动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/l/o/raw/branch/o/o/OmoFun%E5%8A%A8%E6%BC%AB.json"},
 {"key":"百淘影视","name":"🍨百淘影视(聚)","type":1,"api":"http://ys.58g8.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"影图","name":"📼影图","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"py_bilibili","name":"🅱哔哩哔哩py","type":3,"api":"py_bilibili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/l/o/raw/branch/o/o/py_bilibili.py"},
 {"key":"mtv_pc_小苹果源","name":"爬虫┃小苹果源","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_奇艺视频","name":"官方┃奇艺视频","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"push_agent","name":"推送┃推送资源","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"},
@@ -1102,7 +1101,6 @@
 {"key":"Zjdr","name":"‍🏫追剧达人","api":"csp_Zjdr","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_DiDuan","name":"🕳低端影视","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp>button","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Yj1211","name":"📽️直播合集","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"drpy_js_drpy","name":"🎖‍drpy","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/drpy.js"},
 {"key":"小鸟动漫","name":"🐦小鸟动漫","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
 {"key":"csp_appysv2_豆芽视频","name":"豆芽视频〔APP〕","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://bdintv.cn/lvdou_api.php/v1.vod"},
 {"key":"csp_biubiu_555电影","name":"📀555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/xpath/555.json"},
