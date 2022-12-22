@@ -1,5 +1,5 @@
 {
-//Update:2022-12-22 08:58:02.131377
+//Update:2022-12-22 10:43:13.586607
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -14,7 +14,6 @@
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"解析第一","type":0,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
-{"name":"解析05","type":0,"url":"http://id190.tpddns.cn:81/jsonch/?url="},
 {"name":"OKjx综合","type":0,"url":"https://okjx.cc/?url="},
 {"name":"爱酷嗅探","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 {"name":"刘兵解析","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},

@@ -1,5 +1,5 @@
 "sites":[
-//Update:2022-12-22 08:58:02.132476
+//Update:2022-12-22 10:43:13.588274
 
 {"key":"Juhuang","name":"剧荒TV","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
@@ -384,18 +384,9 @@
 {"key":"mtv_xp_骚火电影","name":"切片┃骚火电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-骚火电影.json"},
 {"key":"mtv_xp_口袋影院","name":"切片┃口袋影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-口袋影院.json"},
 {"key":"mtv_xp_六度影视","name":"切片┃六度影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-六度影视.json"},
-{"key":"mtv_xp_稀饭影视","name":"切片┃稀饭影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-稀饭影视.json"},
 {"key":"mtv_xp_乌龟影院","name":"切片┃乌龟影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-乌龟影院.json"},
-{"key":"mtv_xp_超清影视","name":"切片┃超清影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-超清影视.json"},
-{"key":"mtv_xp_小强影迷","name":"切片┃小强影迷","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-小强影迷.json"},
-{"key":"mtv_xp_剧白影视","name":"切片┃剧白影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-剧白影视.json"},
-{"key":"mtv_xp_剧白直链","name":"切片┃剧白直链","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-剧白直链.json"},
 {"key":"mtv_xp_比特影视","name":"切片┃比特影视","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-比特影视.json"},
 {"key":"mtv_xp_花猫影视","name":"切片┃花猫影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-花猫影视.json"},
-{"key":"mtv_xp_瓜皮影视","name":"切片┃瓜皮影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-瓜皮影视.json"},
-{"key":"mtv_xp_克拉影视","name":"切片┃克拉影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-克拉影视.json"},
-{"key":"mtv_xp_凌云影视","name":"切片┃凌云影视","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-凌云影视.json"},
-{"key":"mtv_xp_凌云韩国","name":"切片┃凌云韩国","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-凌云韩国.json"},
 {"key":"mtv_xp_奇优影院","name":"切片┃奇优影院","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-奇优影院.json"},
 {"key":"t4","name":"T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=b9fbd657a716432da68ef6ecfee68d2b&timeout=8","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"ç©ºæ ¼7","name":"","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},

@@ -302,3 +302,4 @@
 [2022-12-18 12:14:12] 0:{"name":"解58","type":1,"url":"https://9kjx.com/?url="},
 [2022-12-18 12:15:18] 0:{"name":"解109","type":1,"url":"http://m2090.com/?url="},
 [2022-12-18 16:12:25] 404:{"name":"追剧吧1","type":1,"url":"http://newjiexi.gotto.top/yun_apib.php/?url="},
+[2022-12-22 10:33:19] 404:{"name":"解析05","type":0,"url":"http://id190.tpddns.cn:81/jsonch/?url="},
