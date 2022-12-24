@@ -1,5 +1,5 @@
 {
-//Update:2022-12-24 22:17:20.560181
+//Update:2022-12-25 00:22:04.735460
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -620,9 +620,6 @@
 {"name":"解50","type":1,"url":"https://jx.ykyunbo.com/m3u8.php?url="},
 {"name":"解51","type":1,"url":"http://www.ikukk.com/?url="},
 {"name":"解54","type":1,"url":"http://api.diliktv.xyz/vip/jx.php?url="},
-{"name":"解63","type":1,"url":"http://vip.26db.cn/c/?url="},
-{"name":"解64","type":1,"url":"http://vip.26db.cn/f/?url="},
-{"name":"解65","type":1,"url":"http://vip.26db.cn/a/?url="},
 {"name":"解66","type":1,"url":"http://okjx.cc/?url="},
 {"name":"解87","type":1,"url":"https://www.ikukk.com/?url="},
 {"name":"zn","type":1,"url":"https://svip.znjson.com/api/?key=gX8j9IPvoQ5mFmlIzu&url="},
