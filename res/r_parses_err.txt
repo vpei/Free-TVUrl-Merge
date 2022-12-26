@@ -306,3 +306,4 @@
 [2022-12-25 00:12:54] 0:{"name":"解63","type":1,"url":"http://vip.26db.cn/c/?url="},
 [2022-12-25 00:12:56] 0:{"name":"解64","type":1,"url":"http://vip.26db.cn/f/?url="},
 [2022-12-25 00:12:57] 0:{"name":"解65","type":1,"url":"http://vip.26db.cn/a/?url="},
+[2022-12-26 10:35:34] 0:{"name":"YiTV","type":1,"url":"https://jiexi.us/?url="},

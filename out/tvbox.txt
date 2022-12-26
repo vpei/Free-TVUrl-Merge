@@ -1,5 +1,5 @@
 {
-//Update:2022-12-26 08:57:33.132949
+//Update:2022-12-26 10:44:17.005801
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -604,7 +604,6 @@
 {"name":"云解析","type":1,"url":"https://jx.ppflv.com/?url="},
 {"name":"迪奥","type":1,"url":"https://123.1dior.cn/?url="},
 {"name":"playerjy/B站","type":1,"url":"https://jx.playerjy.com/?url="},
-{"name":"YiTV","type":1,"url":"https://jiexi.us/?url="},
 {"name":"52","type":1,"url":"https://vip.52jiexi.top/?url="},
 {"name":"播放呀","type":1,"url":"https://jx.vk95.com/xx/?url="},
 {"name":"xfyun云","type":1,"url":"https://vip.xfyun.one/home/api?type=ys&uid=2581923&key=ceijpquvBMOSUVXZ23&url=","ext":{"flag":["xfyun"]}},
