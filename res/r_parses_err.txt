@@ -307,3 +307,4 @@
 [2022-12-25 00:12:56] 0:{"name":"解64","type":1,"url":"http://vip.26db.cn/f/?url="},
 [2022-12-25 00:12:57] 0:{"name":"解65","type":1,"url":"http://vip.26db.cn/a/?url="},
 [2022-12-26 10:35:34] 0:{"name":"YiTV","type":1,"url":"https://jiexi.us/?url="},
+[2022-12-26 16:14:41] 0:{"name":"灵谷","type":1,"url":"http://s.lingutv.cn/?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
