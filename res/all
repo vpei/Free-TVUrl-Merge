@@ -1,5 +1,5 @@
 "sites":[
-//Update:2022-12-27 18:19:48.647666
+//Update:2022-12-27 20:28:49.683777
 
 {"key":"Juhuang","name":"剧荒TV","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
@@ -949,10 +949,10 @@
 {"key":"csp_biubiu_伊雪湾","name":"🐛伊雪湾","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XB/伊雪湾.json"},
 {"key":"csp_biubiu_极品影视","name":"🐛极品影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XB/极品影视.json"},
 {"key":"csp_appysv2_小鸟动漫","name":"🐌小鸟动漫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
-{"key":"csp_CZSPP","name":"接口被限制即将停用，公众号：分享迷，回复：接口","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitcode.net/mtv9527/mao/-/raw/master/0902.jar;md5;D2DED0D4B8B12B325BFCD3B7D1ECD3EA"},
-{"key":"csp_Blixs","name":"接口被限制即将停用，公众号：分享迷，回复：接口","type":3,"api":"csp_Blixs","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://gitcode.net/mtv9527/mao/-/raw/master/0902.jar;md5;D2DED0D4B8B12B325BFCD3B7D1ECD3EA"},
+{"key":"csp_CZSPP","name":"接口被限制即将停用，公众号：分享迷，回复：接口","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_Blixs","name":"接口被限制即将停用，公众号：分享迷，回复：接口","type":3,"api":"csp_Blixs","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"csp_Blixq","name":"接口被限制即将停用，公众号：分享迷，回复：接口","type":3,"api":"csp_Blixq","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"csp_biubiu_厂长资源-蓝光","name":"接口被限制即将停用，公众号：分享迷，回复：接口","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/mtv9527/mao/-/raw/master/xb/changzhang.json","jar":"https://gitcode.net/mtv9527/mao/-/raw/master/0902.jar;md5;D2DED0D4B8B12B325BFCD3B7D1ECD3EA"},
+{"key":"csp_biubiu_厂长资源-蓝光","name":"接口被限制即将停用，公众号：分享迷，回复：接口","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/mtv9527/mao/-/raw/master/xb/changzhang.json"},
 {"key":"csp_biubiu_在线之家","name":"接口被限制即将停用，公众号：分享迷，回复：接口","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/7555/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json?sign=_JkbZasYLStEEBvY6kNP50KA6nG-d6W59N0HB9ZJNmY%3D%3A0","jar":"https://gitcode.net/mtv9527/mao/-/raw/master/0902.jar;md5;D2DED0D4B8B12B325BFCD3B7D1ECD3EA"},
 {"key":"csp_xpath_lezhutv","name":"接口被限制即将停用，公众号：分享迷，回复：接口","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/mtv9527/mao/-/raw/master/xb/lezhutv.json","jar":"https://gitcode.net/mtv9527/mao/-/raw/master/0902.jar;md5;D2DED0D4B8B12B325BFCD3B7D1ECD3EA"},
 {"key":"csp_xpath_ddg","name":"接口被限制即将停用，公众号：分享迷，回复：接口","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/mtv9527/mao/-/raw/master/xb/dadagui.json","jar":"https://gitcode.net/mtv9527/mao/-/raw/master/0902.jar;md5;D2DED0D4B8B12B325BFCD3B7D1ECD3EA"},
