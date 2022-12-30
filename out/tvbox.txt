@@ -1,5 +1,5 @@
 {
-//Update:2022-12-31 00:23:30.323599
+//Update:2022-12-31 02:28:35.885668
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -346,14 +346,6 @@
 {"key":"py","name":"py接口(打开储存权限)⬇","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json", "jar": "http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929"},
 {"key":"mtv_pc_动漫巴士","name":"爬虫┃动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_xp_小纸条源","name":"搜索┃小纸条源","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"},
-{"key":"mtv_xp_音乐演唱","name":"哔哩┃音乐演唱","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-音乐演唱.json"},
-{"key":"mtv_xp_戏曲杂苑","name":"哔哩┃戏曲杂苑","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-戏曲杂苑.json"},
-{"key":"mtv_xp_相声小品","name":"哔哩┃相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-相声小品.json"},
-{"key":"mtv_xp_女团热舞","name":"哔哩┃女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-女团热舞.json"},
-{"key":"mtv_xp_体育赛事","name":"哔哩┃体育赛事","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-体育赛事.json"},
-{"key":"mtv_xp_棋牌娱乐","name":"哔哩┃棋牌娱乐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-棋牌娱乐.json"},
-{"key":"mtv_xp_美食天地","name":"哔哩┃美食天地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-美食天地.json"},
 {"key":"mtv_xp_酷奇视频","name":"切片┃酷奇视频","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-酷奇视频.json"},
 {"key":"mtv_xp_农民影视","name":"切片┃农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-农民影视.json"},
 {"key":"mtv_xp_饭团影院","name":"切片┃饭团影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-饭团影院.json"},
