@@ -1281,3 +1281,4 @@
 [2022-12-31 04:17:11] 0:{"key":"mtv_xp_乐猪影院","name":"切片┃乐猪影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-乐猪影院.json"},
 [2022-12-31 04:18:28] 0:{"key":"mtv_xp_干饭影视","name":"切片┃干饭影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-干饭影视.json"},
 [2022-12-31 04:19:28] 0:{"key":"mtv_xp_VOFLIXS","name":"切片┃VOFLIXS","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-VOFLIXS.json"},
+[2022-12-31 06:14:50] 0:{"key":"mtv_xp_饭团影院","name":"切片┃饭团影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-饭团影院.json"},
