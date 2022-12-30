@@ -1,5 +1,5 @@
 "sites":[
-//Update:2022-12-31 02:28:35.886958
+//Update:2022-12-31 04:24:20.662810
 
 {"key":"Juhuang","name":"剧荒TV","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
@@ -347,12 +347,9 @@
 {"key":"mtv_xp_影视工厂","name":"切片┃影视工厂","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-影视工厂.json"},
 {"key":"mtv_xp_达龟影视","name":"切片┃达龟影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-达龟影视.json"},
 {"key":"mtv_xp_乐猪影视","name":"切片┃乐猪影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-乐猪影视.json"},
-{"key":"mtv_xp_乐猪影院","name":"切片┃乐猪影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-乐猪影院.json"},
 {"key":"mtv_xp_在线之家","name":"切片┃在线之家","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-在线之家.json"},
 {"key":"mtv_xp_厂长影视","name":"切片┃厂长影视","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-厂长影视.json"},
 {"key":"mtv_xp_蓝光影院","name":"切片┃蓝光影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-蓝光影院.json"},
-{"key":"mtv_xp_干饭影视","name":"切片┃干饭影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-干饭影视.json"},
-{"key":"mtv_xp_VOFLIXS","name":"切片┃VOFLIXS","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-VOFLIXS.json"},
 {"key":"mtv_xp_金眼影视","name":"切片┃金眼影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-金眼影视.json"},
 {"key":"mtv_xp_动漫巴士","name":"切片┃动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-动漫巴士.json"},
 {"key":"mtv_xp_动漫直链","name":"切片┃动漫直链","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-动漫直链.json"},
