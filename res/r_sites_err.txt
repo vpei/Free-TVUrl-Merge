@@ -1284,3 +1284,4 @@
 [2022-12-31 06:14:50] 0:{"key":"mtv_xp_饭团影院","name":"切片┃饭团影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-饭团影院.json"},
 [2022-12-31 08:52:34] 0:{"key":"mtv_xp_金眼影视","name":"切片┃金眼影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-金眼影视.json"},
 [2022-12-31 08:53:58] 0:{"key":"mtv_xp_六度影视","name":"切片┃六度影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-六度影视.json"},
+[2023-01-01 14:15:01] 0:{"key":"csp_xml___共青春","name":"🐝共青春影院","type":1,"api":"https://gqcyy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
