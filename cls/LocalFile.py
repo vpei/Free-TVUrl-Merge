@@ -19,6 +19,8 @@ class LocalFile(): # 将订阅链接中YAML，Base64等内容转换为 Url 链�
     def write_LogFile(fcont):
         print(fcont)
         fname = './tmp/err.log'
+        if(fcont.find('Exception') == -1):
+            fname = './tmp/info.log'
         fcont = '[' + datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S") + '] ' + fcont
         LocalFile.write_LocalFile(fname, fcont)
 
@@ -43,6 +45,7 @@ class LocalFile(): # 将订阅链接中YAML，Base64等内容转换为 Url 链�
             _file = open(fname, wtype, encoding='utf-8')
             _file.write(fcont.encode("utf-8").decode("utf-8"))
             _file.close()
-            print('LocalFile-Line-44-write-OK-wtype(a-add,w-write): ' + wtype + '-Size:' + str(fsize) + '-Path:' + fname)
+            if(fcont.find('Exception') > -1):
+                print('LocalFile-Line-49-Write-OK-Type(a-add,w-write): ' + wtype + '-Size:' + str(fsize) + '-Path:' + fname)
         except Exception as ex:
             print('LocalFile-Line-46-write-Exception:\n' + str(ex) + '\nPath:' + fname + '-Fcont:' + fcont)

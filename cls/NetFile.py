@@ -2,7 +2,7 @@
 
 import requests
 import urllib.request as urllib2
-# import urllib3
+import urllib3
 from cls.LocalFile import LocalFile
 
 class NetFile(): # 将订阅链接中YAML，Base64等内容转换为 Url 链接内容
@@ -10,10 +10,11 @@ class NetFile(): # 将订阅链接中YAML，Base64等内容转换为 Url 链接�
     def url_stat(r_url, linktime, readtime):
         retxt = 0
         try:
+            urllib3.disable_warnings()  # 将这段代码放到调用https的代码段中，避免其他模块调用时仍报该错
             requests.adapters.DEFAULT_RETRIES = 3 # 增加重连次数
             s = requests.session()
             s.keep_alive = False # 关闭多余连接
-            rq = s.get(r_url, timeout=(linktime, readtime))
+            rq = s.get(r_url, timeout=(linktime, readtime), verify=False)  # 发送https请求时，加入verify=False，忽略证书验证
             retxt = rq.status_code
             rq.close()
         except Exception as ex:
